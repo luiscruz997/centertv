@@ -12,6 +12,13 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 *********TEST TEST TEST TEST
 
+
+
+
+
+
+
+
 #EXTINF:-1, CHCH
 rtmp://54.85.197.21:1935/live playpath=news swfUrl=http://www.chch.com/wp-content/plugins/projekktorvm/src/StrobeMediaPlayback.swf?enableStageVideo=true&disableHardwareAcceleration=false&javascriptCallbackFunction=window.projekktorOSMFReadyad859d51e580abcf06b7185b94a962fa& pageUrl=http://www.chch.com/live/
 #EXTINF:-1, CFCN Lethbridge
@@ -113,10 +120,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 
 
 
-#EXTINF:-1,The Weather Network
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:-1,Fashion TV
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
 #EXTINF:-1,VEVO 1 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,VEVO 2 USA
@@ -137,22 +141,11 @@ http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1,Cpac
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
-#EXTINF:-1, CFCN Lethbridge
-http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
-#EXTINF:-1, CFCN Edmonton
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:-1, CFCN Yorkton
-http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
-#EXTINF:-1, CFCN Regina
-http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
 #EXTINF:0,Updated:7/27-HSN 1
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
-#EXTINF:0,All kinds of MOVIES 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/54f028dede2b7_/stream.m3u
 #EXTINF:0,Updated:7/27-HSN 2
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
 #EXTINF:-1,CPAC Français
-
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
 #EXTINF:-1, TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
@@ -166,10 +159,6 @@ http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1,i24news french
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:-1,RTBF.be
-rtmp://rtmp.rtbf.be:1935/livecast/stream7 swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.65.swf?sTitle=&bLd=0&sVersion=4%2E2%2E65&sDescription= pageUrl=http://www.rtbf.be/livecenter/live_purevision?id=19480
-#EXTINF:-1,ENCYCLO
-rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p?.mp4
 #EXTINF:-1, ENCYCLO
 http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
 #EXTINF:-1,ICI Radio-Canada Ottawa-Gatineau - CBOFT-DT
@@ -184,30 +173,18 @@ http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&re
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ICI Radio-Canada Télé Québec - CBVT-DT
 http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ICI Radio-Canada Télé Ottawa-Gatineau - CBOFT-DT
-
 http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ICI Radio-Canada Télé Trois-Rivières - CKTM-DT
-
 http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ICI Radio-Canada Télé Rimouski - CJBR-DT
-
 http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ICI Radio-Canada Télé Saguenay - CKTV-DT
-
 http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ICI Radio-Canada Télé Sherbrooke - CKSH-DT
-
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ICI Radio-Canada Télé Montréal
-
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
-
 #EXTINF:-1,ICI Radio-Canada Montréal
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
 #EXTINF:-1,TBN
@@ -217,7 +194,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, Grand Lille TV
 rtsp://str81.creacast.com/grandlilletv/high
 #EXTINF:-1, ROUGE TV CH
-http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8#EXTINF:-1, Weo HD
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1, Weo HD
 rtmp://str81.creacast.com:80/weo/high
 #EXTINF:-1,CANADA:SENATE LIVE bit.do
 http://bit.do/3C7k
@@ -229,24 +207,14 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:0,Updated:8/9-Twit TV (Tech News)
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:0,Updated:8/7-Investigation Discovery (ID)
-http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0,Updated:8/9-CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:0,Updated:8/7-TLC
-http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0,Updated:8/9-RT News
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
-#EXTINF:0,Updated:8/7-Animal Planet
-http://80.80.160.168/live/1/live.m3u8
 #EXTINF:0,Updated:8/3-NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0,Updated:8/3-CTV
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:-1, Notele Radio Francais
-rtmp://streaming06.axeweb.be:1935/live/direct.stream 
 #EXTINF:-1, Euronews Francais
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
 #EXTINF:-1, BFM Business Francais
@@ -259,18 +227,10 @@ rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
 #EXTINF:-1, arte
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1, Antenne Centre TV
-http://vm109.imust.org:1935/live/livestream/playlist.m3u8
-#EXTINF:-1, Rouge TV
-rtsp://rtmp.infomaniak.ch/livecast/rougetv
 #EXTINF:-1, La Tele
 rtsp://rtmp.infomaniak.ch/livecast/latele
 #EXTINF:0,Updated:8/9-Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,CTV 1
-http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
-#EXTINF:0,Updated:8/9-CTV 3
-http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
 #EXTINF:0,Updated:8/9-Weather Channel
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0,Updated:8/9-CCTV News
@@ -285,32 +245,8 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,ABC News (stream 2)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:0,Updated:8/3-iTV 1
-http://204.107.27.136/live/11.high.stream/11.high.stream/index.m3u8
-#EXTINF:0,Updated:8/3-iTV 2
-http://204.107.27.136/live/67.low.stream/67.low.stream/index.m3u8
-#EXTINF:0,Updated:8/3-iTV 3
-http://204.107.27.136/live/26.high.stream/26.high.stream/index.m3u8
-#EXTINF:0,Updated:8/3-iTV 4
-http://204.107.27.136/live/101.high.stream/101.high.stream/index.m3u8
-#EXTINF:-1, CFCN CTV Regina
-http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
-#EXTINF:0,Updated:8/9-News Asia
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
 #EXTINF:0,Updated:8/9-WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1, CFCN CTV Lethbridge
-http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
-#EXTINF:-1, CFCN CTV Edmonton
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:-1, CBC (english)
-rtmp://b.cdn.newschat.tv/edge pageUrl=http://www.livenewschat.eu/canada/?husham.com swfUrl=http://msnbclive.eu/player.swf playpath=cbc_live
-#EXTINF:-1, CBC News (canada)
-rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
-#EXTINF:-1, CTV NEWS
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:-1, CFCN CTV Yorkton
-http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
 #EXTINF:-1, CPAC Anglais
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1, ABC NEWS
@@ -321,144 +257,17 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
 http://veetle.com/index.php/hls/streamMbrFast/4e0e6f4dcc2d3_/stream.m3u
 #EXTINF:0,HQ Bollywood Movies 2 24/7 Random Air Time;Entertainment;US;English;
 http://veetle.com/index.php/hls/streamMbrFast/4dd469a36a357_/stream.m3u
-#EXTINF:0,HQ Bollywood Movies Classic 2 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/4e2c5fd04592d_/stream.m3u
-#EXTINF:0,8/8-Classic War Movies 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/4e7bd4cbe3e54_/stream.m3u
-#EXTINF:0,Old & New Movies 24/7 Random Air Time;Entertainment;US;English;
-http://veetle.com/index.php/hls/streamMbrFast/4cae6de01903d_/stream.m3u
-#EXTINF:-1,Channel 6 - City of Austin
-rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$ timeout=10
 #EXTINF:-1, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1, TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, HSN 2
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
-#EXTINF:-1,***Turky Turism***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,IQRA ISLAM CHANNEL France Arab
 rtmp://fl1.viastreaming.net:1935/iqraatv3/livestream swfUrl=http://iqraa.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://iqraa.com/Livestream/Livestream/africa?lng=en
-#EXTINF:0,FOX Italian
-http://212.51.146.19:4008
-#EXTINF:0,SKY Cinema Hits
-http://212.51.146.19:4002
-#EXTINF:0,Premium Cinema Italian
-http://109.202.195.76:5013
-#EXTINF:0,SVT1
-http://188.138.9.228:8001
-#EXTINF:0,SVT2
-http://188.138.9.228:8002
-#EXTINF:0,TV4
-http://188.138.9.228:8004
-#EXTINF:0,Kanal 5
-http://188.138.9.228:8005
-#EXTINF:0,SJUAN
-http://188.138.9.228:8007
-#EXTINF:0,Kanal 11
-http://188.138.9.228:8011
-#EXTINF:0,SVT Barnkanalen
-http://188.138.9.228:8013
-
-#EXTINF:0,svt24
-http://188.138.9.228:8013
-
-#EXTINF:0,C MORE- Hits
-http://188.138.9.228:8020
-
-#EXTINF:0,C MORE- Series
-http://188.138.9.228:8021
-
-#EXTINF:0,C MORE- ComedyCentral
-http://188.138.9.228:8022
-
-#EXTINF:0,C MORE- First
-http://188.138.9.228:8024
-
-#EXTINF:0,C MORE- Emotion
-http://188.138.9.228:8025
-
-#EXTINF:0,C MORE SERIES
-http://188.138.9.228:8021
-
-#EXTINF:0,C MORE COMEDY CENTRAL
-http://188.138.9.228:8022
 
 
 
-#EXTINF:0,C MORE FIRST
-http://188.138.9.228:8024
-
-#EXTINF:0,C MORE EMOTION
-http://188.138.9.228:8025
-
-#EXTINF:0,Kanal3
-http://188.138.9.228:8003
-
-#EXTINF:0,Kanal4
-http://188.138.9.228:8004
-
-#EXTINF:0,Kanal5
-http://188.138.9.228:8005
-
-#EXTINF:0,7 SJUAN  *GOOD
-http://188.138.9.228:8007
-#EXTINF:0, AXN BLACK HD
-http://4.31.30.159:9157
-#EXTINF:0, AXN WHITE HD
-http://4.31.30.159:9158
-#EXTINF:0,Kanal 11
-http://188.138.9.228:8011
-
-#EXTINF:-1,TV 4 sverige
-http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
-
-#EXTINF:0,TV 10 Sweden
-rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
-
-#EXTINF:-1,TV Haugaland
-rtmp://flash0.15561-live0.dna.qbrick.com/15561-live0/live1
-
-#EXTINF:0,TV2 Lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
-
-#EXTINF:0,TV2 Midt-Vest
-rtmp://live.tvmidtvest.dk/tvmv/live
-
-#EXTINF:0,TV2 Syd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
-
-#EXTINF:0,tv2lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
-
-#EXTINF:0,tv2nord
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
-
-#EXTINF:0,tvsyd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
-
-#EXTINF:0,tv2lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
-
-#EXTINF:0,tvmidtvest
-rtmp://live.tvmidtvest.dk/tvmv/live
-
-#EXTINF:0,tvsyd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
-
-#EXTINF:0,tv2fyn
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
-
-#EXTINF:0,tv2lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
-
-#EXTINF:0,tv2nord
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
-
-#EXTINF:0,tvsyd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
 
 
 
