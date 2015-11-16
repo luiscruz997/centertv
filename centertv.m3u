@@ -13,17 +13,335 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 *********TEST TEST TEST TEST
 
 
+#EXTINF:-1,CP24 NEWS – TORONTO
+http://goo.gl/84t2Yl
 
-#EXTINF:0,TSN 1 720 HD
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
-#EXTINF:0,TSN 2 720 HD
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
-#EXTINF:0,TSN 3 720 HD
-http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
-#EXTINF:0,TSN 4 720 HD
-http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-#EXTINF:0,TSN 5 720 HD
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:-1,CTV NEWS – TORONTO
+http://goo.gl/Jrpy3t
+
+#EXTINF:-1,CFCN – EDMONTON
+http://bit.do/3C6q
+
+#EXTINF:-1,CFCN – REGINA
+http://bit.do/3C6V
+
+#EXTINF:-1,CFCN – YORKTON
+http://bit.do/3C66
+
+#EXTINF:-1,CFCN – LETHBRIDGE
+http://bit.do/3C7d
+
+#EXTINF:-1,CANADA SENATE LIVE
+http://bit.do/3C7k
+
+#EXTINF:-1,RDS SPORTS 2
+http://goo.gl/rMz9GP
+
+#EXTINF:-1,RDS SPORTS 25
+http://goo.gl/2ODsgc
+
+#EXTINF:-1,RDS SPORTS
+http://goo.gl/i924oD
+
+#EXTINF:-1,TSC CANADA
+http://goo.gl/mYZDN6
+
+#EXTINF:-1,CTV
+http://198.179.31.198/live/2053.low.stream/2053.low.stream/index.m3u8
+
+#EXTINF:-1,CBC
+rtmp://d.cdn.newschat.tv/edge/cbc_live
+
+#EXTINF:-1,24/7 Action Movies
+http://50.7.69.186:1935/edge/_definst_/8t7yzaodzxwqguu/playlist.m3u8?wowzasessionid=1420172322
+
+#EXTINF:-1,24/7 HD Movies 1
+http://50.7.69.186:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
+
+#EXTINF:-1,24/7 Jackie Chan movies (1979-1990)
+http://50.7.69.186:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835
+
+#EXTINF:-1,24/7 NCIS
+http://50.7.69.186:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
+
+#EXTINF:-1,A&E SD
+http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480
+
+#EXTINF:-1,BEin Sport (Spanish)
+http://50.7.69.186:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+
+#EXTINF:-1,BEin Sport (USA) HD
+http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+
+#EXTINF:-1,Bravo
+http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,ESPN SD
+http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+
+#EXTINF:-1,ESPN 2 SD
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
+
+#EXTINF:-1,Food Network HD
+http://50.7.69.186:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
+
+#EXTINF:-1,FOX Movie Channel
+http://50.7.69.186:1935/edge/_definst_/hc992q7x7cz86t9/chunklist.m3u8?wowzasessionid=1419909438
+
+#EXTINF:-1,FOX News HD
+http://50.7.69.186:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+
+#EXTINF:-1,Golf Channel HD
+http://50.7.69.186:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+
+#EXTINF:-1,HBO Comedy
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+#EXTINF:-1,HBO SD
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
+#EXTINF:-1,History Channel (Europe)
+http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+
+#EXTINF:-1,MSNBC HD
+http://50.7.69.186:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
+
+#EXTINF:-1,MTV
+http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
+
+#EXTINF:-1,NBA Sport
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+
+#EXTINF:-1,NBC HD
+http://50.7.69.186:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1420249811
+
+#EXTINF:-1,NBC SD
+http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+
+#EXTINF:-1,NBC Sports Network HD
+http://50.7.69.186:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,Science HD
+http://50.7.69.186:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420249487
+
+#EXTINF:-1,Spike
+http://50.7.69.186:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+
+#EXTINF:-1,StarZ Movie Channel
+http://50.7.69.186:1935/edge/_definst_/8g7x80ozu6hz2ds/playlist.m3u8?wowzasessionid=1419874554
+
+#EXTINF:-1,The CW 44 HD
+http://50.7.69.186:1935/edge/_definst_/fvksu1sp51ijtyd/playlist.m3u8?wowzasessionid=1419879994
+
+#EXTINF:-1,24/7 Comedy Movies
+http://50.7.69.186:1935/edge/_definst_/z0r2suo285n8m0z/playlist.m3u8?wowzasessionid=1420172450
+
+#EXTINF:-1,24/7 Drama Movies
+http://50.7.69.186:1935/edge/_definst_/ia7kfnih3r09lnx/playlist.m3u8?wowzasessionid=1420172214
+
+#EXTINF:-1,24/7 HD Movies 2
+http://50.7.69.186:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620
+
+#EXTINF:-1,24/7 Jackie Chan movies (1991-2008)
+http://50.7.69.186:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797
+
+#EXTINF:-1,A&E HD
+http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467
+
+#EXTINF:-1,ABC Family
+http://50.7.69.186:1935/edge/_definst_/vx63a0c7mxk2jt8/manifest.m3u8?wowzasessionid=1426899363
+
+#EXTINF:-1,ABC Family
+http://50.7.69.186:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,abc 22
+http://50.7.69.186:1935/edge/_definst_/371jluirljcsjen/chunklist.m3u8?wowzasessionid=1420168303
+
+#EXTINF:-1,abc
+http://50.7.69.186:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,abc
+http://50.7.69.186:1935/edge/_definst_/5czfrhq0r6n7cr7/playlist.m3u8?wowzasessionid=1420395607
+
+#EXTINF:-1,AMC
+http://50.7.69.186:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,AMC
+http://50.7.69.186:1935/edge/_definst_/7pctmre0zfwsc24/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,AMC SD
+http://50.7.69.186:1935/edge/_definst_/7pctmre0zfwsc24/chunklist.m3u8?wowzasessionid=1426234496
+
+#EXTINF:-1,Animal Planet
+http://50.7.69.186:1935/edge/_definst_/4nm2ewg5jznklf0/chunklist.m3u8?wowzasessionid=1426892472
+
+#EXTINF:-1,BET
+http://50.7.69.186:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,Cartoon Network
+http://50.7.69.186:1935/edge/_definst_/p78zj79dhlxx3ws/playlist.m3u8?wowzasessionid=1420123962
+
+#EXTINF:-1,CBS HD
+http://50.7.69.186:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:-1,CBS HD
+http://50.7.69.186:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:-1,CNN USA HD
+http://50.7.69.186:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+
+#EXTINF:-1,CNN USA SD
+http://50.7.69.186:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,Discovery
+http://50.7.69.186:1935/edge/_definst_/ro7c9eha0z96hpp/playlist.m3u8?wowzasessionid=1419872569
+
+#EXTINF:-1,Discovery Channel HD
+http://50.7.69.186:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+
+#EXTINF:-1,Disney Channel
+http://50.7.69.186:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170626
+
+#EXTINF:-1,ESPN HD
+http://50.7.69.186:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+
+#EXTINF:-1,ESPN HD
+http://50.7.69.186:1935/edge/_definst_/dp2g1w4ip6v0zoc/playlist.m3u8?wowzasessionid=1419906402
+
+#EXTINF:-1,Food Network SD
+http://50.7.69.186:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+
+#EXTINF:-1,FOX 45 HD
+http://50.7.69.186:1935/edge/_definst_/q49uyvij145wcky/chunklist.m3u8?wowzasessionid=1419942680
+
+#EXTINF:-1,FOX 45 SD
+http://50.7.69.186:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
+
+#EXTINF:-1,FOX News SD
+http://50.7.69.186:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
+
+#EXTINF:-1,FX
+http://50.7.69.186:1935/edge/_definst_/hrjtbc6cg6tbtgz/playlist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:-1,Golf Channel SD
+http://50.7.69.186:1935/edge/_definst_/lw1kufim1kmit1h/playlist.m3u8?wowzasessionid=1420169504
+
+#EXTINF:-1,Hallmark HD
+http://50.7.69.186:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+
+#EXTINF:-1,HBO HD
+http://50.7.69.186:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+
+#EXTINF:-1,HGTV
+http://50.7.69.186:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+
+#EXTINF:-1,HGTV
+http://50.7.69.186:1935/edge/_definst_/gj65q2rg18tpmut/chunklist.m3u8?wowzasessionid=1419811602
+
+#EXTINF:-1,History Channel (USA)
+http://50.7.69.186:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+
+#EXTINF:-1,I.D.
+http://50.7.69.186:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:-1,Lifetime
+http://50.7.69.186:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,Lifetime
+http://50.7.69.186:1935/edge/_definst_/7b2gr554gyyth8e/chunklist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,MSNBC SD
+http://50.7.69.186:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+
+#EXTINF:-1,Nat GEO HD
+http://50.7.69.186:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+
+#EXTINF:-1,Nat GEO SD
+http://50.7.69.186:1935/edge/_definst_/b8bav5ayzso8m8q/chunklist.m3u8?wowzasessionid=1419872569
+
+#EXTINF:-1,Nat GEO Wild
+http://50.7.69.186:1935/edge/_definst_/thxtp7p419psf9j/chunklist.m3u8?wowzasessionid=1426891823
+
+#EXTINF:-1,NBA Live TV
+http://50.7.69.186:1935/edge/_definst_/9mfz7jkikuatfqz/playlist.m3u8?wowzasessionid=1420168629
+
+#EXTINF:-1,NBA Live TV
+http://50.7.69.186:1935/edge/_definst_/d3ku4emysq0an9d/playlist.m3u8?wowzasessionid=1420168738
+
+#EXTINF:-1,NBA Live TV
+http://50.7.69.186:1935/edge/_definst_/imn900y0svcrdzu/playlist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:-1,NBA Live TV
+http://50.7.69.186:1935/edge/_definst_/8xqw0j3uksr7m8c/playlist.m3u8?wowzasessionid=1420168704
+
+#EXTINF:-1,NBC Sports Network SD
+http://50.7.69.186:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,Nickelodeon
+http://50.7.69.186:1935/edge/_definst_/q2hs5fqm8b039y0/chunklist.m3u8?wowzasessionid=1420206368
+
+#EXTINF:-1,OWN
+http://50.7.69.186:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+
+#EXTINF:-1,Oxygen
+http://50.7.69.186:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,Showtime
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+
+#EXTINF:-1,Showtime Movies
+http://50.7.69.186:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
+
+#EXTINF:-1,StarZ
+http://50.7.69.186:1935/edge/_definst_/jw0ygi8ojhsw1t3/playlist.m3u8?wowzasessionid=1420170032
+
+#EXTINF:-1,SyFy HD
+http://50.7.69.186:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
+
+#EXTINF:-1,SyFy SD
+http://50.7.69.186:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+
+#EXTINF:-1,tbs
+http://50.7.69.186:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+
+#EXTINF:-1,The CW HD
+http://50.7.69.186:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868
+
+#EXTINF:-1,The CW SD
+http://50.7.69.186:1935/edge/_definst_/qvvkvojlano9hnj/manifest.m3u8?wowzasessionid=1426889772
+
+TLC
+http://50.7.69.186:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+
+#EXTINF:-1,TNT HD
+http://50.7.69.186:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:-1,TNT SD
+http://50.7.69.186:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
+
+#EXTINF:-1,Travel Channel
+http://50.7.69.186:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+
+#EXTINF:-1,Travel Channel SD
+http://50.7.69.186:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
+
+#EXTINF:-1,TruTV
+http://50.7.69.186:1935/edge/_definst_/uhnr4161ybioa5w/chunklist.m3u8?wowzasessionid=1420124955
+
+#EXTINF:-1,TruTV
+http://50.7.69.186:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
+
+#EXTINF:-1,TV Land
+http://50.7.69.186:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+
+#EXTINF:-1,Univision
+http://50.7.69.186:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
+
+#EXTINF:-1,USA Network
+http://50.7.69.186:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+#EXTINF:-1,VH-1
+http://50.7.69.186:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
 
 
 
