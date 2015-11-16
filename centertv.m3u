@@ -12,9 +12,36 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 *********TEST TEST TEST TEST
 
-#EXTINF:0,Sportsnet 360
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
+#EXTINF:0, RTP
+http://4.31.30.159:9116
+#EXTINF:0, PFC SPORTS
+http://4.31.30.159:9119
+#EXTINF:0, MOV HD
+http://4.31.30.159:9131
+#EXTINF:0, HOLLYWOOD
+http://4.31.30.159:9133
+#EXTINF:0, MOTORS TV
+http://4.31.30.159:9134
+#EXTINF:0, MAGIA
+http://4.31.30.159:9148
+#EXTINF:0, MUSIC TV
+http://4.31.30.159:9149
+#EXTINF:0, AXN BLACK HD
+http://4.31.30.159:9157
+#EXTINF:0, AXN WHITE HD
+http://4.31.30.159:9158
+#EXTINF:0, DISCOVERY
+http://4.31.30.159:9072
+#EXTINF:0, TSN 1
+http://4.31.30.159:9082
+#EXTINF:0, TSN 2
+http://4.31.30.159:9083
+#EXTINF:0, TSN 3
+http://4.31.30.159:9084
+#EXTINF:0, TSN 4
+http://4.31.30.159:9085
+#EXTINF:0, TSN 5
+http://4.31.30.159:9086
 
 
 #EXTINF:0,Global (Canada)
