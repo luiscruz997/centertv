@@ -12,156 +12,65 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 *********TEST TEST TEST TEST
 
-#EXTM3U
-#EXTINF:-1,Fashion TV
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
-#EXTINF:-1,TLC
-http://202.75.23.34/live/ch35/01.m3u8
-#EXTINF:-1,Beauty TV
-rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
-#EXTINF:-1,Home And Health
-http://202.75.23.34/live/ch34/01.m3u8
-#EXTINF:-1,Discovery Channel
-http://202.75.23.34/live/ch29/03.m3u8?b?b*t$
-#EXTINF:-1,Discovery World
-http://202.75.23.34/live/ch30/01.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://202.75.23.35/live/ch39/03.m3u8?b?b*t$
-#EXTINF:-1,National Geographic
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?b?b*t$
-#EXTINF:-1,Animal Planet HD
-http://202.75.23.34/live/ch31/03.m3u8?b?b*t$
-#EXTINF:0,MTV HITS
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$
-#EXTINF:0,MTV ROCKS
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$
-#EXTINF:0,MTV DANCE
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$
-#EXTINF:0,VH1
-rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/?b?b*t$
-#EXTINF:-1,VEVO 1 USA
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,VEVO 2 USA
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,VEVO 3 USA
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,LIVE MOTORSPORT USA
-http://motorsport.hopto.org:8080/
-#EXTINF:-1 , Big Ten Network HD (720)
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8?husham.com
-#EXTINF:-1, Sports1
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to
-#EXTINF:-1, Sports2
-#EXTINF:-1, Sports3
-rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
-#EXTINF:-1, Sports4
-rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1,FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1,FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1,ESPN BaseBall Today
-http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8 
-#EXTINF:-1,ESPN Football Today
-http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1,Fox Premiers
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,Fox Action
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
-#EXTINF:-1, FOX CINEMA
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-#EXTINF:-1,Fox Family
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=343&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,FOX CLASSICS
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
- #EXTINF:-1,FILM ZONE HD
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-#EXTINF:-1, CTV NEWS
+#EXTINF:-1, CHCH
+rtmp://54.85.197.21:1935/live playpath=news swfUrl=http://www.chch.com/wp-content/plugins/projekktorvm/src/StrobeMediaPlayback.swf?enableStageVideo=true&disableHardwareAcceleration=false&javascriptCallbackFunction=window.projekktorOSMFReadyad859d51e580abcf06b7185b94a962fa& pageUrl=http://www.chch.com/live/
+#EXTINF:-1, CFCN Lethbridge
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+#EXTINF:-1, CFCN Edmonton
 http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-#EXTINF:-1, DANCE TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-#EXTINF:0,TSN 1 720 HD
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
-#EXTINF:0,TSN 2 720 HD
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
-#EXTINF:0,TSN 3 720 HD
-http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
-#EXTINF:0,TSN 4 720 HD
-http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-#EXTINF:0,TSN 5 720 HD
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
-#EXTINF:0, RDS 1 HD (French)
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
-#EXTINF:0, RDS Info HD
-http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
-#EXTINF:0, RDS 2 HD (French)
+#EXTINF:-1, CFCN Yorkton
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+#EXTINF:-1, CFCN Regina
+http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
+#EXTINF:-1, CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1,Cpac
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
+#EXTINF:-1,CTV NEWS CHANNEL HD (CANADA)
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8
+#EXTINF:-1,CP 24 NEWSCHANNEL HD (CANADA)
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+#EXTINF:-1,LCN NEWS
+rtmp://cp39414.live.edgefcs.net/live/lcn2@9754
+#EXTINF:-1,MATV
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,RDS 2
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
-#EXTINF:0, RDS 25 HD (French)
+#EXTINF:-1,RDS 25
 http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
-#EXTINF:-1,SPORTSNET 360HD CANADA HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF: 0, TNT
-http://peerstv.ufanet.ru/tv/1011/index.m3u8
-#EXTINF: 0, MTV
-http://peerstv.ufanet.ru/tv/1284/index.m3u8
-#EXTINF:-1,MTV
-http://83.139.104.101/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
-#EXTINF: 0, Nickelodeon
-http://peerstv.ufanet.ru/tv/1109/index.m3u8
-#EXTINF: 0, Sports
-http://peerstv.ufanet.ru/tv/1114/index.m3u8
-#EXTINF: 0, Sport 1
-http://peerstv.ufanet.ru/tv/1115/index.m3u8
-#EXTINF: 0, History
-http://peerstv.ufanet.ru/tv/1145/index.m3u8
-#EXTINF: 0, Bravo
-http://87.248.160.8/edge/smil:tnt/playlist.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
-EXTINF:-0,ANIMAL PLANET
-http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
-#EXTINF:-0, CINEMAX
-http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
-#EXTINF:0, STAR SPORTS
-http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
-#EXTINF:-0, CHANNEL V
-http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd-1096k.m3u8
-#EXTINF:-0, FASHION HD
-http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd-2096k.m3u8
-#‎EXTINF‬:-1,HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:-1,STAR MOVIE HD
-http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
-#EXTINF:-1,AXN HD
-http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
-#EXTINF:-1,CINESTAR
-http://83.139.104.107/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
-#EXTINF:-1,CINESTAR AT
-http://83.139.104.107/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://83.139.104.107/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
-#EXTINF:-1,CINESTAR PREMHERE 2
-http://83.139.104.107/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://83.139.104.107/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://83.139.104.107/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
-#EXTINF:-1,MTV
-http://83.139.104.107/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://83.139.104.107/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,2 RDS info
+http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+#EXTINF:-1,TSN 1
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:-1,TSN 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:-1,The Weather Network
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1, TSC The shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -206,8 +115,24 @@ http://83.139.104.107/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3
 
 #EXTINF:-1,The Weather Network
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:0, MAGIA
-http://4.31.30.159:9148
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,VEVO 1 USA
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2 USA
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3 USA
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,LIVE MOTORSPORT USA
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,ESPN BaseBall Today
+http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8 
+#EXTINF:-1,ESPN Football Today
+http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
 #EXTINF:-1, CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1,Cpac
