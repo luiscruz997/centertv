@@ -12,113 +12,57 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 *********TEST TEST TEST TEST
 
-#EXTINF:-1, BT Sport 1
-http://46.28.55.160:1935/iptv/bt1/playlist.m3u8
-#EXTINF:-1, BT Sport 2
-http://46.28.55.160:1935/iptv/bt2/playlist.m3u8 
-#EXTINF:0,USA: TSN 1 USA
-http://stream-full.selfip.com:8000/live/jack/jack/303.ts
-#EXTINF:0,USA: TSN 2 USA
-http://stream-full.selfip.com:8000/live/jack/jack/304.ts
-#EXTINF:0,USA: TSN 3 USA
-http://stream-full.selfip.com:8000/live/jack/jack/305.ts
-#EXTINF:0,USA: TSN 4 USA
-http://stream-full.selfip.com:8000/live/jack/jack/306.ts
-#EXTINF:0,USA: TSN 5 USA
-http://stream-full.selfip.com:8000/live/jack/jack/307.ts
-#EXTINF:0,USA : Fox Sports 1 HD
-http://stream-full.selfip.com:8000/live/jack/jack/308.ts
-#EXTINF:0,USA : Fox Sports 2 HD
-http://stream-full.selfip.com:8000/live/jack/jack/309.ts
-#EXTINF:0,USA : NFL HD
-http://stream-full.selfip.com:8000/live/jack/jack/578.ts
-#EXTINF:0,USA : NBC HD
-http://stream-full.selfip.com:8000/live/jack/jack/577.ts
-#EXTINF:0,USA: Tennis
-http://stream-full.selfip.com:8000/live/jack/jack/561.ts
-#EXTINF:0,USA: NATGEO HD
-http://stream-full.selfip.com:8000/live/jack/jack/563.ts
-#EXTINF:0,USA
-http://stream-full.selfip.com:8000/live/jack/jack/315.ts
-#EXTINF:0,USA: DISCOVERY
-http://stream-full.selfip.com:8000/live/jack/jack/559.ts
-#EXTINF:0,USA : HIFI HD
-http://stream-full.selfip.com:8000/live/jack/jack/579.ts
-#EXTINF:0,USA : FOX HD
-http://stream-full.selfip.com:8000/live/jack/jack/576.ts
-#EXTINF:0,USA : CBS HD
-http://stream-full.selfip.com:8000/live/jack/jack/574.ts
-#EXTINF:0,USA : CBC HD
-http://stream-full.selfip.com:8000/live/jack/jack/575.ts
-#EXTINF:-1,,HBO Zone
-http://alturl.com/w623g
 
-#EXTINF:-1, HBO West
-http://alturl.com/yffih
 
-#EXTINF:-1, HBO Signature Latinoamerica
-http://alturl.com/8s7dc
+#EXTINF:-1, TSN 1
+http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 2
+http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 3
+http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 4
+http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 5
+http://37.187.248.101:8080/tsn5.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
 
-#EXTINF:-1, HBO Signature East
-http://alturl.com/6zuo4
-
-#EXTINF:-1, HBO Plus Oeste
-http://alturl.com/92tri
-
-#EXTINF:-1, HBO Plus Este
-http://alturl.com/moemn
-
-#EXTINF:-1, HBO Latinoamerica
-http://alturl.com/yijtk
-
-#EXTINF:-1, HBO Family Latinoamerica
-http://alturl.com/ugvoc
-
-#EXTINF:-1, HBO Family East
-http://alturl.com/zosjg
-
-#EXTINF:-1, HBO East
-http://alturl.com/fmzew
-
-#EXTINF:-1, HBO Comedy East
-http://alturl.com/j2wpc
-
-#EXTINF:-1, HBO 2 West
-http://alturl.com/mgrii
-
-#EXTINF:-1, HBO 2 Latinoamerica
-http://alturl.com/96hf3
-
-#EXTINF:-1, HBO 2 East
-http://alturl.com/ynddr
-
-#EXTINF:-1 ,NRJ12
-rtmp://frtvonline.no-ip.be/live/nrj12b
-
-#EXTINF:-1 ,TMC
-rtmp://frtvonline.no-ip.be/live/tmcb
-
-#EXTINF:-1 ,D8
-rtmp://frtvonline.no-ip.be/live/d8b
-
-#EXTINF:-1 ,W9
-rtmp://frtvonline.no-ip.be/live/w9b
-
-#EXTINF:-1 ,D17
-rtmp://frtvonline.no-ip.be/live/d17b
-
-#EXTINF:-1 ,ARTE
-rtmp://frtvonline.no-ip.be/live/arte
-
-#EXTINF:-1 ,BFM TV
-rtmp://frtvonline.no-ip.be/live/bfmtvb
-
-#EXTINF:-1 ,I TELE
-rtmp://frtvonline.no-ip.be/live/iteleb
-
-#EXTINF:-1 ,GULLI
-rtmp://frtvonline.no-ip.be/live/gullib
-
+#EXTINF:-1,sky sport 1
+http://167.114.41.220:8080/sPPORTSONE/ONE/index.m3u8
+#EXTINF:-1,sky sport 2
+http://167.114.41.220:8080/Spooorts/TWO/index.m3u8
+#EXTINF:-1,sky sport 3
+http://167.114.41.220:8080/SPorts/THEREE/index.m3u8
+#EXTINF:-1,sky sport 4
+http://167.114.41.220:8080/SPORTS/Four/index.m3u8
+#EXTINF:-1,sky sport 5
+http://167.114.41.220:8080/SPorts/FIve/index.m3u8
+#EXTINF:-1,bt1
+http://167.114.41.220:8080/fuckyou/baba1/index.m3u8
+#EXTINF:-1,fox1 sports usa hd
+http://37.157.246.170:8000/fuckyoubaba1/fox/usa1/index.m3u8
+#EXTINF:-1,fox sport usa 2 hd
+http://37.157.246.170:8000/fuckyoubab1fox/usa2/index.m3u8
+star sport1
+http://167.114.41.220:8080/sstar111/111/index.m3u8
+STAR SPORT2
+http://167.114.41.220:8080/sstar222/2222/index.m3u8
+STAR SPORT 4
+http://167.114.41.220:8080/sstarr4/444/index.m3u8
+Boxnationnn
+http://167.114.41.220:8080/bboxnation/boxnationnn/index.m3u8
+Manutd
+http://167.114.41.220:8080/mmManutd/manutd/index.m3u8
+#EXTINF:-1,tsn 1
+http://167.114.41.220:8080/tsnn1/tsn1/index.m3u8
+#EXTINF:-1,tsn 2
+http://167.114.41.220:8080/tsn22/tsn2/index.m3u8
+#EXTINF:-1,tsn 3
+http://167.114.41.220:8080/tsn3/tssn3/index.m3u8
+#EXTINF:-1,tsn 4
+http://167.114.41.220:8080/tsn4/tsn444/index.m3u8
+#EXTINF:-1,tsn 5
+http://167.114.41.220:8080/tsn5/tssnn5/index.m3u8
+#EXTINF:-1,f1
+http://167.114.41.220:8080/F1/F1sports/index.m3u8
 
 
 
@@ -203,8 +147,6 @@ rtmp://frtvonline.no-ip.be/live/gullib
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, TSC The shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
-#EXTINF:-1,VTV (French)
-rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
 #EXTINF:-1,VEVO 2 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,VEVO 3 USA
