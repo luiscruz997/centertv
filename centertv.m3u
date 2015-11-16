@@ -12,18 +12,40 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 *********TEST TEST TEST TEST
 
-#EXTINF:-1,TSN5
-http://37.187.248.101:8080/tsn5.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
-#EXTINF:-1,TSN4
-http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
-#EXTINF:-1,TSN3
-http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
-#EXTINF:-1,TSN1
-http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
-#EXTINF:-1,TSN2
-http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1,TSN 1
+http://4.31.30.159:9082
+#EXTINF:-1,TSN 2
+http://4.31.30.159:9083
+#EXTINF:-1,TSN 3
+http://4.31.30.159:9084
+#EXTINF:-1,TSN 4
+http://4.31.30.159:9085
+#EXTINF:-1,TSN 5
+http://4.31.30.159:9086
 
 
+
+#EXTINF:0,TSN 1
+http://4.31.30.159:9082
+#EXTINF:0,TSN 2
+http://4.31.30.159:9083
+#EXTINF:0,TSN 3
+http://4.31.30.159:9084
+#EXTINF:0,TSN 4
+http://4.31.30.159:9085
+#EXTINF:0,TSN 5
+http://4.31.30.159:9086
+
+EXTINF:0,TSN 1 720 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,TSN 2 720 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,TSN 3 720 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,TSN 4 720 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:0,TSN 5 720 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
 
 
 
