@@ -12,7 +12,35 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 *********TEST TEST TEST TEST
 
+#EXTINF:-1,CP 24 NEWSCHANNEL HD (CANADA)
+ 
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+ 
+#EXTINF:-1,CTV NEWS CHANNEL HD (CANADA)
+ 
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8
 
+
+#EXTINF:-1,TSN 1 720 HD
+ 
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+ 
+‪#‎EXTINF‬:-1,TSN 2 720 HD
+ 
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+ 
+#EXTINF:-1,TSN 3 720 HD
+ 
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+ 
+ 
+#EXTINF:-1,TSN 4 720 HD
+ 
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+ 
+#EXTINF:-1,TSN 5 720 HD
+ 
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
 
 
 
