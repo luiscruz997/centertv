@@ -14,16 +14,66 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 
 
-#EXTINF:0,:-1,TSN 1 720 HD
+#EXTINF:0,TSN 1 720p
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
-#EXTINF:0,:-1,TSN 2 720 HD
+#EXTINF:0,TSN 2 720P
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
-#EXTINF:0,:-1,TSN 3 720 HD
+#EXTINF:0,TSN 3 720P
 http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
-#EXTINF:0,:-1,TSN 4 720 HD
-http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-#EXTINF:0,:-1,TSN 5 720 HD
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:0,TSN 4 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,TSN 5 720P
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+
+#EXTINF:0,Viasat Sport
+http://93.184.221.133/00573D/1341/1341-0.m3u8
+
+#EXTINF:0,3Sport 1
+http://93.184.221.133/00573D/236/236-0.m3u8
+
+#EXTINF:0,3Sport
+http://93.184.221.133/00573D/837/837-0.m3u8
+
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:0,Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:-1, Bt sports 2 HD
+http://109.123.70.48/hls/channel11.m3u8?s=MBXrf
+#EXTINF:-1,premier sports
+http://109.123.70.48/hls/channel8.m3u8?s=MBXrf
+#EXTINF:-1, Sky sports news
+http://109.123.70.48/hls/channel5.m3u8?s=MBXrf
+#EXTINF:-1, Bt sports 1 HD
+http://109.123.70.48/hls/channel6.m3u8?s=MBXrf
+#EXTINF:-1, Bt sports 2 HD
+http://109.123.70.48/hls/channel7.m3u8?s=MBXrf
+#EXTINF:-1, Sky sports 1HD
+http://109.123.70.48/hls/channel1.m3u8?s=MBXrf
+#EXTINF:-1, Sky sports 2 HD
+http://109.123.70.48/hls/channel2.m3u8?s=MBXrf
+#EXTINF:-1, Sky sports 3 HD
+http://109.123.70.48/hls/channel3.m3u8?s=MBXrf
+#EXTINF:-1, Sky sports 4 HD
+http://109.123.70.48/hls/channel4.m3u8?s=MBXrf7
+#EXTINF:-1,BOX NATION
+http://109.123.70.48/hls/channel9.m3u8?s=MBXrf
+#EXTINF:-1,Racing UK
+http://109.123.70.48/hls/channel10.m3u8?s=MBXrf
+#EXTINF:-1,ESPN
+http://109.123.70.48/hls/channel12.m3u8?s=MBXrf
+#EXTINF:-1,Sport Klub 1 HD
+http://128.199.38.73:8081/live/SportKlub1/playlist.m3u8
+#EXTINF:-1,Sport Klub 2 HD
+http://128.199.38.73:8081/live/SportKlub2/playlist.m3u8
+#EXTINF:-1,Sport Klub 3 HD
+http://128.199.38.73:8081/live/SportKlub3/playlist.m3u8 
 
 
 
