@@ -14,133 +14,27 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 
 
+#EXTINF:0,:-1,TSN 1 720 HD
 
-#EXTINF:0, Y-TV
- http://4.31.30.159:9001
- #EXTINF:0, FAMILY
- http://4.31.30.159:9002
- #EXTINF:0, HOT (18+)
- http://4.31.30.159:9003
- #EXTINF:0, VH1
- http://4.31.30.159:9004
- #EXTINF:0, PORN HD (18+)
- http://4.31.30.159:9005
- #EXTINF:0, Playboy
- http://4.31.30.159:9006
- #EXTINF:0, DIRECTO
- http://4.31.30.159:9007
- #EXTINF:0, TVO KIDS
- http://4.31.30.159:9008
- #EXTINF:0, SPIKE
- http://4.31.30.159:9009
- #EXTINF:0, City
- http://4.31.30.159:9010
- #EXTINF:0,Channel 9011
- http://4.31.30.159:9011
- #EXTINF:0, KANAL DOZE
- http://4.31.30.159:9012
- #EXTINF:0, TPA
- http://4.31.30.159:9013
- #EXTINF:0, !
- http://4.31.30.159:9014
- #EXTINF:0, NICKELODEON
- http://4.31.30.159:9019
- #EXTINF:0, Channel 9021
- http://4.31.30.159:9021
- #EXTINF:0, MOTORSPORTS
- http://4.31.30.159:9023
- #EXTINF:0, CIELO
- http://4.31.30.159:9024
- #EXTINF:0, Food Network
- http://4.31.30.159:9028
- #EXTINF:0, M3
- http://4.31.30.159:9031
- #EXTINF:0, HISTORY
- http://4.31.30.159:9035
- #EXTINF:0, KIDS
- http://4.31.30.159:9036
- #EXTINF:0, CINE MUNDO
- http://4.31.30.159:9037
- #EXTINF:0, AMC
- http://4.31.30.159:9038
- #EXTINF:0,Channel 9039
- http://4.31.30.159:9039
- #EXTINF:0, GLOBAL TORONTO
- http://4.31.30.159:9041
- #EXTINF:0,Channel 9045
- http://4.31.30.159:9045
- #EXTINF:0, HG TV
- http://4.31.30.159:9046
- #EXTINF:0, TVI
- http://4.31.30.159:9052
- #EXTINF:0,Channel 30
- http://4.31.30.159:9056
- #EXTINF:0, SOL TV
- http://4.31.30.159:9061
- #EXTINF:0,Channel 32
- http://4.31.30.159:9062
- #EXTINF:0,Channel 33
- http://4.31.30.159:9066
- #EXTINF:0, DISCOVERY
- http://4.31.30.159:9072
- #EXTINF:0,Channel 35
- http://4.31.30.159:9074
- #EXTINF:0, RAI 2
- http://4.31.30.159:9080
- #EXTINF:0, TG 3
- http://4.31.30.159:9081
- #EXTINF:0, TSN 1
- http://4.31.30.159:9082
- #EXTINF:0, TSN 2
- http://4.31.30.159:9083
- #EXTINF:0, TSN 3
- http://4.31.30.159:9084
- #EXTINF:0, TSN 4
- http://4.31.30.159:9085
- #EXTINF:0, TSN 5
- http://4.31.30.159:9086
- #EXTINF:0,Channel 43
- http://4.31.30.159:9087
- #EXTINF:0,Channel 44
- http://4.31.30.159:9088
- #EXTINF:0,Channel 45
- http://4.31.30.159:9090
- #EXTINF:0,Channel 46
- http://4.31.30.159:9091
- #EXTINF:0, TOROS
- http://4.31.30.159:9095
- #EXTINF:0,Channel 48
- http://4.31.30.159:9096
- #EXTINF:0,Channel 49
- http://4.31.30.159:9101
- #EXTINF:0, ABC FAMILY
- http://4.31.30.159:9109
- #EXTINF:0, SPORTS 1
- http://4.31.30.159:9110
- #EXTINF:0, SPORTS 2
- http://4.31.30.159:9111
- #EXTINF:0,Channel 53
- http://4.31.30.159:9112
- #EXTINF:0, CHRISTIAN CHANNEL
- http://4.31.30.159:9115
- #EXTINF:0, RTP
- http://4.31.30.159:9116
- #EXTINF:0, PFC SPORTS
- http://4.31.30.159:9119
- #EXTINF:0, MOV HD
- http://4.31.30.159:9131
- #EXTINF:0, HOLLYWOOD
- http://4.31.30.159:9133
- #EXTINF:0, MOTORS TV
- http://4.31.30.159:9134
- #EXTINF:0, MAGIA
- http://4.31.30.159:9148
- #EXTINF:0, MUSIC TV
- http://4.31.30.159:9149
- #EXTINF:0, AXN BLACK HD
- http://4.31.30.159:9157
- #EXTINF:0, AXN WHITE HD
- http://4.31.30.159:9158
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0,:-1,TSN 2 720 HD
+
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0,:-1,TSN 3 720 HD
+
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0,:-1,TSN 4 720 HD
+
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+
+#EXTINF:0,:-1,TSN 5 720 HD
+
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+
+
 
 
 
