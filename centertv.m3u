@@ -3,34 +3,114 @@
 http://0.0.0.0:1234
 #EXTM3U
 
+#EXTINF:-1,NRJ TV-sd(Music)
 
-#EXTINF:-1,SPOR:AD SPORTS1
+http://rtmp.infomaniak.ch:1935/livecast/energytv/HasBahCa.m3u8
 
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+#EXTINF:-1, OM5 TV-SD(french)
 
-#EXTINF:-1,SPOR:BEIN SPORT 1 HD - BEIN SPORT 1 HD
+http://ec.playmedia.fr/om5-tv/live/HasBahCa.m3u8
 
-http://master.nika.rs.ba:80/live?channelId=11&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1, Party Tv HD (Music)
 
-#EXTINF:-1,SPOR:CANAL+ SPORT - CANAL+ SPORT
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 
-http://master.nika.rs.ba:80/live?channelId=17&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1, PTC Belgium (french)
 
-#EXTINF:-1,SPOR:SKY BUNDES LIGA 1 - SKY BUNDES LIGA 1
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
 
-http://master.nika.rs.ba:80/live?channelId=140&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1, TV COM -sd(french)
 
-#EXTINF:-1,SPOR:SKY SPORT DE 1 HD - SKY SPORT DE 1 HD
+rtsp://37.59.47.86:8000/tvcom_live2.sdp
 
-http://master.nika.rs.ba:80/live?channelId=141&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,TVM Est Parisien-sd
 
-#EXTINF:-1,SPOR:SKY SPORT DE 2 HD - SKY SPORT DE 2 HD
+http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
 
-http://master.nika.rs.ba:80/live?channelId=142&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,VOX Music HD
 
-#EXTINF:-1,SPOR:SPORT KLUB 1 HD - SPORT KLUB 1 HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
 
-http://master.nika.rs.ba:80/live?channelId=136&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1, Rock Tv HD (Music)
+
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:0,RDS
+
+rtmp://195.154.199.58:1935/live/20 swfUrl=http://sostart.org/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,185 token=SECURET0KEN#yw%.?()@W! live=1 timeout=14 swfVfy=1 pageUrl=http://sostart.org/stream.php?id=20&width=630&height=450
+
+#EXTINF:-1,2M
+
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+
+#EXTINF:-1,RDS 2
+
+http://192.99.39.240:1935/flu555/_definst_/rds2/playlist.m3u8?token=
+
+#EXTINF:0,NFL Network
+
+http://167.114.119.209:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+
+#EXTINF:0,NFL Network (Alternate)
+
+http://64.100.15.201/udp/239.255.2.5:10001
+
+#EXTINF:-1,NBA
+
+http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+
+#EXTINF:-1,NBA
+
+http://167.114.101.188:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+
+#EXTINF:-1,NBC Sports Network HD
+
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:0,TSN 1
+
+http://4.31.30.159:9082
+
+#EXTINF:0,TSN 2
+
+http://4.31.30.159:9083
+
+#EXTINF:0,TSN 3
+
+http://4.31.30.159:9084
+
+#EXTINF:0,TSN 4
+
+http://4.31.30.159:9085
+
+#EXTINF:0,TSN 5
+
+http://4.31.30.159:9086
+
+#EXTINF:0,FOX Sports 1
+
+http://192.99.39.240:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
+
+#EXTINF:0,FOX Sports 2
+
+http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+
+#EXTINF:0,Big Ten Network 2 Go HD
+
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:0,ESPN HD
+
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0,Top Sport-ESPN HD
+
+http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
+
+#EXTINF:0,NBC GOLF HD
+
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
 
 
 
