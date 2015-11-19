@@ -10,6 +10,2597 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 
 
+#EXTM3U
+#EXTINF:-1,TVA Gatineau-Ottawa -  CHOT-DT (En ondes seulement durant les bulletins de nouvelles, les jours de semaine)
+rtmp://67.212.85.90/media/chot.tva
+#EXTINF:-1,Disney Junior Français
+http://198.179.31.198/live/2069.high.stream/2069.high.stream/index.m3u8
+#EXTINF:-1,LCN 4:3
+rtmp://cp39414.live.edgefcs.net/live playpath=lcn2@9754 swfVfy=true live=true
+#EXTINF:-1,LCN 16:9
+rtmp://cp39414.live.edgefcs.net/live playpath=lcn1@9753 swfVfy=true live=true
+#EXTINF:-1,LCN HD
+#EXTINF:-1,Argent
+rtmp://cp39414.live.edgefcs.net/live playpath=argent@9751 swfVfy=true live=true
+#EXTINF:-1,TVA Abitibi-Témiscamingue - CFEM-DT (En ondes seulement durant les bulletins de nouvelles, les jours de semaine)
+rtmp://67.212.85.90/media/cfem.tva
+#EXTINF:-1,Assemblée nationale du Québec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1,City Montreal HD - CJNT-DT (En ondes de 6h à 9h les jours de semaine)
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+#EXTINF:-1,CPAC Français
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+#EXTINF:-1,ICI Radio-Canada Télé Québec - CBVT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ICI Radio-Canada Télé Ottawa-Gatineau - CBOFT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ICI Radio-Canada Télé Trois-Rivières - CKTM-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ICI Radio-Canada Télé Rimouski - CJBR-DT
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ICI Radio-Canada Télé Saguenay - CKTV-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ICI Radio-Canada Télé Sherbrooke - CKSH-DT
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ICI RDI (Diffusion interrompue en raison de la diffusion des Grands Reportages)
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="I2.28456053.microsoft.com" tvg-name="SRC" group-title="Franco",ICI Radio-Canada Télé Montréal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
+#EXTINF:-1 tvg-id="I4.28457403.microsoft.com" tvg-name="TVA" group-title="Franco",TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1 tvg-id="I22.28458316.microsoft.com" tvg-name="Savoir" group-title="Franco",Canal Savoir
+#EXTINF:-1 tvg-id="I9.28461318.microsoft.com" tvg-name="TVA Sports" group-title="Franco",TVA Sports
+http://libretv.me/Liste-m3u/Liste-anonymes/ftp-web/TVA%20Sports.m3u
+#EXTINF:-1 tvg-id="I9.28461318.microsoft.com" tvg-name="TVA Sports 2" group-title="Franco",TVA Sports 2
+#EXTINF:-1 tvg-id="I5.28460602.microsoft.com" tvg-name="V" group-title="Franco",V
+#EXTINF:-1 tvg-id="I5.28460602.microsoft.com" tvg-name="V" group-title="Franco",V Québec
+#EXTINF:-1 tvg-id="I5.28460602.microsoft.com" tvg-name="TQC" group-title="Franco",Télé-Québec
+#EXTINF:-1,[COLOR yellow]UPDATE 11:36[/COLOR]
+http://libretv.me
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR red]Si ce n'est[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR red]pas LibreTV...[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR red]c'est pas le vrai![/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR green]Les chaines vont[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR green]et viennent desole...[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png" group-title="ANGLO",[COLOR blue]MéTéO[/COLOR]
+rtmp://1.2.3.4
+#EXTINF:-1 tvg-logo="theweathernetwork.png" group-title="ANGLO",The Weather Network Canada [COLOR yellow]720p[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-logo="theweathernetwork.png" group-title="ANGLO",The Weather Network Canada [COLOR yellow]SD[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="libretv.png" group-title="FRANCO",[COLOR blue]PoLiTiQuE zzzzzzzzzzzz...[/COLOR]
+rtmp://1.2.3.4
+#EXTINF:-1 tvg-logo="assnaq.png" tvg-id="I16133.labs.zap2it.com" tvg-name="ASSNA" group-title="FRANCO",Assemblée nationale du Québec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="cpac.png" tvg-id="I21667.labs.zap2it.com" tvg-name="CPACFR" group-title="FRANCO",CPAC Français
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR blue]Généraliste et Nouvelles[/COLOR]
+rtmp://1.2.3.4
+#EXTINF:-1 tvg-logo="ICITVMTL.png" tvg-id="I87652.labs.zap2it.com" tvg-name="ICITVMTL" group-title="FRANCO",ICI Television Montreal
+http://flowcaster1.cdn.clearcable.net:1935/icilive/icitv/master.m3u8
+#EXTINF:-1 tvg-logo="globalmtl.png" tvg-id="I17406.labs.zap2it.com" tvg-name="Global" group-title="ANGLO",Global Toronto
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
+#EXTINF:-1,TVA Nouvelles Gatineau en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/chot.tva
+#EXTINF:-1,TVA Nouvelles Abitibi-Témiscamingue en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/cfem.tva
+#EXTINF:-1 tvg-logo="lcn.png" tvg-id="I17590.labs.zap2it.com" tvg-name="LCN" group-title="FRANCO",LCN 16:9
+rtmp://cp39414.live.edgefcs.net/live playpath=lcn1@9753 swfVfy=true live=true
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI - [COLOR yellow]À partir de 20h les soirs de semaine[/COLOR]
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI 400 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI 800 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI 1200 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI HD
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Québec - CBVT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Ottawa-Gatineau - CBOFT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Trois-Rivières - CKTM-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Rimouski - CJBR-DT
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Saguenay [COLOR yellow](lâ lâ)[/COLOR] - CKTV-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Sherbrooke - CKSH-DT
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png" tvg-id="I10089.labs.zap2it.com" tvg-name="SRC" group-title="FRANCO",ICI Radio-Canada - Montréal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
+#EXTINF:-1 tvg-logo="tva.png" tvg-id="I10107.labs.zap2it.com" tvg-name="TVA" group-title="FRANCO",TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1 tvg-logo="city.png" tvg-id="I14.28458416.microsoft.com" tvg-name="CITY" group-title="FRANCO",City Montreal - [COLOR yellow]En ondes de 6h à  9h les jours de semaine[/COLOR]
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+#EXTINF:-1 tvg-logo="libretv.png" group-title="FRANCO",TVA Sports/TVA Sports 2/MAtv - [COLOR yellow]En Alternance[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://fr.video.canoe.tv swfVfy=true live=true timeout=60
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR orange]Certaines chaines sont[/COLOR]
+rtmp://4.3.2.1
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR orange]seulement dispo en diff web[/COLOR]
+rtmp://4.3.2.1
+#EXTINF:-1 tvg-logo="matv.png" tvg-id="I16131.labs.zap2it.com" tvg-name="MATV" group-title="FRANCO",[COLOR red]DOWN [/COLOR]MAtv Montreal
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="meteomedia.png" tvg-id="I16000.labs.zap2it.com" tvg-name="METEOF" group-title="FRANCO",[COLOR red]DOWN [/COLOR]MeteoMedia
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="theweathernetwork.png" tvg-id="I10170.labs.zap2it.com" tvg-name="TWN" group-title="ANGLO",[COLOR red]DOWN [/COLOR]Weather Network
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="CBCNews.png" tvg-id="I10094.labs.zap2it.com" tvg-name="CBCNEWS" group-title="ANGLO",[COLOR red]DOWN [/COLOR]CBC News
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="lcn.png" tvg-id="I17590.labs.zap2it.com" tvg-name="LCN" group-title="FRANCO",[COLOR red]DOWN [/COLOR]LCN
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="RDI.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici RDI
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="src.png" tvg-id="I10089.labs.zap2it.com" tvg-name="SRCMTL" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici SRC
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="artv.png" tvg-id="I26980.labs.zap2it.com" tvg-name="ARTV" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici ARTV
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="EXPLORA.png" tvg-id="I75053.labs.zap2it.com" tvg-name="Explora" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici Explora
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="globalmtl.png" tvg-id="I17406.labs.zap2it.com" tvg-name="GLBLMTL" group-title="ANGLO",[COLOR red]DOWN [/COLOR]Global Mtl
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tqc.png" tvg-id="I15987.labs.zap2it.com" tvg-name="TQC" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Tele Qc
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tv5.png" tvg-id="I11185.labs.zap2it.com" tvg-name="TV5" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TV5
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="TVA.png" tvg-id="I10107.labs.zap2it.com" tvg-name="TVA" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TVA
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="vtele.png" tvg-id="I15988.labs.zap2it.com" tvg-name="V" group-title="FRANCO",[COLOR red]DOWN [/COLOR]V Tele
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="INVESTIGATION.png" tvg-id="I87899.labs.zap2it.com" tvg-name="Investigation" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Investigation
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="historia.png" tvg-id="I21542.labs.zap2it.com" tvg-name="Historia" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Historia
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="evasion.png" tvg-id="I21545.labs.zap2it.com" tvg-name="Evasion" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Evasion
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="seriesplus.png" tvg-id="I21543.labs.zap2it.com" tvg-name="SPlus" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Series Plus
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="canald.png" tvg-id="I15682.labs.zap2it.com" tvg-name="CanalD" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Canal D
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="canalvie.png" tvg-id="I17589.labs.zap2it.com" tvg-name="CanalVie" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Canal Vie
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="ztele.png" tvg-id="I21544.labs.zap2it.com" tvg-name="Ztele" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Z tele
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="zeste.png" tvg-id="I67174.labs.zap2it.com" tvg-name="Zeste" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Zeste
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tvas1.png" tvg-id="I73141.labs.zap2it.com" tvg-name="TVASport" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TVA Sport
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tvas2.png" tvg-id="I90204.labs.zap2it.com" tvg-name="TVASport2" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TVA Sport 2
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="disney_channel.png" tvg-id="I96509.labs.zap2it.com" tvg-name="DISCA" group-title="ANGLO",[COLOR red]DOWN [/COLOR]Disney Channel
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="disney_la_chaine.png" tvg-id="I61377.labs.zap2it.com" tvg-name="DISNF" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Disney La Chaine
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 group-title="radio" radio="true",Ville de Montreal
+http://m3u.domtardif.info
+#EXTINF:-1 tvg-logo="cism.png" group-title="radio" radio="true",CISM
+http://stream03.ustream.ca:8000/cism128.mp3
+#EXTINF:-1 tvg-logo="ckut.png" group-title="radio" radio="true",CKUT
+http://secure.ckut.ca:8000/ckut-live-128
+#EXTINF:-1 tvg-logo="radiovm.png" group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 tvg-logo="radio9.png" group-title="radio" radio="true",Radio9
+http://stream.radiox.com/cklx.mp3
+#EXTINF:-1 tvg-logo="cjmc-fm.png" group-title="radio" radio="true",CJMC-FM
+http://xltrax.com:8010
+#EXTINF:-1 tvg-logo="nrj.png" group-title="radio" radio="true",NRJ 94.3
+http://ckmf-aac.akacast.akamaistream.net/7/493/102120/v1/astral.akacast.akamaistream.net/ckmf-aac
+#EXTINF:-1 tvg-logo="premieremontreal.png" group-title="radio" radio="true",Première Montréal
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 tvg-logo="chox.png" group-title="radio" radio="true",CHOX-FM
+http://38.127.70.219:8411
+#EXTINF:-1 tvg-logo="chom.png" group-title="radio" radio="true",CHOM
+http://chom-aac.akacast.akamaistream.net/7/301/102120/v1/astral.akacast.akamaistream.net/chom-aac
+#EXTINF:-1 tvg-logo="cjvdfm.png" group-title="radio" radio="true",CJVD-FM
+http://xlnetwork.info:8820/
+#EXTINF:-1 tvg-logo="ckvl.png" group-title="radio" radio="true",CKVL-FM
+http://stardust.wavestreamer.com:5167/Live
+#EXTINF:-1 tvg-logo="icimusique.png" group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 tvg-logo="cibl.png" group-title="radio" radio="true",CIBL Radio-Montréal 1101.5 FM
+http://stream02.ustream.ca:8000/cibl128.mp3
+#EXTINF:-1 tvg-logo="chai.png" group-title="radio" radio="true",CHAI
+http://dj-eric.net:8000/
+#EXTINF:-1 tvg-logo="radiocentreville.png" group-title="radio" radio="true",Radio Centre-Ville
+http://199.202.64.118:8044/stream
+#EXTINF:-1 tvg-logo="fm1033.png" group-title="radio" radio="true",FM 103.3
+http://stream02.ustream.ca:8000/fm1033128.mp3
+#EXTINF:-1 tvg-logo="m1035fm.png" group-title="radio" radio="true",M 103.5 FM
+http://207.253.100.153:8000/mp3/intro.mp3
+#EXTINF:-1 tvg-logo="themonster.png" group-title="radio" radio="true",The Monster
+http://knw-stream.mohawk.ca:8000/k103
+#EXTINF:-1 tvg-logo="chocfm.png" group-title="radio" radio="true",CHOC-FM
+http://radio.chocfm.com:8006
+#EXTINF:-1 tvg-logo="cjlafm.png" group-title="radio" radio="true",CJLA-FM
+http://stream.rncmedia.ca/planetelov.mp3
+#EXTINF:-1 tvg-logo="mikefm.png" group-title="radio" radio="true",MIKE FM
+http://212.83.135.226:9912/
+#EXTINF:-1 tvg-logo="ckinfm.png" group-title="radio" radio="true",CKIN-FM
+http://212.83.135.226:9992
+#EXTINF:-1 tvg-logo="le1040.png" group-title="radio" radio="true",Le 1040
+http://gemini.shoutca.st:8572/stream
+#EXTINF:-1 tvg-logo="cfbmradiomontreal.png" group-title="radio" radio="true",CFMB Radio Montréal
+http://www.live365.com/play/cfmb
+#EXTINF:-1 tvg-logo="cpam.png" group-title="radio" radio="true",CPAM
+http://s1.voscast.com:7538
+#EXTINF:-1 tvg-logo="radiomoyenorient.png" group-title="radio" radio="true",Radio Moyen-Orient
+http://s2.voscast.com:7386
+#EXTINF:-1 tvg-logo="am1570.png" group-title="radio" radio="true",AM 1570
+http://xlnetwork.info:8620/
+#EXTINF:-1 tvg-logo="radioshalom.png" group-title="radio" radio="true",Radio Shalom
+http://50.7.70.66:8509/stream
+#EXTINF:-1 tvg-logo="ckzw.png" group-title="radio" radio="true",CKZW
+http://a1team.net:8128
+#EXTINF:-1 tvg-logo="cjlo.png" group-title="radio" radio="true",CJLO
+http://38.99.182.49:20786/
+#EXTINF:-1 tvg-logo="choqfm.png" group-title="radio" radio="true",CHOQ.FM
+http://diffusion.choq.fm:8000/choqfm1.mp3
+#EXTINF:-1 tvg-logo="radio2040.png" group-title="radio" radio="true",Radio 2040
+http://192.99.7.50:8448/
+#EXTINF:-1 tvg-logo="radioclassique.png" group-title="radio" radio="true",CJPX Radio Classique
+http://208.80.52.118/CJPXFM.mp3
+#EXTINF:-1 tvg-logo="985montreal.png" group-title="radio" radio="true",98.5
+http://38.100.101.65/CHMPFMAAC
+#EXTINF:-1 tvg-logo="ckoi.png" group-title="radio" radio="true",CKOI
+http://208.80.52.126:80/CKOIFMAAC_128
+#EXTINF:-1 tvg-logo="cbcradionone.png" group-title="radio" radio="true",CBC Radio One Montreal
+http://208.92.55.51/CBC_R1_MTL_H
+#EXTINF:-1 tvg-logo="thebeat.png" group-title="radio" radio="true",The Beat
+http://208.92.55.51/CFQRFMAAC_64
+#EXTINF:-1 tvg-logo="rythmefm.png" group-title="radio" radio="true", 105.7 Rythme FM
+http://208.92.55.47/CFGLFMAAC_64
+#EXTINF:-1 tvg-logo="radiocirculation.png" group-title="radio" radio="true", Radio Circulation 730
+http://208.80.52.98/CKACAMAAC
+#EXTINF:-1 tvg-logo="virginradio.png" group-title="radio" radio="true", Virgin Radio 96
+http://cjfm-aac.akacast.akamaistream.net/7/468/102120/v1/astral.akacast.akamaistream.net/cjfm-aac
+#EXTINF:-1 tvg-logo="cjad.png" group-title="radio" radio="true, CJAD 800 AM
+http://cjad-aac.akacast.akamaistream.net/7/568/102120/v1/astral.akacast.akamaistream.net/cjad-aac
+#EXTINF:-1 tvg-logo="rouge1073.png" group-title="radio" radio="true, Rouge FM 107.3
+http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
+#EXTINF:-1 tvg-logo="boomfm.png" group-title="radio" radio="true, Boom FM 104.1
+http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Quebec
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CKRL 89.1
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1 group-title="radio" radio="true",CiQi FM
+http://38.127.70.219:8413
+#EXTINF:-1 group-title="radio" radio="true",WKND 91.9
+http://148.251.146.100:8000/cjec.flv
+#EXTINF:-1 group-title="radio" radio="true",CHYZ
+http://live.chyz.ca:8000
+#EXTINF:-1 group-title="radio" radio="true",Lévis 96.9 
+http://sc6.spacialnet.com:34102
+#EXTINF:-1 group-title="radio" radio="true",CHOI 98.1 Radio X
+http://stream.rncmedia.ca/choi
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.9
+http://astral.akacast.akamaistream.net/7/928/102120/v1/astral.akacast.akamaistream.net/chik-aac
+#EXTINF:-1 group-title="radio" radio="true",ROCK 100.9
+http://stream.rncmedia.ca/chxx.mp3
+#EXTINF:-1 group-title="radio" radio="true",CKOI Quebec
+http://148.251.146.100:8000/cfel.flv
+#EXTINF:-1 group-title="radio" radio="true",Passion FM
+http://stream02.ustream.ca:8000/cfin128.mp3
+#EXTINF:-1 group-title="radio" radio="true",Première Québec
+http://2QQUE0.akacast.akamaistream.net/7/896/177395/v1/rc.akacast.akamaistream.net/2QQUE0
+#EXTINF:-1 group-title="radio" radio="true",FM93
+http://208.92.55.51/CJMFFMAAC
+#EXTINF:-1 group-title="radio" radio="true",Ville de Saguenay
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Première Saguenay
+http://2QSAG0.akacast.akamaistream.net/7/933/177389/v1/rc.akacast.akamaistream.net/2QSAG0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 94.5
+http://astral.akacast.akamaistream.net/7/379/102120/v1/astral.akacast.akamaistream.net/cjab-aac
+#EXTINF:-1 group-title="radio" radio="true",Radio X
+http://stream.rncmedia.ca/chicoutimi.radiox.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Saguenay
+http://7QSAG0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0
+#EXTINF:-1 group-title="radio" radio="true",Planète 104.5
+http://stream.rncmedia.ca/alma.planeteradio.mp3
+#EXTINF:-1 group-title="radio" radio="true",CEUCRadio
+http://mediacast1.megaquebec.net:8038/listen.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ville de Sept-Iles
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CKAU-FM
+http://streams.museter.com:2199/tunein/ckau48.pls
+#EXTINF:-1 group-title="radio" radio="true",Pur FM
+http://192.99.105.197:8012
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Première Sept-Iles
+http://2QSEP0.akacast.akamaistream.net/7/892/177399/v1/rc.akacast.akamaistream.net/2QSEP0
+#EXTINF:-1 group-title="radio" radio="true",CIPC-FM
+http://192.99.105.197:8014
+#EXTINF:-1 group-title="radio" radio="true",Ville de Val-dOr
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Première Rouyn-Noranda
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 102.7
+http://astral.akacast.akamaistream.net/7/421/102120/v1/astral.akacast.akamaistream.net/cjmv-aac
+#EXTINF:-1 group-title="radio" radio="true",Capitale Rock Abitibi
+http://stream.rncmedia.ca/abitibi-chgo2.planeteradio.mp3
+#EXTINF:-1 group-title="radio" radio="true",CHOW-FM
+http://stream.radioboreale.com:8000/Radio_Boreale
+#EXTINF:-1 group-title="radio" radio="true",Première Montréal
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Amqui
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",FM 93
+http://s20.myradiostream.com:4070
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Chandler
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Radio Gaspésie
+http://stream02.ustream.ca:8000/cjrg32.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Moncton
+http://7EMCT0.akacast.akamaistream.net/7/282/177408/v1/rc.akacast.akamaistream.net/7EMCT0
+#EXTINF:-1 group-title="radio" radio="true",BleuFM
+http://xltrax.com:8100/
+#EXTINF:-1 group-title="radio" radio="true",Première Matane
+http://2QMAT0.akacast.akamaistream.net/7/608/177392/v1/rc.akacast.akamaistream.net/2QMAT0
+#EXTINF:-1 group-title="radio" radio="true",CHNC
+http://radiosolution.info:8140/
+#EXTINF:-1 group-title="radio" radio="true",Ville de Mont-Laurier
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Première Montréal
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="radio" radio="true",CHGA
+http://stream02.ustream.ca:8000/chga32.mp3
+#EXTINF:-1 group-title="radio" radio="true",CKWE-FM
+http://stream03.ustream.ca/kitiganzibi128.mp3
+#EXTINF:-1 group-title="radio" radio="true",Première Ottawa-Gatineau
+http://2OOTT0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Rimouski
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Première Rimouski
+http://2QRIM0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0
+#EXTINF:-1 group-title="radio" radio="true",FM 93
+http://s20.myradiostream.com:4070
+#EXTINF:-1 group-title="radio" radio="true",CIEL
+http://38.127.70.219:8409
+#EXTINF:-1 group-title="radio" radio="true",Radio Ntetemuk
+http://radio.cimb.fm:8991/
+#EXTINF:-1 group-title="radio" radio="true",CKMN
+http://orange.voltige.net:8000/ckmn
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.7
+http://ciki-aac.akacast.akamaistream.net/7/688/102120/v1/astral.akacast.akamaistream.net/ciki-aac
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",FM 107
+http://38.127.70.219:8407/
+#EXTINF:-1 group-title="radio" radio="true",Club de Radio Amateur de Trois Pistoles - 147.105MHz
+http://relay.radioreference.com:80/819131315
+#EXTINF:-1 group-title="radio" radio="true",Ville de Rouyn-Noranda
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CHIC-FM
+http://stream.zoneplus.ca:9952
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Première Rouyn-Noranda
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:-1 group-title="radio" radio="true",Capitale Rock Abitibi
+http://stream.rncmedia.ca/rouyn.radiox.mp3
+#EXTINF:-1 group-title="radio" radio="true",CHUN-FM
+http://stream.zoneplus.ca:9954
+#EXTINF:-1 group-title="radio" radio="true",NRJ 99.1
+http://cjmm-aac.akacast.akamaistream.net/7/320/102120/v1/astral.akacast.akamaistream.net/cjmm-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Sherbrooke
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CJMQ
+http://the.radioservers.biz:9996
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Sherbrooke
+http://7QSHE0.akacast.akamaistream.net/7/504/177413/v1/rc.akacast.akamaistream.net/7QSHE0
+#EXTINF:-1 group-title="radio" radio="true",CFLX
+http://50.7.70.58:8964
+#EXTINF:-1 group-title="radio" radio="true",CIGN-FM
+http://stream02.ustream.ca:8000/cignfm32.mp3
+#EXTINF:-1 group-title="radio" radio="true",CIDI
+http://shoutcast1.voxframe.net:8000/
+#EXTINF:-1 group-title="radio" radio="true",CJAN-FM
+http://174.142.215.249:9996
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",Première Sherbrooke
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:-1 group-title="radio" radio="true",Radio Acton
+http://stream02.ustream.ca:8000/cfid32.mp3
+#EXTINF:-1 group-title="radio" radio="true",Hot Country
+http://173.182.180.169:8000
+#EXTINF:-1 group-title="radio" radio="true",NRJ 106.1
+http://cimo-aac.akacast.akamaistream.net/7/557/102120/v1/astral.akacast.akamaistream.net/cimo-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Trois-Riviere
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Radio Touristique Victoriaville à la Vélo Gare
+http://slmusic.info:9984/
+#EXTINF:-1 group-title="radio" radio="true",CFOU
+http://streamer.xittel.net:8000/cfou
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",CKBN-FM
+http://stream.hebergementultra.com:8100/
+#EXTINF:-1 group-title="radio" radio="true",Radio Shawinigan
+http://m01.stream.ustream.ca/fm91132.mp3
+#EXTINF:-1 group-title="radio" radio="true",NRJ 92.1
+http://astral.akacast.akamaistream.net/7/731/102120/v1/astral.akacast.akamaistream.net/cjdm-aac
+#EXTINF:-1 group-title="radio" radio="true",Première Sherbrooke
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.7
+http://ciki-aac.akacast.akamaistream.net/7/688/102120/v1/astral.akacast.akamaistream.net/ciki-aac
+#EXTINF:-1 group-title="radio" radio="true",Première Trois-Rivières
+http://2QTRV0.akacast.akamaistream.net/7/145/177403/v1/rc.akacast.akamaistream.net/2QTRV0
+#EXTINF:-1 group-title="radio" radio="true",O97.3
+http://xlnetwork.info:5400/
+#EXTINF:-1 group-title="radio" radio="true",CHOX-FM
+http://38.127.70.219:8411
+#EXTINF:-1 group-title="radio" radio="true",Passion-Rock 101,9
+http://xlnetwork.info:7790/
+#EXTINF:-1 group-title="radio" radio="true",NRJ 102.3
+http://astral.akacast.akamaistream.net/7/102/102120/v1/astral.akacast.akamaistream.net/cigb-aac
+#EXTINF:-1 group-title="radio" radio="true",CH2O
+http://www.ch2ofm.ca:85/broadwave.m3u?src=1&kbps=96
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Trois-Rivières
+http://7QTRV0.akacast.akamaistream.net/7/87/177416/v1/rc.akacast.akamaistream.net/7QTRV0
+#EXTINF:0 tvg-id="" tvg-logo="i24.png" group-name="Information",i24
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/300.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="France24.png" group-name="Information",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="France24.png" group-name="Information",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192-b/F24_FR_LO_HLS/master_1200.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="SRC.png" group-name="Généraliste",ICI Radio-Canada
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+#EXTINF:0 tvg-id="CINQ+.ut.cx" tvg-logo="CinqPlus.png" group-name="Web Télé",Cinq+
+http://tv.ut.cx/cinqplus.mp4 timeout=10
+#EXTINF:0 tvg-id="" tvg-logo="RTC.png" group-name="Généralistes",RTC
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="RTC.png" group-name="Généralistes",RTC
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+#EXTINF:0 tvg-id="CLUB1.ut.cx" tvg-logo="Club1.png" group-name="Web Télé",Club1
+http://tv.ut.cx/club1.mp4 timeout=10
+#EXTINF:0 tvg-id="" tvg-logo="Star24.png" group-name="Séries et divertissement",Star 24
+http://stream-04.vty.dmcdn.net/15/dm/1/x2nk89x/live.isml/events(live-1446769704)/live-audio=128000-video=1891000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="Star24.png" group-name="Séries et divertissement",Star 24
+http://stream-09.vty.dmcdn.net/15/dm/1/x2nk89x/live.isml/events(live-1446769704)/live-audio=128000-video=1891000.m3u8
+#EXTINF:0 tvg-id="NEXT.ut.cx" tvg-logo="Next.png" group-name="Séries et divertissement",Next
+http://tv.ut.cx/next.mp4 timeout=10
+#EXTINF:0 tvg-id="BRAVO.ut.cx" tvg-logo="Bravo.png" group-name="Séries et divertissement",Bravo
+http://tv.ut.cx/bravo.mp4 timeout=10
+#EXTINF:0 tvg-id="" tvg-logo="RireEtHumour.png" group-name="Séries et divertissement",Rire et Humour
+http://tv5.ut.cx/rire.ts
+#EXTINF:0 tvg-id="CINETOILE.ut.cx" tvg-logo="Cinetoile.png" group-name="Cinéma",Cinétoile
+http://teleclub.fr/cinetoile.mp4
+#EXTINF:0 tvg-id="CINEFIL.ut.cx" tvg-logo="Cinefil.png" group-name="Cinéma",Cinéfil
+http://tv.ut.cx/cinefil.mp4 timeout=10
+#EXTINF:0 tvg-id="" tvg-logo="West.png" group-name="Cinéma",Western et Aventure
+http://teleclub.fr/west.mp4 timeout=10
+#EXTINF:0 tvg-id="ANIMANIA.ut.cx" tvg-logo="Animania.png" group-name="Documentaires",Animania
+http://tv.ut.cx/animania.mp4 timeout=10
+#EXTINF:0 tvg-id="ANI1.kazer.org" tvg-logo="Animaux.png" group-name="Documentaires",Animaux
+http://178.218.112.51:7781/udp/234.5.2.40:1234/playlist.mp4
+#EXTINF:0 tvg-id="ANI1.kazer.org" tvg-logo="Animaux.png" group-name="Documentaires",Animaux
+http://87.248.160.8/edge/smil:animaux/chunklist_w345905560_b2100000.m3u8
+#EXTINF:0 tvg-id="DOCUMANIA.ut.cx" tvg-logo="Documania.png" group-name="Documentaires",Documania
+http://tv.ut.cx/documania.mp4 timeout=10
+#EXTINF:0 tvg-id="" tvg-logo="NHL.png" group-name="Sports",WPG vs. MTL 2015-11-01
+http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/11/01/166/2_166_wpg_mtl_1516_a_whole_1_3000_ipad.mp4.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="NHL.png" group-name="Sports",OTT vs. MTL 2015-11-03
+http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/11/03/175/2_175_ott_mtl_1516_h_whole_1_3000_ipad.mp4.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="NHL.png" group-name="Sports",NYI vs. MTL 2015-11-05
+http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/11/05/187/2_187_nyi_mtl_1516_h_whole_1_3000_ipad.mp4.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="NHL.png" group-name="Sports",BOS vs. MTL 2015-11-07
+http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/11/07/202/2_202_bos_mtl_1516_h_whole_1_3000_ipad.mp4.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="NHL.png" group-name="Sports",MTL vs. PIT 2015-11-11
+http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/11/11/228/2_228_mtl_pit_1516_h_whole_1_3000_ipad.mp4.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="NHL.png" group-name="Sports",COL vs. MTL 2015-11-14
+http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/11/14/250/2_250_col_mtl_1516_h_whole_1_3000_ipad.mp4.m3u8
+#EXTINF:0 tvg-id="I633.181320593.microsoft.com" tvg-logo="RDS1.png" group-name="Sports",RDS
+http://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/index_1280_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="I633.181320593.microsoft.com" tvg-logo="RDS1.png" group-name="Sports",RDS
+http://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/index_1536_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="" tvg-logo="MontagneTV.png" group-name="Documentaires",Montagne TV
+http://stream-06.vty.dmcdn.net/18/dm/1/x221fgn/live.isml/events(live-1447441546)/live-audio=128000-video=1677000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="MontagneTV.png" group-name="Documentaires",Montagne TV
+http://stream-l3-4.vty.dmcdn.net/18/dm/1/x221fgn/live.isml/events(live-1447441546)/live-audio=128000-video=1677000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="TraceSports.png" group-name="Sports",Trace Sports
+http://stream-02.vty.dmcdn.net/10/dm/1/x1ahnmd/live.isml/events(live-1447432760)/live-audio=128000-video=1891000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="TraceSports.png" group-name="Sports",Trace Sports
+http://stream-05.vty.dmcdn.net/10/dm/1/x1ahnmd/live.isml/events(live-1447432760)/live-audio=128000-video=1891000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="TraceSportStars.png" group-name="Sports",Trace Sport Stars
+http://stream-03.vty.dmcdn.net/08/dm/1/x1aesef/live.isml/events(live-1447432761)/live-audio=128000-video=1891000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="TraceSportStars.png" group-name="Sports",Trace Sport Stars
+http://stream-08.vty.dmcdn.net/08/dm/1/x1aesef/live.isml/events(live-1447432761)/live-audio=128000-video=1891000.m3u8
+#EXTINF:0 tvg-id="MUSICBOX.ut.cx" tvg-logo="Musicbox.png" group-name="Musique",Music Box
+http://tv.ut.cx/musicbox.mp4 timeout=10
+#EXTINF:0 tvg-id="" tvg-logo="TVM3.png" group-name="Musique",TVM3
+http://hls.tv.iptv.ink/tvm3fr@949799.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[CAMEROON] Canal2 International
+http://canal2-p.cdn.hexaglobe.net/streaming/canal2_c2inte/iphone.m3u8
+#EXTINF:-1,[CAMEROON] Canal2 Infos
+http://canal2-p.cdn.hexaglobe.net/streaming/canal2_c2info/iphone.m3u8
+#EXTINF:-1,[CAMEROON] Afrique Media
+rtmp://afm.streamakaci.com/afm/ playpath=afm.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/f6
+#EXTINF:-1,[SENEGAL] RTS1
+http://myafricanrtmpdvr1.tulix.tv:1935/map-rts1tv/map-rts1tv/playlist.m3u8
+#EXTINF:-1,[SENEGAL] 2STV
+http://144.76.28.51:1935/stream2/2stv.stream/playlist.m3u8
+#EXTINF:-1,[SENEGAL] SEN TV
+http://myafricanrtmpdvr1.tulix.tv:1935/map-sentv/map-sentv/playlist.m3u8
+#EXTINF:-1,[SENEGAL] DIASPORA 24
+rtmp://diaspora24.tv:1935/diaspora24tv/ playpath=diaspora24 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/gK
+#EXTINF:-1,[SENEGAL] WALF TV
+http://myafricanrtmpdvr1.tulix.tv:1935/map-walftv/map-walftv/playlist.m3u8
+#EXTINF:-1,[SENEGAL] TFM
+http://myafricanrtmpdvr1.tulix.tv:1935/map-tfmtv/map-tfmtv/playlist.m3u8
+#EXTINF:-1,[IVORY COAST] RTI1
+http://myafricanrtmpdvr1.tulix.tv:1935/map-rti1tv/map-rti1tv/playlist.m3u8
+#EXTINF:-1,[IVORY COAST] RTI2
+rtmp://myafricanmega.tulix.tv:1935/map-rti2/ playpath=map-rti2.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/gI
+#EXTINF:-1,[BENIN] ORTB
+rtmp://83.167.34.11:1935/live/ playpath=ORTB swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/eZ
+#EXTINF:-1,[BENIN] CANAL3 BENIN
+http://myafricanrtmpdvr1.tulix.tv:1935/canal3b/canal3b/playlist.m3u8
+#EXTINF:-1,[DR CONGO] RTNC
+http://188.40.139.8:1935/stream2/rtnc.stream/playlist.m3u8
+#EXTINF:-1,[TCHAD] Electron TV
+rtmp://83.167.34.11:1935/live/ playpath=ELECTV swfUrl=Property swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/gG
+#EXTINF:-1,[GABON] Gabon Television
+rtmp://83.167.34.11:1935/live/ playpath=GABONTV swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/gH
+#EXTINF:-1,[SOUTH AFRICA] ANN7
+rtmp://46.4.25.213/live-ann7/ playpath=ann7-hi.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/fB
+#EXTINF:-1,[SOUTH AFRICA] Divine Truth
+rtmp://media.streamovation.com:1935/8032/ playpath=8032 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/fy
+#EXTINF:-1,[GHANA] GTV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,[GHANA] GTV SPORTS
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GtvSports/gtvsports_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,[GHANA] ADOM TV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,[NIGERIA] TVC NEWS
+rtmp://77.92.76.135:1935/tvcnews/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/f0
+#EXTINF:-1,[NIGERIA] MFM MINISTRIES TV
+http://wpc.aea6.edgecastcdn.net/hls-live/20AEA6/mfm/mfm/mfm,250,500,.m3u8
+#EXTINF:-1,[NIGERIA] TV CONTINENTAL
+rtmp://77.92.76.135:1935/tvce/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/e5
+#EXTINF:-1,[MOZAMBIQUE] MANASAT
+rtmp://195.22.19.179/manasat/ playpath=manasat2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.afrotele.net/afrotv/watch/f2#EXTINF:-1,Amsterdam Dance Event 2015
+https://geo-live.beatport.com/streams/nbacb7zgivah/amsterdam/1444817891/1050.m3u8#EXTINF:-1,TSN 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TSN 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15#EXTINF:-1,00's Club Hits - Digitally Imported
+http://goo.gl/KLlY6m
+#EXTINF:-1,Ambient - Digitally Imported
+http://goo.gl/KYZEXC
+#EXTINF:-1,Bass and Jackin' House - Digitally Imported
+http://goo.gl/pnw00c
+#EXTINF:-1,Bassline - Digitally Imported
+http://goo.gl/85abPX
+#EXTINF:-1,Big Beat - Digitally Imported
+http://goo.gl/JwUoct
+#EXTINF:-1,Big Room House - Digitally Imported
+http://goo.gl/nM9KJO
+#EXTINF:-1,Breaks - Digitally Imported
+http://goo.gl/yj8z7Y
+#EXTINF:-1,ChillHop - Digitally Imported
+http://goo.gl/pTM8kz
+#EXTINF:-1,Chillout Dreams - Digitally Imported
+http://goo.gl/pWBXPp
+#EXTINF:-1,Chillout - Digitally Imported
+http://goo.gl/3DbFWl
+#EXTINF:-1,Chillstep - Digitally Imported
+http://goo.gl/25gJhg
+#EXTINF:-1,Classic EuroDance - Digitally Imported
+http://goo.gl/DeKh27
+#EXTINF:-1,Classic EuroDisco - Digitally Imported
+http://goo.gl/UxM6Yb
+#EXTINF:-1,Classic Trance - Digitally Imported
+http://goo.gl/i9aMBc
+#EXTINF:-1,Classic Vocal Trance - Digitally Imported
+http://goo.gl/oRGdGC
+#EXTINF:-1,Club Dubstep - Digitally Imported
+http://goo.gl/aAfDRG
+#EXTINF:-1,Club Sounds - Digitally Imported
+http://goo.gl/fDWPji
+#EXTINF:-1,Dark Dnb - Digitally Imported
+http://goo.gl/azQjDe
+#EXTINF:-1,Deep House - Digitally Imported
+http://goo.gl/eOdJwq
+#EXTINF:-1,Deep Nu-Disco - Digitally Imported
+http://goo.gl/kzXHzG
+#EXTINF:-1,Deep Tech - Digitally Imported
+http://goo.gl/rlVpld
+#EXTINF:-1,Disco House - Digitally Imported
+http://goo.gl/lg4So9
+#EXTINF:-1,DJ Mixes - Digitally Imported
+http://goo.gl/X53iEH
+#EXTINF:-1,Downtempo Lounge - Digitally Imported
+http://goo.gl/NaLOZo
+#EXTINF:-1,Drum and Bass - Digitally Imported
+http://goo.gl/7G6L6V
+#EXTINF:-1,Dubstep - Digitally Imported
+http://goo.gl/4axAH2
+#EXTINF:-1,EcLectronica - Digitally Imported
+http://goo.gl/lcitbb
+#EXTINF:-1,Electro House - Digitally Imported
+http://goo.gl/IhRGd0
+#EXTINF:-1,Electropop - Digitally Imported
+http://goo.gl/s4aCi9
+#EXTINF:-1,Epic Trance - Digitally Imported
+http://goo.gl/FHIWp2
+#EXTINF:-1,EuroDance - Digitally Imported
+http://goo.gl/ueUBHy
+#EXTINF:-1,Funky House - Digitally Imported
+http://goo.gl/fpm2GG
+#EXTINF:-1,Future Garage - Digitally Imported
+http://goo.gl/4YvOGo
+#EXTINF:-1,Future Synthpop - Digitally Imported
+http://goo.gl/P5vuQV
+#EXTINF:-1,Gabber - Digitally Imported
+http://goo.gl/ec6aYi
+#EXTINF:-1,Goa & Psychedelic Trance - Digitally Imported
+http://goo.gl/ddexWK
+#EXTINF:-1,Hands Up - Digitally Imported
+http://goo.gl/dpZkzN
+#EXTINF:-1,Hard Dance - Digitally Imported
+http://goo.gl/A92JIT
+#EXTINF:-1,Hard Techno - Digitally Imported
+http://goo.gl/N6iXwj
+#EXTINF:-1,Hardcore - Digitally Imported
+http://goo.gl/I7OU5k
+#EXTINF:-1,Hardstyle - Digitally Imported
+http://goo.gl/NUYmUL
+#EXTINF:-1,House - Digitally Imported
+http://goo.gl/yRVD3a
+#EXTINF:-1,Indie Dance - Digitally Imported
+http://goo.gl/gZkyqW
+#EXTINF:-1,Jungle - Digitally Imported
+http://goo.gl/pCfHuS
+#EXTINF:-1,Latin House - Digitally Imported
+http://goo.gl/KyPgyu
+#EXTINF:-1,Liquid DnB - Digitally Imported
+http://goo.gl/jRo2SK
+#EXTINF:-1,Liquid Dubstep - Digitally Imported
+http://goo.gl/anLo9d
+#EXTINF:-1,Liquid Trap - Digitally Imported
+http://goo.gl/TJ8XGc
+#EXTINF:-1,Lounge - Digitally Imported
+http://goo.gl/4qBh16
+#EXTINF:-1,Mainstage - Digitally Imported
+http://goo.gl/OB3tA8
+#EXTINF:-1,Minimal - Digitally Imported
+http://goo.gl/cE3bOu
+#EXTINF:-1,Nightcore - Digitally Imported
+http://goo.gl/scbPIu
+#EXTINF:-1,Nu Disco - Digitally Imported
+http://goo.gl/RBmvSw
+#EXTINF:-1,Oldschool Acid - Digitally Imported
+http://goo.gl/FHGBfH
+#EXTINF:-1,Oldschool Rave - Digitally Imported
+http://goo.gl/kIRcKG
+#EXTINF:-1,Oldschool Techno & Trance - Digitally Imported
+http://goo.gl/MWeysQ
+#EXTINF:-1,Progressive Psy - Digitally Imported
+http://goo.gl/Zabv14
+#EXTINF:-1,Progressive - Digitally Imported
+http://goo.gl/JpO8XX
+#EXTINF:-1,Psybient - Digitally Imported
+http://goo.gl/RKuUMG
+#EXTINF:-1,PsyChill - Digitally Imported
+http://goo.gl/R9bhl3
+#EXTINF:-1,Russian Club Hits - Digitally Imported
+http://goo.gl/YvvXGc
+#EXTINF:-1,Soulful House - Digitally Imported
+http://goo.gl/kNnFCq
+#EXTINF:-1,Space Dreams - Digitally Imported
+http://goo.gl/AjnKj8
+#EXTINF:-1,Tech House - Digitally Imported
+http://goo.gl/2BkS6G
+#EXTINF:-1,Techno - Digitally Imported
+http://goo.gl/wfHVU7
+#EXTINF:-1,Trance - Digitally Imported
+http://goo.gl/YLTTGa
+#EXTINF:-1,Trap - Digitally Imported
+http://goo.gl/yvHGfr
+#EXTINF:-1,Tribal House - Digitally Imported
+http://goo.gl/bknInV
+#EXTINF:-1,UMF Radio - Digitally Imported
+http://goo.gl/vGWUrW
+#EXTINF:-1,Underground Techno - Digitally Imported
+http://goo.gl/FpzkBK
+#EXTINF:-1,Vocal Chillout - Digitally Imported
+http://goo.gl/qLs0Oj
+#EXTINF:-1,Vocal Lounge - Digitally Imported
+http://goo.gl/Xsh9a1
+#EXTINF:-1,Vocal Trance - Digitally Imported
+http://goo.gl/nvbDmd
+#EXTINF:-1,Workout Mix - CBC Music
+http://1952.live.streamtheworld.com/CBC_WRKOUT_H
+#EXTINF:-1,Chill Out - CBC Music
+http://5463.live.streamtheworld.com/CBC_CHILL1_H
+#EXTINF:-1,Djing Hot Tracks TV
+http://www.djing.com/tv/h-05.m3u8
+#EXTINF:-1,Djing Ibiza HD TV
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Djing Underground HD TV
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1,Djing Classic HD TV
+http://www.djing.com/tv/classics.m3u8?
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+#EXTINF:-1,M20 Music TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESKA Party TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p 
+#EXTINF:-1,First Music HD TV
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8#EXTINF:-1 group-title="radio" radio="true",Ville de Montreal
+http://m3u.domtardif.info
+#EXTINF:-1 tvg-logo="cism.png" group-title="radio" radio="true",CISM
+http://stream03.ustream.ca:8000/cism128.mp3
+#EXTINF:-1 tvg-logo="ckut.png" group-title="radio" radio="true",CKUT
+http://secure.ckut.ca:8000/ckut-live-128
+#EXTINF:-1 tvg-logo="radiovm.png" group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 tvg-logo="radio9.png" group-title="radio" radio="true",Radio9
+http://stream.radiox.com/cklx.mp3
+#EXTINF:-1 tvg-logo="cjmc-fm.png" group-title="radio" radio="true",CJMC-FM
+http://xltrax.com:8010
+#EXTINF:-1 tvg-logo="nrj.png" group-title="radio" radio="true",NRJ 94.3
+http://ckmf-aac.akacast.akamaistream.net/7/493/102120/v1/astral.akacast.akamaistream.net/ckmf-aac
+#EXTINF:-1 tvg-logo="premieremontreal.png" group-title="radio" radio="true",PremiÃ¨re MontrÃ©al
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 tvg-logo="chox.png" group-title="radio" radio="true",CHOX-FM
+http://38.127.70.219:8411
+#EXTINF:-1 tvg-logo="chom.png" group-title="radio" radio="true",CHOM
+http://chom-aac.akacast.akamaistream.net/7/301/102120/v1/astral.akacast.akamaistream.net/chom-aac
+#EXTINF:-1 tvg-logo="cjvdfm.png" group-title="radio" radio="true",CJVD-FM
+http://xlnetwork.info:8820/
+#EXTINF:-1 tvg-logo="ckvl.png" group-title="radio" radio="true",CKVL-FM
+http://stardust.wavestreamer.com:5167/Live
+#EXTINF:-1 tvg-logo="icimusique.png" group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 tvg-logo="cibl.png" group-title="radio" radio="true",CIBL Radio-MontrÃ©al 1101.5 FM
+http://stream02.ustream.ca:8000/cibl128.mp3
+#EXTINF:-1 tvg-logo="chai.png" group-title="radio" radio="true",CHAI
+http://dj-eric.net:8000/
+#EXTINF:-1 tvg-logo="radiocentreville.png" group-title="radio" radio="true",Radio Centre-Ville
+http://199.202.64.118:8044/stream
+#EXTINF:-1 tvg-logo="fm1033.png" group-title="radio" radio="true",FM 103.3
+http://stream02.ustream.ca:8000/fm1033128.mp3
+#EXTINF:-1 tvg-logo="m1035fm.png" group-title="radio" radio="true",M 103.5 FM
+http://207.253.100.153:8000/mp3/intro.mp3
+#EXTINF:-1 tvg-logo="themonster.png" group-title="radio" radio="true",The Monster
+http://knw-stream.mohawk.ca:8000/k103
+#EXTINF:-1 tvg-logo="chocfm.png" group-title="radio" radio="true",CHOC-FM
+http://radio.chocfm.com:8006
+#EXTINF:-1 tvg-logo="cjlafm.png" group-title="radio" radio="true",CJLA-FM
+http://stream.rncmedia.ca/planetelov.mp3
+#EXTINF:-1 tvg-logo="mikefm.png" group-title="radio" radio="true",MIKE FM
+http://212.83.135.226:9912/
+#EXTINF:-1 tvg-logo="ckinfm.png" group-title="radio" radio="true",CKIN-FM
+http://212.83.135.226:9992
+#EXTINF:-1 tvg-logo="le1040.png" group-title="radio" radio="true",Le 1040
+http://gemini.shoutca.st:8572/stream
+#EXTINF:-1 tvg-logo="cfbmradiomontreal.png" group-title="radio" radio="true",CFMB Radio MontrÃ©al
+http://www.live365.com/play/cfmb
+#EXTINF:-1 tvg-logo="cpam.png" group-title="radio" radio="true",CPAM
+http://s1.voscast.com:7538
+#EXTINF:-1 tvg-logo="radiomoyenorient.png" group-title="radio" radio="true",Radio Moyen-Orient
+http://s2.voscast.com:7386
+#EXTINF:-1 tvg-logo="am1570.png" group-title="radio" radio="true",AM 1570
+http://xlnetwork.info:8620/
+#EXTINF:-1 tvg-logo="radioshalom.png" group-title="radio" radio="true",Radio Shalom
+http://50.7.70.66:8509/stream
+#EXTINF:-1 tvg-logo="ckzw.png" group-title="radio" radio="true",CKZW
+http://a1team.net:8128
+#EXTINF:-1 tvg-logo="cjlo.png" group-title="radio" radio="true",CJLO
+http://38.99.182.49:20786/
+#EXTINF:-1 tvg-logo="choqfm.png" group-title="radio" radio="true",CHOQ.FM
+http://diffusion.choq.fm:8000/choqfm1.mp3
+#EXTINF:-1 tvg-logo="radio2040.png" group-title="radio" radio="true",Radio 2040
+http://192.99.7.50:8448/
+#EXTINF:-1 tvg-logo="radioclassique.png" group-title="radio" radio="true",CJPX Radio Classique
+http://208.80.52.118/CJPXFM.mp3
+#EXTINF:-1 tvg-logo="985montreal.png" group-title="radio" radio="true",98.5
+http://38.100.101.65/CHMPFMAAC
+#EXTINF:-1 tvg-logo="ckoi.png" group-title="radio" radio="true",CKOI
+http://208.80.52.126:80/CKOIFMAAC_128
+#EXTINF:-1 tvg-logo="cbcradionone.png" group-title="radio" radio="true",CBC Radio One Montreal
+http://208.92.55.51/CBC_R1_MTL_H
+#EXTINF:-1 tvg-logo="thebeat.png" group-title="radio" radio="true",The Beat
+http://208.92.55.51/CFQRFMAAC_64
+#EXTINF:-1 tvg-logo="rythmefm.png" group-title="radio" radio="true", 105.7 Rythme FM
+http://208.92.55.47/CFGLFMAAC_64
+#EXTINF:-1 tvg-logo="radiocirculation.png" group-title="radio" radio="true", Radio Circulation 730
+http://208.80.52.98/CKACAMAAC
+#EXTINF:-1 tvg-logo="virginradio.png" group-title="radio" radio="true", Virgin Radio 96
+http://cjfm-aac.akacast.akamaistream.net/7/468/102120/v1/astral.akacast.akamaistream.net/cjfm-aac
+#EXTINF:-1 tvg-logo="cjad.png" group-title="radio" radio="true, CJAD 800 AM
+http://cjad-aac.akacast.akamaistream.net/7/568/102120/v1/astral.akacast.akamaistream.net/cjad-aac
+#EXTINF:-1 tvg-logo="rouge1073.png" group-title="radio" radio="true, Rouge FM 107.3
+http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
+#EXTINF:-1 tvg-logo="boomfm.png" group-title="radio" radio="true, Boom FM 104.1
+http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Quebec
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CKRL 89.1
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1 group-title="radio" radio="true",CiQi FM
+http://38.127.70.219:8413
+#EXTINF:-1 group-title="radio" radio="true",WKND 91.9
+http://148.251.146.100:8000/cjec.flv
+#EXTINF:-1 group-title="radio" radio="true",CHYZ
+http://live.chyz.ca:8000
+#EXTINF:-1 group-title="radio" radio="true",LÃ©vis 96.9 
+http://sc6.spacialnet.com:34102
+#EXTINF:-1 group-title="radio" radio="true",CHOI 98.1 Radio X
+http://stream.rncmedia.ca/choi
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.9
+http://astral.akacast.akamaistream.net/7/928/102120/v1/astral.akacast.akamaistream.net/chik-aac
+#EXTINF:-1 group-title="radio" radio="true",ROCK 100.9
+http://stream.rncmedia.ca/chxx.mp3
+#EXTINF:-1 group-title="radio" radio="true",CKOI Quebec
+http://148.251.146.100:8000/cfel.flv
+#EXTINF:-1 group-title="radio" radio="true",Passion FM
+http://stream02.ustream.ca:8000/cfin128.mp3
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re QuÃ©bec
+http://2QQUE0.akacast.akamaistream.net/7/896/177395/v1/rc.akacast.akamaistream.net/2QQUE0
+#EXTINF:-1 group-title="radio" radio="true",FM93
+http://208.92.55.51/CJMFFMAAC
+#EXTINF:-1 group-title="radio" radio="true",Ville de Saguenay
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Saguenay
+http://2QSAG0.akacast.akamaistream.net/7/933/177389/v1/rc.akacast.akamaistream.net/2QSAG0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 94.5
+http://astral.akacast.akamaistream.net/7/379/102120/v1/astral.akacast.akamaistream.net/cjab-aac
+#EXTINF:-1 group-title="radio" radio="true",Radio X
+http://stream.rncmedia.ca/chicoutimi.radiox.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Saguenay
+http://7QSAG0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0
+#EXTINF:-1 group-title="radio" radio="true",PlanÃ¨te 104.5
+http://stream.rncmedia.ca/alma.planeteradio.mp3
+#EXTINF:-1 group-title="radio" radio="true",CEUCRadio
+http://mediacast1.megaquebec.net:8038/listen.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ville de Sept-Iles
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CKAU-FM
+http://streams.museter.com:2199/tunein/ckau48.pls
+#EXTINF:-1 group-title="radio" radio="true",Pur FM
+http://192.99.105.197:8012
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Sept-Iles
+http://2QSEP0.akacast.akamaistream.net/7/892/177399/v1/rc.akacast.akamaistream.net/2QSEP0
+#EXTINF:-1 group-title="radio" radio="true",CIPC-FM
+http://192.99.105.197:8014
+#EXTINF:-1 group-title="radio" radio="true",Ville de Val-dOr
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Rouyn-Noranda
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 102.7
+http://astral.akacast.akamaistream.net/7/421/102120/v1/astral.akacast.akamaistream.net/cjmv-aac
+#EXTINF:-1 group-title="radio" radio="true",Capitale Rock Abitibi
+http://stream.rncmedia.ca/abitibi-chgo2.planeteradio.mp3
+#EXTINF:-1 group-title="radio" radio="true",CHOW-FM
+http://stream.radioboreale.com:8000/Radio_Boreale
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re MontrÃ©al
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Amqui
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",FM 93
+http://s20.myradiostream.com:4070
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Chandler
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Radio GaspÃ©sie
+http://stream02.ustream.ca:8000/cjrg32.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Moncton
+http://7EMCT0.akacast.akamaistream.net/7/282/177408/v1/rc.akacast.akamaistream.net/7EMCT0
+#EXTINF:-1 group-title="radio" radio="true",BleuFM
+http://xltrax.com:8100/
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Matane
+http://2QMAT0.akacast.akamaistream.net/7/608/177392/v1/rc.akacast.akamaistream.net/2QMAT0
+#EXTINF:-1 group-title="radio" radio="true",CHNC
+http://radiosolution.info:8140/
+#EXTINF:-1 group-title="radio" radio="true",Ville de Mont-Laurier
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re MontrÃ©al
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="radio" radio="true",CHGA
+http://stream02.ustream.ca:8000/chga32.mp3
+#EXTINF:-1 group-title="radio" radio="true",CKWE-FM
+http://stream03.ustream.ca/kitiganzibi128.mp3
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Ottawa-Gatineau
+http://2OOTT0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Rimouski
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Rimouski
+http://2QRIM0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0
+#EXTINF:-1 group-title="radio" radio="true",FM 93
+http://s20.myradiostream.com:4070
+#EXTINF:-1 group-title="radio" radio="true",CIEL
+http://38.127.70.219:8409
+#EXTINF:-1 group-title="radio" radio="true",Radio Ntetemuk
+http://radio.cimb.fm:8991/
+#EXTINF:-1 group-title="radio" radio="true",CKMN
+http://orange.voltige.net:8000/ckmn
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.7
+http://ciki-aac.akacast.akamaistream.net/7/688/102120/v1/astral.akacast.akamaistream.net/ciki-aac
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",FM 107
+http://38.127.70.219:8407/
+#EXTINF:-1 group-title="radio" radio="true",Club de Radio Amateur de Trois Pistoles - 147.105MHz
+http://relay.radioreference.com:80/819131315
+#EXTINF:-1 group-title="radio" radio="true",Ville de Rouyn-Noranda
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CHIC-FM
+http://stream.zoneplus.ca:9952
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Rouyn-Noranda
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:-1 group-title="radio" radio="true",Capitale Rock Abitibi
+http://stream.rncmedia.ca/rouyn.radiox.mp3
+#EXTINF:-1 group-title="radio" radio="true",CHUN-FM
+http://stream.zoneplus.ca:9954
+#EXTINF:-1 group-title="radio" radio="true",NRJ 99.1
+http://cjmm-aac.akacast.akamaistream.net/7/320/102120/v1/astral.akacast.akamaistream.net/cjmm-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Sherbrooke
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CJMQ
+http://the.radioservers.biz:9996
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Sherbrooke
+http://7QSHE0.akacast.akamaistream.net/7/504/177413/v1/rc.akacast.akamaistream.net/7QSHE0
+#EXTINF:-1 group-title="radio" radio="true",CFLX
+http://50.7.70.58:8964
+#EXTINF:-1 group-title="radio" radio="true",CIGN-FM
+http://stream02.ustream.ca:8000/cignfm32.mp3
+#EXTINF:-1 group-title="radio" radio="true",CIDI
+http://shoutcast1.voxframe.net:8000/
+#EXTINF:-1 group-title="radio" radio="true",CJAN-FM
+http://174.142.215.249:9996
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Sherbrooke
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:-1 group-title="radio" radio="true",Radio Acton
+http://stream02.ustream.ca:8000/cfid32.mp3
+#EXTINF:-1 group-title="radio" radio="true",Hot Country
+http://173.182.180.169:8000
+#EXTINF:-1 group-title="radio" radio="true",NRJ 106.1
+http://cimo-aac.akacast.akamaistream.net/7/557/102120/v1/astral.akacast.akamaistream.net/cimo-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Trois-Riviere
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Radio Touristique Victoriaville Ã  la VÃ©lo Gare
+http://slmusic.info:9984/
+#EXTINF:-1 group-title="radio" radio="true",CFOU
+http://streamer.xittel.net:8000/cfou
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",CKBN-FM
+http://stream.hebergementultra.com:8100/
+#EXTINF:-1 group-title="radio" radio="true",Radio Shawinigan
+http://m01.stream.ustream.ca/fm91132.mp3
+#EXTINF:-1 group-title="radio" radio="true",NRJ 92.1
+http://astral.akacast.akamaistream.net/7/731/102120/v1/astral.akacast.akamaistream.net/cjdm-aac
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Sherbrooke
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.7
+http://ciki-aac.akacast.akamaistream.net/7/688/102120/v1/astral.akacast.akamaistream.net/ciki-aac
+#EXTINF:-1 group-title="radio" radio="true",PremiÃ¨re Trois-RiviÃ¨res
+http://2QTRV0.akacast.akamaistream.net/7/145/177403/v1/rc.akacast.akamaistream.net/2QTRV0
+#EXTINF:-1 group-title="radio" radio="true",O97.3
+http://xlnetwork.info:5400/
+#EXTINF:-1 group-title="radio" radio="true",CHOX-FM
+http://38.127.70.219:8411
+#EXTINF:-1 group-title="radio" radio="true",Passion-Rock 101,9
+http://xlnetwork.info:7790/
+#EXTINF:-1 group-title="radio" radio="true",NRJ 102.3
+http://astral.akacast.akamaistream.net/7/102/102120/v1/astral.akacast.akamaistream.net/cigb-aac
+#EXTINF:-1 group-title="radio" radio="true",CH2O
+http://www.ch2ofm.ca:85/broadwave.m3u?src=1&kbps=96
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Trois-RiviÃ¨res
+http://7QTRV0.akacast.akamaistream.net/7/87/177416/v1/rc.akacast.akamaistream.net/7QTRV0#EXTINF:0,RTP 1
+http://89.163.145.119:8000/live/casa/casa/3.ts
+#EXTINF:0,RTP 2
+http://89.163.145.119:8000/live/casa/casa/5.ts
+#EXTINF:0,SIC
+http://89.163.145.119:8000/live/casa/casa/11.ts
+#EXTINF:0,TVI
+http://89.163.145.119:8000/live/casa/casa/15.ts
+#EXTINF:0,SIC NOTICIAS
+http://89.163.145.119:8000/live/casa/casa/35.ts
+#EXTINF:0,RTP INFORMACAO
+http://89.163.145.119:8000/live/casa/casa/34.ts
+#EXTINF:0,TVI24
+http://89.163.145.119:8000/live/casa/casa/36.ts
+#EXTINF:0,TVI FICCAO
+http://89.163.145.119:8000/live/casa/casa/17.ts
+#EXTINF:0,TVI REALITY
+http://89.163.145.119:8000/live/casa/casa/16.ts
+#EXTINF:0,SIC MULHER
+http://89.163.145.119:8000/live/casa/casa/13.ts
+#EXTINF:0,SIC CARAS
+http://89.163.145.119:8000/live/casa/casa/12.ts
+#EXTINF:0,SIC RADICAL
+http://89.163.145.119:8000/live/casa/casa/14.ts
+#EXTINF:0,RTP MEMORIA
+http://89.163.145.119:8000/live/casa/casa/10.ts
+#EXTINF:0,RTP AFRICA
+http://89.163.145.119:8000/live/casa/casa/7.ts
+#EXTINF:0,——DESPORTO————
+http://89.163.145.119:8000/live/casa/casa/43.ts
+#EXTINF:0,SPORTTV 1 HD
+http://89.163.145.119:8000/live/casa/casa/52.ts
+#EXTINF:0,SPORTTV 1
+http://89.163.145.119:8000/live/casa/casa/53.ts
+#EXTINF:0,SPORTTV 2 HD
+http://89.163.145.119:8000/live/casa/casa/54.ts
+#EXTINF:0,SPORTTV 2
+http://89.163.145.119:8000/live/casa/casa/55.ts
+#EXTINF:0,SPORTTV 4 HD
+http://89.163.145.119:8000/live/casa/casa/57.ts
+#EXTINF:0,SPORTTV 4
+http://89.163.145.119:8000/live/casa/casa/58.ts
+#EXTINF:0,SPORTTV 3
+http://89.163.145.119:8000/live/casa/casa/56.ts
+#EXTINF:0,SPORTTV 5
+http://89.163.145.119:8000/live/casa/casa/59.ts
+#EXTINF:0,SPORTTV AMERICA
+http://89.163.145.119:8000/live/casa/casa/60.ts
+#EXTINF:0,BTV 1 HD
+http://89.163.145.119:8000/live/casa/casa/45.ts
+#EXTINF:0,BTV 1
+http://89.163.145.119:8000/live/casa/casa/46.ts
+#EXTINF:0,BTV2
+http://89.163.145.119:8000/live/casa/casa/47.ts
+#EXTINF:0,SPORTING TV HD
+http://89.163.145.119:8000/live/casa/casa/51.ts
+#EXTINF:0,EUROSPORT
+http://89.163.145.119:8000/live/casa/casa/70.ts
+#EXTINF:0,EUROSPORT 2
+http://89.163.145.119:8000/live/casa/casa/71.ts
+#EXTINF:0,EUROSPORT NEWS
+http://89.163.145.119:8000/live/casa/casa/69.ts
+#EXTINF:0,WWE
+http://89.163.145.119:8000/live/casa/casa/62.ts
+#EXTINF:0,WOOHOO
+http://89.163.145.119:8000/live/casa/casa/18.ts
+#EXTINF:0,VH1
+http://89.163.145.119:8000/live/casa/casa/133.ts
+#EXTINF:0,VH1 CLASSIC
+http://89.163.145.119:8000/live/casa/casa/134.ts
+#EXTINF:0,VEVO 1 HD
+http://89.163.145.119:8000/live/casa/casa/137.ts
+#EXTINF:0,VEVO 2 HD
+http://89.163.145.119:8000/live/casa/casa/138.ts
+#EXTINF:0,VEVO 3 HD
+http://89.163.145.119:8000/live/casa/casa/139.ts
+#EXTINF:0,TVCINE 1 HD
+http://89.163.145.119:8000/live/casa/casa/88.ts
+#EXTINF:0,TVCINE 2 HD
+http://89.163.145.119:8000/live/casa/casa/89.ts
+#EXTINF:0,TVCINE 2
+http://89.163.145.119:8000/live/casa/casa/90.ts
+#EXTINF:0,TVCINE 3 HD
+http://89.163.145.119:8000/live/casa/casa/91.ts
+#EXTINF:0,TVCINE 4 HD
+http://89.163.145.119:8000/live/casa/casa/92.ts
+#EXTINF:0,TVC SERIES
+http://89.163.145.119:8000/live/casa/casa/93.ts
+#EXTINF:0,SYFY HD
+http://89.163.145.119:8000/live/casa/casa/108.ts
+#EXTINF:0,TV RECORD
+http://89.163.145.119:8000/live/casa/casa/25.ts
+#EXTINF:0,TV GALICIA
+http://89.163.145.119:8000/live/casa/casa/27.ts
+#EXTINF:0,TRAVEL CHANNEL HD
+http://89.163.145.119:8000/live/casa/casa/152.ts
+#EXTINF:0,TPA (ANG)
+http://89.163.145.119:8000/live/casa/casa/24.ts
+#EXTINF:0,TOROS TV
+http://89.163.145.119:8000/live/casa/casa/68.ts
+#EXTINF:0,SKY SPORT 1 HD (DE)
+http://89.163.145.119:8000/live/casa/casa/74.ts
+#EXTINF:0,SKY NEWS
+http://89.163.145.119:8000/live/casa/casa/42.ts
+#EXTINF:0,SIC KIDS
+http://89.163.145.119:8000/live/casa/casa/119.ts
+#EXTINF:0,RTP MADEIRA
+http://89.163.145.119:8000/live/casa/casa/9.ts
+#EXTINF:0,RTP INTERNACIONAL
+http://89.163.145.119:8000/live/casa/casa/8.ts
+#EXTINF:0,RTP ACORES
+http://89.163.145.119:8000/live/casa/casa/6.ts
+#EXTINF:0,RTP 1 HD
+http://89.163.145.119:8000/live/casa/casa/4.ts
+#EXTINF:0,REDE TV
+http://89.163.145.119:8000/live/casa/casa/23.ts
+#EXTINF:0,RECORD NEWS
+http://89.163.145.119:8000/live/casa/casa/41.ts
+#EXTINF:0,REAL MADRID TV HD
+http://89.163.145.119:8000/live/casa/casa/73.ts
+#EXTINF:0,Q CANAL
+http://89.163.145.119:8000/live/casa/casa/19.ts
+#EXTINF:0,PORTO CANAL
+http://89.163.145.119:8000/live/casa/casa/48.ts
+#EXTINF:0,PFC HD
+http://89.163.145.119:8000/live/casa/casa/67.ts
+#EXTINF:0,PANDA BIGGS
+http://89.163.145.119:8000/live/casa/casa/115.ts
+#EXTINF:0,ONE 1 HD
+http://89.163.145.119:8000/live/casa/casa/122.ts
+#EXTINF:0,ODISSEIA
+http://89.163.145.119:8000/live/casa/casa/147.ts
+#EXTINF:0,NICK HD
+http://89.163.145.119:8000/live/casa/casa/118.ts
+#EXTINF:0,NFL HD
+http://89.163.145.119:8000/live/casa/casa/77.ts
+#EXTINF:0,NBA
+http://89.163.145.119:8000/live/casa/casa/49.ts
+#EXTINF:0,NAT GEO WILD
+http://89.163.145.119:8000/live/casa/casa/151.ts
+#EXTINF:0,NAT GEO HD
+http://89.163.145.119:8000/live/casa/casa/150.ts
+#EXTINF:0,NASCAR
+http://89.163.145.119:8000/live/casa/casa/75.ts
+#EXTINF:0,MUTV
+http://89.163.145.119:8000/live/casa/casa/66.ts
+#EXTINF:0,MUSIC VOX TV HD
+http://89.163.145.119:8000/live/casa/casa/130.ts
+#EXTINF:0,MTV PORTUGAL
+http://89.163.145.119:8000/live/casa/casa/132.ts
+#EXTINF:0,MOV HD
+http://89.163.145.119:8000/live/casa/casa/106.ts
+#EXTINF:0,MOTORS TV
+http://89.163.145.119:8000/live/casa/casa/72.ts
+#EXTINF:0,MEZZO
+http://89.163.145.119:8000/live/casa/casa/136.ts
+#EXTINF:0,MCM POP
+http://89.163.145.119:8000/live/casa/casa/131.ts
+#EXTINF:0,MAN CITY
+http://89.163.145.119:8000/live/casa/casa/76.ts
+#EXTINF:0,LIGUE 1 (FR)
+http://89.163.145.119:8000/live/casa/casa/79.ts
+#EXTINF:0,LIGA BBVA
+http://89.163.145.119:8000/live/casa/casa/80.ts
+#EXTINF:0,JIM JAM
+http://89.163.145.119:8000/live/casa/casa/111.ts
+#EXTINF:0,HOLLYWOOD HD
+http://89.163.145.119:8000/live/casa/casa/105.ts
+#EXTINF:0,HISTORIA HD
+http://89.163.145.119:8000/live/casa/casa/146.ts
+#EXTINF:0,GOLF TV
+http://89.163.145.119:8000/live/casa/casa/81.ts
+#EXTINF:0,GLOBO PORTUGAL
+http://89.163.145.119:8000/live/casa/casa/21.ts
+#EXTINF:0,GB: SKY SPORT 1
+http://89.163.145.119:8000/live/casa/casa/82.ts
+#EXTINF:0,FX
+http://89.163.145.119:8000/live/casa/casa/104.ts
+#EXTINF:0,FUEL TV
+http://89.163.145.119:8000/live/casa/casa/50.ts
+#EXTINF:0,FRANCE 24
+http://89.163.145.119:8000/live/casa/casa/32.ts
+#EXTINF:0,FR: BEIN SPORT 1 HD
+http://89.163.145.119:8000/live/casa/casa/83.ts
+#EXTINF:0,FOX NEWS
+http://89.163.145.119:8000/live/casa/casa/33.ts
+#EXTINF:0,FOX MOVIES HD
+http://89.163.145.119:8000/live/casa/casa/101.ts
+#EXTINF:0,FOX MOVIES
+http://89.163.145.119:8000/live/casa/casa/102.ts
+#EXTINF:0,FOX LIFE HD
+http://89.163.145.119:8000/live/casa/casa/103.ts
+#EXTINF:0,FOX HD
+http://89.163.145.119:8000/live/casa/casa/99.ts
+#EXTINF:0,FOX CRIME HD
+http://89.163.145.119:8000/live/casa/casa/100.ts
+#EXTINF:0,FOOD NETWORK
+http://89.163.145.119:8000/live/casa/casa/142.ts
+#EXTINF:0,FIFA TV HD
+http://89.163.145.119:8000/live/casa/casa/63.ts
+#EXTINF:0,FASHION HD
+http://89.163.145.119:8000/live/casa/casa/145.ts
+#EXTINF:0,EURONEWS
+http://89.163.145.119:8000/live/casa/casa/30.ts
+#EXTINF:0,ESPN CLASSIC
+http://89.163.145.119:8000/live/casa/casa/64.ts
+#EXTINF:0,ESKA ROCK HD
+http://89.163.145.119:8000/live/casa/casa/127.ts
+#EXTINF:0,ESKA PARTY HD
+http://89.163.145.119:8000/live/casa/casa/128.ts
+#EXTINF:0,ESKA BEST MUSIC HD
+http://89.163.145.119:8000/live/casa/casa/129.ts
+#EXTINF:0,ES: C  LIGA
+http://89.163.145.119:8000/live/casa/casa/84.ts
+#EXTINF:0,ES: C  FUTBOL
+http://89.163.145.119:8000/live/casa/casa/85.ts
+#EXTINF:0,ECONOMICO TV
+http://89.163.145.119:8000/live/casa/casa/29.ts
+#EXTINF:0,E! ENTERTAINMENT
+http://89.163.145.119:8000/live/casa/casa/109.ts
+#EXTINF:0,DJING HD
+http://89.163.145.119:8000/live/casa/casa/123.ts
+#EXTINF:0,DJING CLASSIC HD
+http://89.163.145.119:8000/live/casa/casa/124.ts
+#EXTINF:0,DJING ANIMATION HD
+http://89.163.145.119:8000/live/casa/casa/125.ts
+#EXTINF:0,DISNEY JUNIOR
+http://89.163.145.119:8000/live/casa/casa/117.ts
+#EXTINF:0,DISNEY CHANNEL
+http://89.163.145.119:8000/live/casa/casa/116.ts
+#EXTINF:0,DISCOVERY SHOWCASE HD
+http://89.163.145.119:8000/live/casa/casa/148.ts
+#EXTINF:0,DISCOVERY HD
+http://89.163.145.119:8000/live/casa/casa/149.ts
+#EXTINF:0,CNN
+http://89.163.145.119:8000/live/casa/casa/40.ts
+#EXTINF:0,CNBC
+http://89.163.145.119:8000/live/casa/casa/39.ts
+#EXTINF:0,CMTV
+http://89.163.145.119:8000/live/casa/casa/31.ts
+#EXTINF:0,CLUBLAND
+http://89.163.145.119:8000/live/casa/casa/126.ts
+#EXTINF:0,CINEMUNDO
+http://89.163.145.119:8000/live/casa/casa/94.ts
+#EXTINF:0,CHELSEA TV
+http://89.163.145.119:8000/live/casa/casa/65.ts
+#EXTINF:0,CHAMPIONS LEAGUE (LIVE)
+http://89.163.145.119:8000/live/casa/casa/86.ts
+#EXTINF:0,CBS REALITY
+http://89.163.145.119:8000/live/casa/casa/98.ts
+#EXTINF:0,CARTOON NETWORK
+http://89.163.145.119:8000/live/casa/casa/113.ts
+#EXTINF:0,CAPELA DE FATIMA
+http://89.163.145.119:8000/live/casa/casa/141.ts
+#EXTINF:0,CANЗAO NOVA
+http://89.163.145.119:8000/live/casa/casa/26.ts
+#EXTINF:0,CANAL PANDA HD
+http://89.163.145.119:8000/live/casa/casa/114.ts
+#EXTINF:0,CANAL  SPORT HD
+http://89.163.145.119:8000/live/casa/casa/78.ts
+#EXTINF:0,CAЗA E PESCA
+http://89.163.145.119:8000/live/casa/casa/144.ts
+#EXTINF:0,BR: TV BRASIL
+http://89.163.145.119:8000/live/casa/casa/22.ts
+#EXTINF:0,BR: GAZETA
+http://89.163.145.119:8000/live/casa/casa/20.ts
+#EXTINF:0,BBC NEWS
+http://89.163.145.119:8000/live/casa/casa/38.ts
+#EXTINF:0,BARЗA TV
+http://89.163.145.119:8000/live/casa/casa/61.ts
+#EXTINF:0,BABY TV
+http://89.163.145.119:8000/live/casa/casa/112.ts
+#EXTINF:0,AXN WHITE HD
+http://89.163.145.119:8000/live/casa/casa/97.ts
+#EXTINF:0,AXN HD
+http://89.163.145.119:8000/live/casa/casa/95.ts
+#EXTINF:0,AXN BLACK HD
+http://89.163.145.119:8000/live/casa/casa/96.ts
+#EXTINF:0,AMC
+http://89.163.145.119:8000/live/casa/casa/107.ts
+#EXTINF:0,ALJAZEERA
+http://89.163.145.119:8000/live/casa/casa/37.ts
+#EXTINF:0,AFRO MUSIC HD
+http://89.163.145.119:8000/live/casa/casa/135.ts
+#EXTINF:0,ABOLA TV
+http://89.163.145.119:8000/live/casa/casa/44.ts
+#EXTINF:0,24KITCHEN HD
+http://89.163.145.119:8000/live/casa/casa/143.ts
+#EXTINF:0,1HD
+http://89.163.145.119:8000/live/casa/casa/121.ts
+#EXTINF:0,=====XXX=====
+http://89.163.145.119:8000/live/casa/casa/153.ts
+#EXTINF:0,PLAYBOY (XXX)
+http://89.163.145.119:8000/live/casa/casa/156.ts
+#EXTINF:0,VENUS (XXX)
+http://89.163.145.119:8000/live/casa/casa/157.ts
+#EXTINF:0,HOT (XXX)
+http://89.163.145.119:8000/live/casa/casa/158.ts
+#EXTINF:0,PRIVATE (XXX)
+http://89.163.145.119:8000/live/casa/casa/155.ts
+#EXTINF:0,BLUE HUSTELER (XXX)
+http://89.163.145.119:8000/live/casa/casa/154.ts#EXTINF:-1,Lista_moved 2-->http://weblinks.altervista.org/SPET.htm (browser pc & android)
+http://weblinks.altervista.org/LSTV.htm#EXTINF:0,[COLOR yellow][B]                              Liste Chaines TV Internationales[/B][/COLOR]
+#EXTINF:0,                          [COLOR greenyellow][B]Bouquet Chaines TV Internationales[/B][/COLOR]
+#EXTINF:0,                                            [COLOR greenyellow][B]Chaines TV France[/B][/COLOR]
+#EXTINF:0,        [COLOR yellow]-------------------- [B]Chaines TV Information[/B] --------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]BFM TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1,[COLOR white][B]BFM Business [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8
+#EXTINF:-1,[COLOR white][B]FRANCE 24 (FRA) [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1,[COLOR white][B]I24News [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,[COLOR white][B]Euronews [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+#EXTINF:-1,[COLOR white][B]TV5 Monde [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=146.159.95.38
+#EXTINF:-1,[COLOR white][B]I TELE [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/itelefr@326263.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]LCI [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/1227.ts
+#EXTINF:0,    [COLOR yellow]--------------------- [B]Chaines TV Generalistes[/B] ---------------------[/COLOR]
+#EXTINF:-1,beIN sports FR 2(Francia)
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1,beIN sports HD
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1,beIN sports 1 HD
+rtmp://176.10.250.166:1935/tv/stream4  
+#EXTINF:-1,[COLOR white][B]TF1 [/B][/COLOR][COLOR yellow][B] France[/B][/COLOR]
+http://hls.tv.iptv.ink/tf1fr@444423.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]France 2 HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/france2fr@432137.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]France 3 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/france3fr@217153.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]France 4 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/france4fr@313527.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]France 5 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/france5fr@308859.m3u8|X-Forwarded-For=81.17.18.55
+http://tvi.ddns.me:8000/live/rich/rich/210.ts
+#EXTINF:-1,[COLOR white][B]France O [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/franceofr@857573.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:0,       [COLOR yellow]----------------------- [B]Chaines TV Sport[/B] -------------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]Canal+ Sport [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:0,[COLOR white][B]BeIN Sport 1 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/playlist.m3u8
+#EXTINF:0,[COLOR white][B]BeIN Sport 2 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://myafricanmega3.tulix.tv:1935/map-beinsports2hd/map-beinsports2hd/playlist.m3u8
+   http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/29.m3u8
+#EXTINF:0,[COLOR white][B]BeIN Sport 3 [/B][/COLOR][COLOR yellow][B]France[/B][COLOR greenyellow] (Instable)[/COLOR]
+http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:-,[COLOR white][B]Ma Chaine Sport [/B][/COLOR][COLOR yellow][B]France[/B][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/720.m3u8
+#EXTINF:-1,[COLOR white][B]Eurosport [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://178.33.88.129:888/udp/239.102.0.26:1234
+#EXTINF:-1,[COLOR white][B]Eurosport 2 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/215.m3u8
+#EXTINF:-1,[COLOR white][B]L Equipe 21 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/lequipefr@256612.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]AB Moteurs [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.218.112.51:7781/udp/234.5.2.41:1234
+#EXTINF:0,       [COLOR yellow]----------------------- [B]Chaines TV Cinema[/B] -----------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]E! ENTERTAINMENT [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/871.ts
+#EXTINF:-1,[COLOR white][B]W9 HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/w9fr@985019.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]RTL 9 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/rtl9fr@356117.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]M6 HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_1256.m3u8
+#EXTINF:-1,[COLOR white][B]D17 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/d17fr@217576.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]Numero 23 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/numero23fr@844608.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]NT1 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/nt1fr@892431.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]D8 HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/d8fr@711979.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]NRJ12 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/nrj12fr@427412.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]OCS CITY [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/698.ts
+#EXTINF:-1,[COLOR white][B]OCS CHOC [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.75:1234
+#EXTINF:-1,[COLOR white][B]OCS GIANTS [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/903.ts
+#EXTINF:-1,[COLOR white][B]OCS MAX [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/902.ts
+#EXTINF:-1,[COLOR white][B]ACTION [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/863.ts
+#EXTINF:-1,[COLOR white][B]13EM RUE HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/214.ts
+#EXTINF:-1,[COLOR white][B]COMEDIE+ [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/872.ts
+#EXTINF:-1,[COLOR white][B]Parie Premiere HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/181.ts
+#EXTINF:-1,[COLOR white][B]AB1 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR orange][B] Offline[/B][/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/950.m3u8
+#EXTINF:-1,[COLOR white][B]Serie Club [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.82:1234
+#EXTINF:-1,[COLOR white][B]HD1 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/hd1fr@938750.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]TMC [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/960.m3u8
+#EXTINF:-1,[COLOR white][B]Cherie 25 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/cherie25fr@719525.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]TREK [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.218.112.51:7781/udp/234.5.2.43:1234
+#EXTINF:-1,[COLOR white][B]Rouge TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:0,[COLOR white][B]Cine Fil [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/cinefil.mp4
+#EXTINF:0,[COLOR white][B]Cinetoile [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/cinetoile.mp4
+#EXTINF:-1,[COLOR white][B]Gong Base [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1,[COLOR white][B]Phorme TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+rtmp://ec.playmedia.fr/enorme-tv/ playpath=live swfUrl=http://enorme.tv/mediaelement-live/flashmediaelement.swf pageUrl=http://enorme.tv/
+#EXTINF:-1,[COLOR white][B]Club1 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/ch01.ts
+#EXTINF:-1,[COLOR white][B]Premiere [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/ch02.ts
+#EXTINF:-1,[COLOR white][B]Cinefil [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/ch03.ts
+#EXTINF:-1,[COLOR white][B]Cinq+ [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/ch05.ts
+#EXTINF:-1,[COLOR white][B]Comedy [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR orange][B] Offline[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]West [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/ch08.ts
+#EXTINF:-1,[COLOR white][B]Rouge TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/rougefr@680090.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]6Ter [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/6terfr@820597.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:0,       [COLOR yellow]------------------------ [B]Chaines TV Canal[/B] ------------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]Canal+ HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/734.m3u8
+#EXTINF:-1,[COLOR white][B]Canal+ Cinema HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/183.m3u8
+#EXTINF:-1,[COLOR white][B]Canal+ Familly [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/182.m3u8
+#EXTINF:-1,[COLOR white][B]Canal+ Decale [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/582.m3u8
+#EXTINF:-1,[COLOR white][B]Canal+ series [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://178.33.88.129:888/udp/239.102.0.78:1234
+#EXTINF:-1,[COLOR white][B]CINE+ FRISSON HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/877.ts
+#EXTINF:-1,[COLOR white][B]CINE+ PREMIER HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/878.ts
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/731.m3u8
+http://tvi.ddns.me:8000/live/rich/rich/875.ts
+#EXTINF:-1,[COLOR white][B]CINE+ FAMIZ HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/732.m3u8
+#EXTINF:-1,[COLOR white][B]CINE CLASSIC HD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/733.m3u8
+#EXTINF:-1,[COLOR white][B]CINE POLAR [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/950.ts
+#EXTINF:-1,[COLOR white][B]CINE FIL [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/874.ts
+#EXTINF:-1,[COLOR white][B]CINE FX [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/826.ts
+#EXTINF:-1,[COLOR white][B]CINE ETOILE [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://tvi.ddns.me:8000/live/rich/rich/873.ts
+#EXTINF:-1,[COLOR white][B]CINE Premier [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/576.m3u8
+#EXTINF:-1,[COLOR white][B]CINE Emotion [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR greenyellow] (Instable)[/COLOR]
+http://iptvstream.dyndns.tv:8000/live/Dragan/Dragan/577.m3u8
+#EXTINF:0, [COLOR yellow]----------------- [B]Chaines TV Culture et Decouvetre[/B] -----------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]RMC Decouverte [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:-1,[COLOR white][B]Discovery Channel [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.90:1234
+#EXTINF:-1,[COLOR white][B]Ushuaia TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.91:1234
+#EXTINF:-1,[COLOR white][B]Planete+ Thalassa [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.92:1234
+#EXTINF:-1,[COLOR white][B]Documania [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR orange][B] Offline[/B][/COLOR]
+http://teleclub.fr/ch04.ts
+#EXTINF:-1,[COLOR white][B]Montagne TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/montagnefr@647133.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]Escale [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR orange][B] Offline[/B][/COLOR]
+http://91.211.51.155:5555/udp/224.20.20.30:1234
+#EXTINF:0,[COLOR white][B]Arte [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,[COLOR white][B]Science [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR][COLOR orange][B] Offline[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.79:1234
+#EXTINF:-1,[COLOR white][B]Voyage [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.85:1234
+#EXTINF:-1,[COLOR white][B]Animaux [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]Science et Vie TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+#EXTINF:-1,[COLOR white][B]Montagne TV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://pvr.tvip.ga/0238.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1,[COLOR white][B]TVM3 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://pvr.tvip.ga/0240.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1,[COLOR white][B]Tva [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,[COLOR white][B]Tebesud Paris [B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:0,        [COLOR yellow]---------------------- [B]Chaines TV Enfants[/B] ----------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]Disney XD [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.88:1234
+#EXTINF:-1,[COLOR white][B]Cartoon Network [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.89:1234
+#EXTINF:-1,[COLOR white][B]Cartoon+ [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.57:1234
+#EXTINF:-1,[COLOR white][B]Gulli [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://hls.tv.iptv.ink/gullifr@841822.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]Gloubi [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://teleclub.fr/ch06.ts
+#EXTINF:0,       [COLOR yellow]----------------------- [B]Chaines TV Locales[/B] ----------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]La Tele [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]Yvelines 1ere [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://rtmp.infomaniak.ch/livecast/yveline1/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]D!CI Tv [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+rtmp://rtmp.infomaniak.ch/livecast playpath=dciwebcam swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.74.swf?sVersion=4%2E2%2E74&sDe–SS–ion=&sTitle=&bLd=0 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=dciwebcam&name=dici.fr_tv&player=2014
+#EXTINF:0,       [COLOR yellow]---------------------- [B]Chaines TV Musicale[/B] ----------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]Trace Urban [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
+#EXTINF:-1,[COLOR white][B]MTV [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://178.33.88.129:888/udp/239.102.0.74:1234
+#EXTINF:-1,[COLOR white][B]M6 Music [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,[COLOR white][B]M6 [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:0,    [COLOR greenyellow]------------------------ [B]Chaines TV Suisse[/B] ------------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]RTS Un [/B][/COLOR][COLOR yellow][B]Suisse[/B][/COLOR]
+http://hls.tv.iptv.ink/rts1fr@894305.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,[COLOR white][B]RTS Deux [/B][/COLOR][COLOR yellow][B]Suisse[/B][/COLOR]
+http://hls.tv.iptv.ink/rts2fr@600355.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:0,    [COLOR greenyellow]----------------------- [B]Chaines TV Belgique[/B] -----------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]La Une [/COLOR][COLOR blue]Periodique [/B][/COLOR][COLOR yellow][B]Belgique[/B][/COLOR]
+http://rtmp.infomaniak.ch/livecast/laune/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]La Deux [/COLOR][COLOR blue]Periodique [/B][/COLOR][COLOR yellow][B]Belgique[/B][/COLOR]
+http://rtmp.infomaniak.ch/livecast/ladeux/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]La Trois [/COLOR][COLOR blue]Periodique [/B][/COLOR][COLOR yellow][B]Belgique[/B][/COLOR]
+http://rtmp.infomaniak.ch/livecast/latrois/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]Tele Bruxelles [/B][/COLOR][COLOR yellow][B]Belgique[/B][/COLOR]
+rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout=60
+#EXTINF:-1,[COLOR white][B]TV Lux [/B][/COLOR][COLOR yellow][B]Belgique[/B][/COLOR]
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:0,     [COLOR greenyellow]-------------------- [B]Chaines TV Anglophones[/B] ---------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]ABC NEWS [/B][/COLOR][COLOR yellow][B]Etats Unis[/B][/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,[COLOR white][B]BLOOMBERG [/B][/COLOR][COLOR yellow][B]Etats Unis[/B][/COLOR]
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1,[COLOR white][B]FRANCE 24 (EN) [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,[COLOR white][B]Bloomberg [/B][/COLOR][COLOR yellow][B]Angleterre[/B][/COLOR]
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1,[COLOR white][B]DW [/B][/COLOR][COLOR yellow][B]Etats Unis[/B][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8  
+#EXTINF:-1,[COLOR white][B]WFTV [/B][/COLOR][COLOR yellow][B]Etats Unis[/B][/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+#EXTINF:0,     [COLOR greenyellow]------------------------ [B]Chaines TV Arabe[/B] ------------------------[/COLOR]
+#EXTINF:0,[COLOR white][B]Saudi 1 [/B][/COLOR][COLOR yellow][B]Arabi Saoudite[/B][/COLOR]
+rtmp://74.50.103.199:1935/live?v=3160815557/scsaud1
+#EXTINF:0,[COLOR white][B]Suna TV [/B][/COLOR][COLOR yellow][B]Arabi Saoudite[/B][/COLOR]
+http://46.245.160.224/medine/medine/gmswf.m3u8
+#EXTINF:0,[COLOR white][B]QURAN TV [/B][/COLOR][COLOR yellow][B]Arabie Saoudite[/B][/COLOR]
+http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
+#EXTINF:0,[COLOR white][B]FRANCE 24 (AR) [/B][/COLOR][COLOR yellow][B]France[/B][/COLOR]
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:0,[COLOR white][B]BBC Arabia [/B][/COLOR][COLOR yellow][B]Arabe[/B][/COLOR]
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,[COLOR white][B]DW (Arabia) [/B][/COLOR][COLOR yellow][B]Arabe[/B][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8        
+#EXTINF:0,[COLOR white][B]Al-Baghdadia 2 [/B][/COLOR][COLOR yellow][B]Irak[/B][/COLOR]
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:0,      [COLOR greenyellow]--------------------- [B]Chaines TV Autres Pays[/B] --------------------[/COLOR]
+#EXTINF:-1,[COLOR white][B]RAI 1 [/B][/COLOR][COLOR yellow][B]Italie[/B][/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1,[COLOR white][B]RAI 2 [/B][/COLOR][COLOR yellow][B]Italie[/B][/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1,[COLOR white][B]RAI 3 [/B][/COLOR][COLOR yellow][B]Italie[/B][/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1,[COLOR white][B]Cielo [/B][/COLOR][COLOR yellow][B]Italie[/B][/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]RAI News [/B][/COLOR][COLOR yellow][B]Italie[/B][/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
+#EXTINF:-1,[COLOR white][B]SKY TG24 (ITA) [/B][/COLOR][COLOR yellow][B]Italie[/B][/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]Deutsche Welle  [/B][/COLOR][COLOR yellow][B]Allemagne[/B][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1,[COLOR white][B]DW [/B][/COLOR][COLOR yellow][B]Asie[/B][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8        
+#EXTINF:-1,[COLOR white][B]DW  [/B][/COLOR][COLOR yellow][B]Amerique latine[/B][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,[COLOR white][B]I24 (ISR) [/B][/COLOR][COLOR yellow][B]Israel[/B][/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1,[COLOR white][B]Russia TV [/B][/COLOR][COLOR yellow][B]Russie[/B][/COLOR]
+http://euro.online.hls.cn.ru/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]Peers TV [/B][/COLOR][COLOR yellow][B]Russie[/B][/COLOR]
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1,[COLOR white][B]SKY F1 UK [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+rtmpe://134.19.185.206:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,[COLOR white][B]ARENA [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1,[COLOR white][B]Arena Sport 3 sr [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,[COLOR white][B]Super sport 1 [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,[COLOR white][B]Super sport 2 [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,[COLOR white][B]Super sport 3 [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,[COLOR white][B]PAC 12 Arizona [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,[COLOR white][B]PAC 12 Bay Area [/B][/COLOR][COLOR yellow][B]Sport[/B][/COLOR]
+http://www.xrxs.net/video/live-p12baya-4728.m3u8#EXTINF:0 tvg-name="We have been forced to temporary disable" tvg-id="We have been forced to temporary disable" tvg-logo="" group-title="News",We have been forced to temporary disable
+#EXTINF:0 tvg-name="our service since we are seeking help" tvg-id="our service since we are seeking help" tvg-logo="" group-title="News",our service since we are seeking help
+#EXTINF:0 tvg-name="from you the users to keep the service" tvg-id="from you the users to keep the service" tvg-logo="" group-title="News",from you the users to keep the service
+#EXTINF:0 tvg-name="up and running. cCloud TV is" tvg-id="up and running. cCloud TV is" tvg-logo="" group-title="News",up and running. cCloud TV is
+http://38.99.146.36:7777/ANN_HD.m3u8
+#EXTINF:0 tvg-name="suppose to be community based IPTV service but" tvg-id="suppose to be community based IPTV service but" tvg-logo="" group-title="News",suppose to be community based IPTV service but
+#EXTINF:0 tvg-name="the community is not helping with the" tvg-id="the community is not helping with the" tvg-logo="" group-title="News",the community is not helping with the
+#EXTINF:0 tvg-name="upkeep of nearly 1500 channels. We havebeen" tvg-id="upkeep of nearly 1500 channels. We have been" tvg-logo="" group-title="News",upkeep of nearly 1500 channels. We have been
+#EXTINF:0 tvg-name="forced to disable until the comunity helps.If you would" tvg-id="forced to disable until the comunity helps.If you would" tvg-logo="" group-title="News",forced to disable until the comunity helps.If you would
+#EXTINF:0 tvg-name="like help to keep the project alive.Please go to" tvg-id="like help to keep the project alive.Please go to" tvg-logo="",like help to keep the project alive.Please go to
+#EXTINF:0 tvg-name="www.x.co/gothamup where we have step by step instructions" tvg-id="www.x.co/gothamup where we have step by step instructions" tvg-logo="" group-title="News",www.x.co/gothamup where we have step by step instructions
+#EXTINF:0 tvg-name="on users like you can help out. We apologize" tvg-id="on users like you can help out. We apologize" tvg-logo="" group-title="News",on users like you can help out. We apologize
+#EXTINF:0 tvg-name="for the inconvivne but we had not choice to disable the" tvg-id="for the inconvivne but we had not choice to disable the" tvg-logo="" group-title="News",for the inconvivne but we had not choice to disable the
+#EXTINF:0 tvg-name="service thanks for understanding. cCloud Team" tvg-id="service thanks for understanding. cCloud Team" tvg-logo="" group-title="News",service thanks for understanding. cCloud Team
+#EXTINF:0 tvg-name="talk to ccloud at https://tlk.io/ccloud" tvg-id="talk to ccloud at https://tlk.io/ccloud" tvg-logo="" group-title="News",talk to ccloud at https://tlk.io/ccloud
+http://91.109.20.227:8080/TV4001?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 2
+http://91.109.20.227:8080/TV4002?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 3
+http://91.109.20.227:8080/TV4003?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 4
+http://91.109.20.227:8080/TV4004?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 5
+http://91.109.20.227:8080/TV4005?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 6
+http://91.109.20.227:8080/TV4006?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 7
+http://91.109.20.227:8080/TV4007?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 8
+http://91.109.20.227:8080/TV4008?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 9
+http://91.109.20.227:8080/TV4009?simpletvipadresleriHD
+#EXTINF:-1,BEIN SPORT 10
+http://91.109.20.227:8080/TV4010?simpletvipadresleriHD#EXTINF:-1, ICI RADIO-CANADA
+#EXTINF:-1,[COLOR red]PREMIERE[/COLOR] et [COLOR blue]MUSIQUE[/COLOR]
+#EXTINF:0,[COLOR red]* Charlottetown premiere[/COLOR] 
+http://2emct3.akacast.akamaistream.net/7/749/177388/v1/rc.akacast.akamaistream.net/2EMCT3
+#EXTINF:0,[COLOR red]* Halifax premiere[/COLOR] 
+http://2EMCT2.akacast.akamaistream.net/7/748/177391/v1/rc.akacast.akamaistream.net/2EMCT2
+#EXTINF:0,[COLOR red]* Moncton premiere[/COLOR] 
+http://2EMCT0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0
+#EXTINF:0,[COLOR blue]* Moncton musique[/COLOR]
+http://7EMCT0.akacast.akamaistream.net/7/282/177408/v1/rc.akacast.akamaistream.net/7EMCT0
+#EXTINF:0,[COLOR red]* Matane  premiere[/COLOR]
+http://2QMAT0.akacast.akamaistream.net/7/608/177392/v1/rc.akacast.akamaistream.net/2QMAT0
+#EXTINF:0,[COLOR red]* Rimouski  premiere[/COLOR]
+http://2QRIM0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0
+#EXTINF:0,[COLOR blue]* Rimouski musique[/COLOR]
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:0,[COLOR red]* Sept-Iles  premiere[/COLOR]
+http://2QSEP0.akacast.akamaistream.net/7/892/177399/v1/rc.akacast.akamaistream.net/2QSEP0
+#EXTINF:0,[COLOR red]* Chicoutimi premiere[/COLOR]
+http://2QSAG0.akacast.akamaistream.net/7/933/177389/v1/rc.akacast.akamaistream.net/2QSAG0
+#EXTINF:0,[COLOR blue]* Chicoutimi musique[/COLOR]
+http://7QSAG0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0
+#EXTINF:0,[COLOR red]* Quebec  premiere[/COLOR]
+http://2QQUE0.akacast.akamaistream.net/7/896/177395/v1/rc.akacast.akamaistream.net/2QQUE0
+#EXTINF:0,[COLOR blue]* Quebec musique[/COLOR]
+http://7qque0.akacast.akamaistream.net/7/171/177410/v1/rc.akacast.akamaistream.net/7QQUE0
+#EXTINF:0,[COLOR red]* Trois-Rivieres  premiere[/COLOR]
+http://2QTRV0.akacast.akamaistream.net/7/145/177403/v1/rc.akacast.akamaistream.net/2QTRV0
+#EXTINF:0,[COLOR blue]* Trois-Rivieres musique[/COLOR]
+http://7QTRV0.akacast.akamaistream.net/7/87/177416/v1/rc.akacast.akamaistream.net/7QTRV0
+#EXTINF:0,[COLOR red]* Sherbrooke  premiere[/COLOR]
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:0,[COLOR blue]* Sherbrooke musique[/COLOR]
+http://7QSHE0.akacast.akamaistream.net/7/504/177413/v1/rc.akacast.akamaistream.net/7QSHE0
+#EXTINF:0,[COLOR red]* Rouyn  premiere[/COLOR]
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:0,[COLOR red]* Montreal  premiere[/COLOR]
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:0,[COLOR blue]* Montreal musique[/COLOR]
+http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:0,[COLOR red]* Ottawa  premiere[/COLOR]
+http://2OOTT0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0
+#EXTINF:0,[COLOR blue]* Ottawa musique[/COLOR]
+http://7OOTT0.akacast.akamaistream.net/7/529/177409/v1/rc.akacast.akamaistream.net/7OOTT0
+#EXTINF:0,[COLOR red]* Sudbury  premiere[/COLOR]
+http://2OSUB0.akacast.akamaistream.net/7/339/177401/v1/rc.akacast.akamaistream.net/2OSUB0
+#EXTINF:0,[COLOR red]* Toronto  premiere[/COLOR]
+http://2OTOR0.akacast.akamaistream.net/7/640/177402/v1/rc.akacast.akamaistream.net/2OTOR0
+#EXTINF:0,[COLOR blue]* Toronto  musique[/COLOR]
+http://7OTOR0.akacast.akamaistream.net/7/321/177415/v1/rc.akacast.akamaistream.net/7OTOR0
+#EXTINF:0,[COLOR red]* Windsor  premiere[/COLOR]
+http://2OWDR0.akacast.akamaistream.net/7/603/177405/v1/rc.akacast.akamaistream.net/2OWDR0
+#EXTINF:0,[COLOR red]* Winnipeg  premiere[/COLOR]
+http://2MWIN0.akacast.akamaistream.net/7/504/177406/v1/rc.akacast.akamaistream.net/2MWIN0
+#EXTINF:0,[COLOR blue]* Winnipeg  musique[/COLOR]
+http://7MWIN0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0
+#EXTINF:0,[COLOR red]* Edmonton  premiere[/COLOR]
+http://2AEDM0.akacast.akamaistream.net/7/267/177390/v1/rc.akacast.akamaistream.net/2AEDM0
+#EXTINF:0,[COLOR blue]* Edmonton  musique[/COLOR]
+http://7AEDM0.akacast.akamaistream.net/7/143/224495/v1/rc.akacast.akamaistream.net/7AEDM0
+#EXTINF:0,[COLOR red]* Regina  premiere[/COLOR]
+http://2SREG0.akacast.akamaistream.net/7/508/177396/v1/rc.akacast.akamaistream.net/2SREG0
+#EXTINF:0,[COLOR red]* Vancouver  premiere[/COLOR]
+http://2BVAN0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0
+#EXTINF:0,[COLOR blue]* Vancouver musique[/COLOR]
+http://7BVAN0.akacast.akamaistream.net/7/286/177417/v1/rc.akacast.akamaistream.net/7BVAN0http://www.lesite.tv/s_images/thematique-illustration.png
+#EXTINF:-1,[COLOR blue][I][B]---17-11-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 17-11-2015--[/COLOR]
+#EXTINF:-1,[COLOR orange]--- Chaines Temporaires---[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[COLOR pink][I][B]CHAINES - TV CLUB[/B][/I][/COLOR] [B] - Creer un compte sur le site (www.teleclub.fr) d avoir acces a toutes les chaines[/B]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="MOSAIQUE.ut.cx" tvg-name="Mosaique" tvg-logo="0.png" group-title="tel" ,[COLOR orange]0[/COLOR] Mosaique
+http://tvclub.fr/ch00.ts
+#EXTINF:-1 tvg-id="CLUB1.ut.cx" tvg-name="Club1" tvg-logo="1.png" group-title="tel" ,[COLOR orange]1[/COLOR] Club1
+http://tvclub.fr/ch01.ts
+#EXTINF:-1 tvg-id="PREMIERE.ut.cx" tvg-name="Premiere" tvg-logo="2.png" group-title="tel" ,[COLOR orange]2[/COLOR] Premiere
+http://tvclub.fr/ch02.ts
+#EXTINF:-1 tvg-id="CINEFIL.ut.cx" tvg-name="Cinefil" tvg-logo="3.png" group-title="tel" ,[COLOR orange]3[/COLOR] Cinefil
+http://tvclub.fr/ch03.ts
+#EXTINF:-1 tvg-id="DOCUMANIA.ut.cx" tvg-name="Documania" tvg-logo="4.png" group-title="tel" ,[COLOR orange]4[/COLOR] Documania
+http://tvclub.fr/ch04.ts
+#EXTINF:-1 tvg-id="CINQPLUS.ut.cx" tvg-name="Cinq+" tvg-logo="5.png" group-title="tel" ,[COLOR orange]5[/COLOR] Cinq+
+http://tvclub.fr/ch05.ts
+#EXTINF:-1 tvg-id="GLOUBI.ut.cx" tvg-name="Gloubi" tvg-logo="6.png" group-title="tel" ,[COLOR orange]6[/COLOR] Gloubi
+http://tvclub.fr/ch06.ts
+#EXTINF:-1 tvg-id="MUSICBOX.ut.cx" tvg-name="MusicBox" tvg-logo="7.png" group-title="tel" ,[COLOR orange]7[/COLOR] MusicBox
+http://tvclub.fr/ch07.ts
+#EXTINF:-1 tvg-id="WEST.ut.cx" tvg-name="West" tvg-logo="8.png" group-title="tel" ,[COLOR orange]8[/COLOR] West
+http://tvclub.fr/ch08.ts
+#EXTINF:-1 tvg-id="PATRIMOINETV.ut.cx" tvg-name="PatrimoineTV" tvg-logo="9.png" group-title="tel" ,[COLOR orange]9[/COLOR] PatrimoineTV
+http://tvclub.fr/ch09.ts
+#EXTINF:-1 tvg-id="SPEED.ut.cx" tvg-name="SpeedTV" tvg-logo="10.png" group-title="tel" ,[COLOR orange]10[/COLOR] SpeedTV
+http://tvclub.fr/ch10.ts
+#EXTINF:-1 tvg-id="RIRE.ut.cx" tvg-name="Rire" tvg-logo="11.png" group-title="tel" ,[COLOR orange]11[/COLOR] Rire
+http://tvclub.fr/ch11.ts
+#EXTINF:-1 tvg-id="MYSTERES.ut.cx" tvg-name="MysteresTV" tvg-logo="12.png" group-title="tel" ,[COLOR orange]12[/COLOR] MysteresTV
+http://tvclub.fr/ch12.ts
+#EXTINF:-1 tvg-id="CARREBLANC.ut.cx" tvg-name="Carre Blanc" tvg-logo="13.png" group-title="tel" ,[COLOR orange]13[/COLOR] Carre Blanc (18+)
+http://tvclub.fr/ch13.ts
+#EXTINF:-1 tvg-id="LRS.ut.cx" tvg-name="LRS" tvg-logo="14.png" group-title="tel" ,[COLOR orange]14[/COLOR] LRS
+http://tvclub.fr/ch14.ts
+#EXTINF:-1 tvg-id="SPORTCLUB.ut.cx" tvg-name="SPORTCLUB" tvg-logo="15.png" group-title="tel" ,[COLOR orange]15[/COLOR] SportClub
+http://tvclub.fr/ch15.ts
+#EXTINF:-1 tvg-id="FXTV.ut.cx" tvg-name="FXTV" tvg-logo="16.png" group-title="tel" ,[COLOR orange]16[/COLOR] FX
+http://tvclub.fr/ch16.ts
+#EXTINF:-1 tvg-id="CLUBNOEL.ut.cx" tvg-name="CLUBNOEL" tvg-logo="17.png" group-title="tel" ,[COLOR orange]17[/COLOR] Club de Noel
+http://tvclub.fr/ch17.ts
+#EXTINF:-1,[I][B][COLOR yellow]--- Generalistes ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1, TF1
+http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
+#EXTINF:-1, FRANCE-2
+http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
+#EXTINF:-1, FRANCE-3
+http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
+#EXTINF:-1, FRANCE-4
+http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
+#EXTINF:-1, FRANCE-5
+http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
+#EXTINF:-1, 13-Rue
+http://clinetiptv.ddns.net:8000/live/alger/alger/524.m3u8
+#EXTINF:-1, M6
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+#EXTINF:-1, W9
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
+#EXTINF:-1, 6ter HD
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1, MONTE-CARLO
+http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
+#EXTINF:0, Teva 
+http://178.33.88.129:888/udp/239.102.0.80:1234
+#EXTINF:-1,  TebeSud
+rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1, 6ter
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8 timeout=10
+#EXTINF:-1, TV Rennes
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+#EXTINF:-1 , Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1, Yvelines Premiere
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
+#EXTINF:-1,[I][B][COLOR yellow]--- Enfants ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1, Disney Channel
+http://clinetiptv.ddns.net:8000/live/alger/alger/404.m3u8
+#EXTINF:-1, Gulli
+http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
+#EXTINF:-1, Going
+http://clinetiptv.ddns.net:8000/live/alger/alger/525.m3u8
+#EXTINF:-1, Teletoon +
+http://clinetiptv.ddns.net:8000/live/alger/alger/519.m3u8
+#EXTINF:-1,[I][B][COLOR yellow]--- Serie et Cinema ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1, OCS-City
+http://clinetiptv.ddns.net:8000/live/alger/alger/765.m3u8
+#EXTINF:-1, Serie-Club-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/291.m3u8
+#EXTINF:-1,[I][B][COLOR yellow]--- Sport ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1, Ma-Chaine-SportHD
+http://clinetiptv.ddns.net:8000/live/alger/alger/523.m3u8
+#EXTINF:-1, BEIN-SPORT-1HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/17.m3u8
+#EXTINF:-1, BEIN-SPORT-2HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/18.m3u8
+#EXTINF:-1, Eurosport
+http://185.63.255.101/live/max14/playlist.m3u8
+#EXTINF:-1, Eurosport (opt2)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1, Eurosport 2
+http://clinetiptv.ddns.net:8000/live/alger/alger/520.m3u8
+#EXTINF:-1,[I][B][COLOR yellow]---Documentaires ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1, Discovery
+http://clinetiptv.ddns.net:8000/live/alger/alger/518.m3u8
+#EXTINF:-1, Animaux HD 720P [COLOR blue](aucun son)[/COLOR]
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1, Animaux SD
+http://clinetiptv.ddns.net:8000/live/alger/alger/91.m3u8
+#EXTINF:-1, CHASSE PECHE
+http://clinetiptv.ddns.net:8000/live/alger/alger/467.m3u8
+#EXTINF:-1, Rmc-Decouverte
+http://clinetiptv.ddns.net:8000/live/alger/alger/38.m3u8
+#EXTINF:-1, PLANETE + HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/298.m3u8
+#EXTINF:-1, Arte HD
+rtmp://frtvonline.no-ip.be/live/arte
+#EXTINF:-1, Weo HD
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1, Weo SD
+rtmp://str82.creacast.com:80/weo/low
+#EXTINF:-1,[I][B][COLOR yellow]--- Divertissement ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:0, Enorme TV
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+#EXTINF:0, GONG
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1,[I][B][COLOR yellow]--- Musique ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1,Trace Urban
+http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
+#EXTINF:-1,NRJ12
+rtmp://frtvonline.no-ip.be/live/nrj12b
+#EXTINF:-1,RADIO 105 TV
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:-1,RADIO MONTE CARLO TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,RADIO VIRGIN TV
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:0,MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+#EXTINF:-1,Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:0,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+#EXTINF:0,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0,Vevo Music TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0,Vevo Hip Hop TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,ROUGE TV CH
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:0,Vevo ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0, NOW Music.
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,RADIO Q MUSIC TV
+rtmp://vmmaeventlivefs.fplive.net/vmmaeventlive-live/vmma.radio-sdh
+#EXTINF:0,D17
+http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/d17-clair-v3-sd-audio_AACL_fra_56000_121=56000-video=1500000.m3u8
+#EXTINF:0,NRJ TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+#EXTINF:0,Music Box 80
+http://tv.ut.cx/musicbox80.mp4
+#EXTINF:0,Music Box
+http://tv.ut.cx/musicbox.mp4
+#EXTINF:-1,[I][B][COLOR yellow]---- Infos ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1, BFM-TV
+http://clinetiptv.ddns.net:8000/live/alger/alger/81.m3u8
+#EXTINF:0, TV5 Monde 
+http://178.33.88.129:888/udp/239.102.0.104:1234
+#EXTINF:0,BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:0,BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
+#EXTINF:0,Africa 24
+http://afr24-p.cdn.hexaglobe.net/streaming/africa24_af24/playlist4.m3u8
+#EXTINF:0,Afrique Media Tv
+rtmp://afm.streamakaci.com/afm/afm.stream
+#EXTINF:0,Afrique Media Tv
+http://188.40.139.8:1935/live/afmedia.stream/playlist.m3u8
+#EXTINF:0,France 24
+rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
+#EXTINF:0,I TELE
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/itele-clair-v3-sd-audio_fra_56000_121=56000-video=1500000.m3u8
+#EXTINF:-1,TELE (stream 2)
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
+#EXTINF:0,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+#EXTINF:0,I24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
+#EXTINF:-1,PTC
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
+#EXTINF:0,RTC
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+#EXTINF:0,Equipe 21
+http://94.23.33.220:8280/5687/02.m3u8
+#EXTINF:-1,MONACO INFOS
+rtmp://46.105.34.238/livepkgr/livestream2.flv
+#EXTINF:-1,Notele
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,Assemblée Nationale
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1,[I][B][COLOR yellow]--- Africaines (FR) ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:0,AfricaBox Series
+http://chkg.tdf-cdn.com/8037/index.m3u8
+#EXTINF:0,Crtv (CMR)
+rtmp://188.40.139.8/live//mycrtv.stream
+#EXTINF:0,Vox Africa
+rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
+#EXTINF:0,Canal 2 International (CMR)
+rtmp://188.40.139.8/live//c2.stream
+#EXTINF:0,Canal 2 Info (CMR)
+http://canal2-p.cdn.hexaglobe.net/streaming/canal2_c2info/canal2info_fre_480p.sdp.m3u8
+#EXTINF:0,Canal 2 Music (CMR)
+rtmp://188.40.139.8/live//c2music.stream
+#EXTINF:0,Canal 2 Movies (CMR)
+rtmp://188.40.139.8/live//c2movie.stream
+#EXTINF:0,Equinoxe Television (CMR)
+rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe
+#EXTINF:0,STV
+rtmp://188.40.139.8/live//stv2.stream
+#EXTINF:0,VISION 4 (CMR)
+rtmp://83.167.34.11:1935/live playpath=VISION4
+#EXTINF:0,Boom tv(CMR)
+rtmp://83.167.34.11:1935/live playpath=BOOMTV
+#EXTINF:0,Nollywood FR
+rtmp://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood
+#EXTINF:0,RTI1 (CIV)
+http://178.248.214.76/rti_str-1911-4ad6f3631177846f952987a120241943/rti.stream/playlist.m3u8
+#EXTINF:0,RTI2(CIV)
+rtmp://188.40.139.8/live//rti2.stream
+#EXTINF:0,LC2 / NTV2
+http://strfla15.streamakaci.com/lc2/lc2.stream/playlist.m3u8
+#EXTINF:0,ORTB
+rtmp://188.40.139.8/live//ortb.stream
+#EXTINF:0,Gabon TV
+rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
+#EXTINF:0,Digital Congo
+rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
+#EXTINF:0,Music Afrika
+rtmp://strfla13.streamakaci.com:1935/lc2new/ playpath=lc2 swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.ghanatvon.com/music-africa-tv.html
+#EXTINF:0,Africa Home TV
+rtsp://dimd-s.nsacdn.com/dimd_HomeTVRepeat/HomeTV_3
+#EXTINF:0,Ortm
+http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Afric Nigeria TV
+http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
+#EXTINF:0,NTV 2 / LC2
+rtmpt://strfla13.streamakaci.com/lc2new/<playpath>lc2 swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/lc2-international-et-ntv2-benin/
+#EXTINF:0,RTS 1
+rtmp://85.25.43.91/livedvr/sn/?token=play@14064079580044/ playpath=rts1236.stream swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/tv/sen/rts1.html
+#EXTINF:-1,DBS TV
+http://41.219.187.10:3001/3
+#EXTINF:-1,AfricaBox Series
+http://chkg.tdf-cdn.com/8037/index.m3u8 timeout=10
+#EXTINF:-1,AfricaBox TV
+http://chkg.tdf-cdn.com/8038/index.m3u8
+#EXTINF:-1,Air TV
+rtmp://stream.air-tv.tv:1935/live/web2.stream
+#EXTINF:-1,[I][B][COLOR yellow]--- Autres Chaînes ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:-1,KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+#EXTINF:-1,Boardriders TV
+rtsp://live240.impek.com/brtvhd
+#EXTINF:-1,La Tele
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:-1,Rouge TV
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1,Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,CNA
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1,Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1,IL TV
+rtmp://str81.creacast.com:80/iltv/high
+#EXTINF:-1,[I][B][COLOR red] Switzerland TV [/COLOR][/B][/I]
+#EXTINF:-1 ,RTS un
+http://streaming-hub.com/tv/i/rts1_1@97469/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:,RTS Deux
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1,[I][B][COLOR red]  Belgium  TV [/COLOR][/B][/I]
+#EXTINF:-1 ,TÈlÈ MB
+http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
+#EXTINF:-1 ,TÈlÈ Sambre
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+#EXTINF:-1 ,TÈlÈ Bruxelles
+rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout=60
+#EXTINF:-1 ,TV Lux
+rtmp://wowza.tvlux.imust.org/live/tvlux-live#EXTINF:-1,ARABIC-BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1,ARABIC-BEIN SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-BEIN SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-beIN Sport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-BEIN SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-beIN Sport 3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 6
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-BEIN SPORT 7
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
+#EXTINF:-1,ARABIC-beIN Sport 7 works or not
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport7/sport7/sport7.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 8 works or not
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport8/sport8/sport8.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-MBC Pro Sports 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 2
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 4
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+#EXTINF:-1,BMW CHANNEL Italia mms
+mms://100automoto.tv/bmw
+#EXTINF:-1,BRASIL-ESPN BRASIL
+rtmp://31.204.153.70/live/master06
+#EXTINF:-1,BRASIL-ESPN+
+rtmp://31.204.128.74/live/master27
+#EXTINF:-1,BRASIL-FOX SPORTS
+rtmp://31.204.153.72/live/fsb
+#EXTINF:-1,BRASIL-SKY BRASIL?
+rtmp://31.204.153.70/live/master05
+#EXTINF:-1,BRASIL-SPORTS Mais
+rtmp://31.204.153.70/live/sportsmais
+#EXTINF:-1,BRASIL-TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,BT Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.65.59:443/liverepeater playpath=13 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH timeout=15
+#EXTINF:-1,BT Sport 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=15 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH timeout=15
+#EXTINF:-1,BULGAR-BULSAT Auto Moto TV BMW mms
+mms://100automoto.tv/bmw
+#EXTINF:-1,BULGAR-BULSAT-Nova Sport
+http://w1eu.drundoo.com:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/hasbahca.m3u8
+#EXTINF:-1,Czech-O Sport
+http://212.79.96.134:8014/
+#EXTINF:-1,Dubai Racing (UAE)
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+#EXTINF:-1,ENG-Classic Goals
+rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
+#EXTINF:-1,ENG-Climb On
+rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
+#EXTINF:-1,ENG-Drift 4 Ever
+rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
+#EXTINF:-1,ENG-Ghetto Kid
+rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
+#EXTINF:-1,ENG-MMA BAY TV
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:-1,ENG-Outdoor Sport
+http://www.brdog.net/brdog_stv/sports/outdoor_sport.asx
+#EXTINF:-1,Espn Uk
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.241:1935/live playpath=espnuk live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=14
+#EXTINF:-1,EX-YUG-SPORT KLUB 2
+http://91.187.113.203:10030/
+#EXTINF:-1,EX-YUG-Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+#EXTINF:-1,FightBox
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+#EXTINF:-1,FILMON-Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+#EXTINF:-1,GREEK-TILESPORT
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1,INDONESIA-Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA-Berita Satu Sport SD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
+#EXTINF:-1,ITALIA-Sky Calcio
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel4 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel1 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.241:1935/live playpath=amsportmechannel2 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 24
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel5 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,ITALIA-Sky Sport 3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:1935/live playpath=amsportmechannel3 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,Kanal Sports
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?
+#EXTINF:-1,KOREA - MFS Golf
+rtmp://lm01.everyon.tv:1935/ptv/pld58
+#EXTINF:-1,Moldova Sport
+http://sportmoldova.web.tvbox.md
+#EXTINF:-1,MOTOR SPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,NTV Football 1
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
+#EXTINF:-1,Poker
+http://195.154.188.161/hls/pokerhd.m3u8
+#EXTINF:-1,PORSCHE CHANNEL mms
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1,ROMANYA+MOLDOVA - MD - Moldova Sport
+http://sportmoldova.web.tvbox.md
+#EXTINF:-1,RUS-Nash Futbol rtmp
+rtmp://iptv.sat-elit.net/iptv/531
+#EXTINF:-1,RUS-NTV Basketbol rtmp
+rtmp://iptv.sat-elit.net/iptv/529
+#EXTINF:-1,RUS-NTV Futbol 2 rtmp
+rtmp://iptv.sat-elit.net/iptv/530
+#EXTINF:-1,RUS-NTV Futbol rtmp
+rtmp://iptv.sat-elit.net/iptv/124
+#EXTINF:-1,RUS-NTV Sport rtmp
+rtmp://iptv.sat-elit.net/iptv/123
+#EXTINF:-1,RUS-Outdoor Channel rtmp
+rtmp://iptv.sat-elit.net/iptv/119
+#EXTINF:-1,RUS-Rus.Extrim rtmp
+rtmp://iptv.sat-elit.net/iptv/533
+#EXTINF:-1,Serbia_Croatia-EUROSPORT
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-EXTREME SPORTS
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-FIGHT CHANNEL
+http://83.139.104.123/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,Serbia_Croatia-SPORTSKA TV
+http://83.139.104.123/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SPAIN-FOX SPORTS:
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+#EXTINF:-1,SPAIN-TyC Sports HD:
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
+#EXTINF:-1,SPOR-MOTOR SPORT
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,SPORT TIME TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1,SPORT TIME TV 1HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1,SPORT TIME TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1,SPORT TIME TV 2HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1,SPORT TIME TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1,SPORT TIME TV 3HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1,SPORT TIME TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1,SPORT TIME TV 4HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1,SPORT TIME TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1,SPORT TIME TV 5HQ Deutsch
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1,SPORT TIME TV 6HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1,SPORT TIME TV7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:-1,SPORT TIME TV7 HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1,Sport5 1 (Israel)
+rtmp://$OPT:rtmp-raw=rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
+#EXTINF:-1,Sports Night
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1,Sports Night HD
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1,Sports Tonight UK
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf
+#EXTINF:-1,SPORTS-1
+http://193.232.151.135/hls-live/livepkgr/_1073_/1073/1073-70.m3u8
+#EXTINF:-1,SPORTS-2
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-70.m3u8
+#EXTINF:-1,SPORTS-3
+http://193.232.151.135/hls-live/livepkgr/_1032_/1032/1032-70.m3u8
+#EXTINF:-1,SPORTS-4
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
+#EXTINF:-1,SPORTS-5
+http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8
+#EXTINF:-1,sportsnet 1 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+#EXTINF:-1,sportsnet 2 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,sportsnet 3 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,sportsnet 4 usa hd
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,Sportsnet East
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/007.m3u8
+#EXTINF:-1,Sportsnet Pacific
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/007.m3u8
+#EXTINF:-1,Sportsnet West
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/007.m3u8
+#EXTINF:-1,TileSport TV
+rtmp://tv1.streampulse.eu/tilesport/movie1
+#EXTINF:-1,TRACE SPORTS
+rtsp://46.249.213.87/broadcast/tracetvsports-tablet.3gp
+#EXTINF:-1,TSN 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TSN 2
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,TURK-a SPOR
+http://rtmp.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
+#EXTINF:-1,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1,Turki-Eurosport
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,Turki-Eurosport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TURK-NTV SPOR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,TURK-TRT SPOR
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,Willow Cricket
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15#EXTINF:0, Eurosport 1 uk
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+#EXTINF:0, SkySport 1
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:0, SkySport2
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:0, SkySport 3
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:0, SkySport 4
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:0, SkySport 5
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+#EXTINF:0, SkySport F1
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 1
+http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 2
+http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://195.154.226.186:1935/livepp7/bein1frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
+#EXTINF:0, ESPN UK
+http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+#EXTINF:0,Premier sports
+http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
+#EXTINF:0, ArenaSport 1
+http://195.154.226.186:1935/livepp7/arhd1lsh/playlist.m3u8
+#EXTINF:0, ArenaSport 2
+http://195.154.226.186:1935/livepp7/arhd2lsh/playlist.m3u8
+#EXTINF:0, ArenaSport 3
+http://195.154.226.186:1935/livepp7/arhd3lsh/playlist.m3u8
+#EXTINF:0, ArenaSport 4
+http://195.154.226.186:1935/livepp7/arhd4lsh/playlist.m3u8
+#EXTINF:0,SportKlub 1
+http://195.154.226.186:1935/livepp7/skhd1lsh/playlist.m3u8
+#EXTINF:0,SportKlub 2
+http://195.154.226.186:1935/livepp7/skhd2lsh/playlist.m3u8
+#EXTINF:0,SportKlub 3
+http://195.154.226.186:1935/livepp7/skhd3lsh/playlist.m3u8#EXTINF:-1,[COLOR yellow] ZONE CANADIENS beta [/COLOR]
+#EXTINF:-1,[COLOR red] Francais (MTL VS BOS) [/COLOR]
+#EXTINF:-1,[COLOR lime] Lien 1 [/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,[COLOR lime] Lien 2 [/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://fr.video.canoe.tv swfVfy=true live=true timeout=60
+#EXTINF:-1,[COLOR red] Anglais (MTL VS BOS) [/COLOR]
+#EXTINF:-1,[COLOR lime] Lien 1 [/COLOR]
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,[COLOR lime] Lien 2 [/COLOR]
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8?sd=10&rebase=on#EXTINF:-1, DIGI 24
+http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1, Antena3
+rtmp://93.115.84.226:1935/live playpath=a3 live=1
+#EXTINF:-1, National Tv
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_national_tv.stream
+#EXTINF:-1, Jurnal TV
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+#EXTINF:-1, Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:-1, Romania TV
+http://91.232.210.155:8020/rtv.flv?file=rtv.flv&start=0
+#EXTINF:0, PRO TV
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:-1, Protv News
+rtmp://live.protv.ro/news/ playpath=mp4:live1.mp4 swfUrl=http://d1.a4w.ro/customFlow/flowplayer-3.2.12.swf pageUrl=http://stirileprotv.ro/protvnews live=1
+#EXTINF:0, Prime
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+#EXTINF:-1, Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1, Litoral Tv
+rtmp://direct.multimedianet.ro:1935/live playpath=livestream live=1
+#EXTINF:-1, PRO TV Chişinău
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:-1,Eurosport (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1, Tvr -Moldova
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:-1, Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:-1, ploiestitv
+http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
+#EXTINF:-1, Alfa-omega
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u
+#EXTINF:-1, Fight
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1, TV MANGALIA
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1, Prahova
+http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1, Football channel (Rusia-soccer)
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1, FOX SPORTS 2 (Spanish-soccer)
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1, EUROSPORTS (french)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1, i24 News (French)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1, TV5 MONDE-sd (french)
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1, AfricaBox TV (Music)
+http://chkg.tdf-cdn.com/8038/index.m3u8
+#EXTINF:-1, Arte(french)
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,Best Music HD (french)
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,BFM TV HD(french)
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1,Canal 9 HD
+http://httpstream.canal9.ch/canal9live.m3u8
+#EXTINF:-1,Ciné Fil
+http://teleclub.fr/cinefil.mp4
+#EXTINF:-1,Cinétoile (film-fr)
+http://teleclub.fr/cinetoile.mp4
+#EXTINF:-1,Cinq+ (film-fr)
+http://teleclub.fr/cinqplus.mp4
+#EXTINF:-1,FRANCE 2-HD
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
+#EXTINF:-1,France24-SD
+http://tv.flux.france24.com/4684/05.m3u8
+#EXTINF:-1,FRANCE 3-HD
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_3/hls_v1/France_3-audio_AACL_fra_70000_325=70000-video=1404000.m3u8
+#EXTINF:-1,FRANCE 4-HD
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+#EXTINF:-1,FRANCE 5-HD
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_5/hls_v1/France_5-audio_AACL_fra_70000_345=70000-video=1404000.m3u8
+#EXTINF:-1, i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1, KZ TV-SD (DESENE-fr-jpn)
+http://ec.playmedia.fr/kztv/live/playlist.m3u8
+#EXTINF:-1,NRJ TV-sd(Music)
+http://rtmp.infomaniak.ch:1935/livecast/energytv/HasBahCa.m3u8
+#EXTINF:-1, OM5 TV-SD(french)
+http://ec.playmedia.fr/om5-tv/live/HasBahCa.m3u8
+#EXTINF:-1, Party Tv HD (Music)
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1, PTC Belgium (french)
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+#EXTINF:-1, TV COM -sd(french)
+rtsp://37.59.47.86:8000/tvcom_live2.sdp
+#EXTINF:-1,TVM Est Parisien-sd
+http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
+#EXTINF:-1,VOX Music HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1, Rock Tv HD (Music)
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0,RDS
+rtmpe://195.154.199.58:1935/live/20 swfUrl=http://sostart.org/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,185 token=SECURET0KEN#yw%.?()@W! live=1 timeout=14 swfVfy=1 pageUrl=http://sostart.org/stream.php?id=20&width=630&height=450
+#EXTINF:-1,2M
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,RDS 2
+http://192.99.39.240:1935/flu555/_definst_/rds2/playlist.m3u8?token=
+#EXTINF:0,NFL Network
+http://167.114.119.209:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+#EXTINF:0,NFL Network (Alternate)
+http://64.100.15.201/udp/239.255.2.5:10001
+#EXTINF:-1,NBA
+http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+#EXTINF:-1,NBA
+http://167.114.101.188:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+#EXTINF:-1,NBC Sports Network HD
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,TSN 1
+http://4.31.30.159:9082
+#EXTINF:0,TSN 2
+http://4.31.30.159:9083
+#EXTINF:0,TSN 3
+http://4.31.30.159:9084
+#EXTINF:0,TSN 4
+http://4.31.30.159:9085
+#EXTINF:0,TSN 5
+http://4.31.30.159:9086
+#EXTINF:0,FOX Sports 1
+http://192.99.39.240:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
+#EXTINF:0,FOX Sports 2
+http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+#EXTINF:0,Big Ten Network 2 Go HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,Top Sport-ESPN HD
+http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
+#EXTINF:0,NBC GOLF HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,[COLOR yellow]UPDATE 11:36[/COLOR]
+http://libretv.me
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR red]Si ce n'est[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR red]pas LibreTV...[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR red]c'est pas le vrai![/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR green]Les chaines vont[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR green]et viennent desole...[/COLOR]
+http://touski
+#EXTINF:-1 tvg-logo="libretv.png" group-title="ANGLO",[COLOR blue]MéTéO[/COLOR]
+rtmp://1.2.3.4
+#EXTINF:-1 tvg-logo="theweathernetwork.png" group-title="ANGLO",The Weather Network Canada [COLOR yellow]720p[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-logo="theweathernetwork.png" group-title="ANGLO",The Weather Network Canada [COLOR yellow]SD[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="libretv.png" group-title="FRANCO",[COLOR blue]PoLiTiQuE zzzzzzzzzzzz...[/COLOR]
+rtmp://1.2.3.4
+#EXTINF:-1 tvg-logo="assnaq.png" tvg-id="I16133.labs.zap2it.com" tvg-name="ASSNA" group-title="FRANCO",Assemblée nationale du Québec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="cpac.png" tvg-id="I21667.labs.zap2it.com" tvg-name="CPACFR" group-title="FRANCO",CPAC Français
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR blue]Généraliste et Nouvelles[/COLOR]
+rtmp://1.2.3.4
+#EXTINF:-1 tvg-logo="ICITVMTL.png" tvg-id="I87652.labs.zap2it.com" tvg-name="ICITVMTL" group-title="FRANCO",ICI Television Montreal
+http://flowcaster1.cdn.clearcable.net:1935/icilive/icitv/master.m3u8
+#EXTINF:-1 tvg-logo="globalmtl.png" tvg-id="I17406.labs.zap2it.com" tvg-name="Global" group-title="ANGLO",Global Toronto
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
+#EXTINF:-1,TVA Nouvelles Gatineau en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/chot.tva
+#EXTINF:-1,TVA Nouvelles Abitibi-Témiscamingue en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/cfem.tva
+#EXTINF:-1 tvg-logo="lcn.png" tvg-id="I17590.labs.zap2it.com" tvg-name="LCN" group-title="FRANCO",LCN 16:9
+rtmp://cp39414.live.edgefcs.net/live playpath=lcn1@9753 swfVfy=true live=true
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI - [COLOR yellow]À partir de 20h les soirs de semaine[/COLOR]
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI 400 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI 800 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI 1200 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="rdi.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",ICI RDI HD
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Québec - CBVT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Ottawa-Gatineau - CBOFT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Trois-Rivières - CKTM-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Rimouski - CJBR-DT
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Saguenay [COLOR yellow](lâ lâ)[/COLOR] - CKTV-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png",ICI Radio-Canada - Sherbrooke - CKSH-DT
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="src.png" tvg-id="I10089.labs.zap2it.com" tvg-name="SRC" group-title="FRANCO",ICI Radio-Canada - Montréal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
+#EXTINF:-1 tvg-logo="tva.png" tvg-id="I10107.labs.zap2it.com" tvg-name="TVA" group-title="FRANCO",TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1 tvg-logo="yoopa.png" tvg-id="I29.233416131.microsoft.com" tvg-name="YOOPA" group-title="FRANCO",YOOPA
+#EXTINF:-1 tvg-logo="city.png" tvg-id="I14.28458416.microsoft.com" tvg-name="CITY" group-title="FRANCO",City Montreal - [COLOR yellow]En ondes de 6h à  9h les jours de semaine[/COLOR]
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+#EXTINF:-1 tvg-logo="teletoonen.png" tvg-id="I17564.labs.zap2it.com" tvg-name="TOONF" group-title="FRANCO",TeLeToOn Fr
+#EXTINF:-1 tvg-logo="teletoonen.png" tvg-id="I17417.labs.zap2it.com" tvg-name="TOONC" group-title="ANGLO",TeLeToOn eN
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR blue]Sports[/COLOR]
+#EXTINF:-1 tvg-logo="libretv.png" group-title="FRANCO",TVA Sports/TVA Sports 2/MAtv - [COLOR yellow]En Alternance[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://fr.video.canoe.tv swfVfy=true live=true timeout=60
+#EXTINF:-1 tvg-logo="rds.png" tvg-id="I633.181320593.microsoft.com" tvg-name="RDS" group-title="FRANCO",RDS
+#EXTINF:-1 tvg-logo="rds2.png" tvg-id="I761.265106884.microsoft.com" tvg-name="RDS2" group-title="FRANCO",RDS2
+#EXTINF:-1 tvg-logo="rdsi.png" tvg-id="I699.271028085.microsoft.com" tvg-name="RDSI" group-title="FRANCO",RDS Info
+#EXTINF:-1 tvg-logo="tvas.png" tvg-id="I623.264136798.microsoft.com" tvg-name="TVAS1" group-title="FRANCO",TVA Sport - Faible Qualite
+#EXTINF:-1 tvg-logo="sportsnet_360.png" tvg-id="I20203.labs.zap2it.com" tvg-name="SNET360" group-title="ANGLO",Sportsnet 360
+#EXTINF:-1 tvg-logo="snet.png" tvg-id="I183.178973759.microsoft.com" tvg-name="SNETW" group-title="ANGLO",SPORTSNET WORLD
+#EXTINF:-1 tvg-logo="snet.png" tvg-id="I180.28455739.microsoft.com" tvg-name="SNETO" group-title="ANGLO",SPORTSNET ONTARIO
+#EXTINF:-1 tvg-logo="tsn1.png" tvg-id="I186.28457190.microsoft.com" tvg-name="TSN1" group-title="ANGLO",TSN1
+#EXTINF:-1 tvg-logo="tsn2.png" tvg-id="I187.196875757.microsoft.com" tvg-name="TSN2" group-title="ANGLO",TSN2
+#EXTINF:-1 tvg-logo="tsn3.png" tvg-id="I188.302419099.microsoft.com" tvg-name="TSN3" group-title="ANGLO",TSN3
+#EXTINF:-1 tvg-logo="tsn4.png" tvg-id="I189.302419094.microsoft.com" tvg-name="TSN4" group-title="ANGLO",TSN4
+#EXTINF:-1 tvg-logo="tsn5.png" tvg-id="I190.302419100.microsoft.com" tvg-name="TSN5" group-title="ANGLO",TSN5
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR orange]Certaines chaines sont[/COLOR]
+rtmp://4.3.2.1
+#EXTINF:-1 tvg-logo="libretv.png",[COLOR orange]seulement dispo en diff web[/COLOR]
+rtmp://4.3.2.1
+#EXTINF:-1 tvg-logo="matv.png" tvg-id="I16131.labs.zap2it.com" tvg-name="MATV" group-title="FRANCO",[COLOR red]DOWN [/COLOR]MAtv Montreal
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="meteomedia.png" tvg-id="I16000.labs.zap2it.com" tvg-name="METEOF" group-title="FRANCO",[COLOR red]DOWN [/COLOR]MeteoMedia
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="theweathernetwork.png" tvg-id="I10170.labs.zap2it.com" tvg-name="TWN" group-title="ANGLO",[COLOR red]DOWN [/COLOR]Weather Network
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="CBCNews.png" tvg-id="I10094.labs.zap2it.com" tvg-name="CBCNEWS" group-title="ANGLO",[COLOR red]DOWN [/COLOR]CBC News
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="lcn.png" tvg-id="I17590.labs.zap2it.com" tvg-name="LCN" group-title="FRANCO",[COLOR red]DOWN [/COLOR]LCN
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="RDI.png" tvg-id="I15209.labs.zap2it.com" tvg-name="RDI" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici RDI
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="src.png" tvg-id="I10089.labs.zap2it.com" tvg-name="SRCMTL" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici SRC
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="artv.png" tvg-id="I26980.labs.zap2it.com" tvg-name="ARTV" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici ARTV
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="EXPLORA.png" tvg-id="I75053.labs.zap2it.com" tvg-name="Explora" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Ici Explora
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="globalmtl.png" tvg-id="I17406.labs.zap2it.com" tvg-name="GLBLMTL" group-title="ANGLO",[COLOR red]DOWN [/COLOR]Global Mtl
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tqc.png" tvg-id="I15987.labs.zap2it.com" tvg-name="TQC" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Tele Qc
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tv5.png" tvg-id="I11185.labs.zap2it.com" tvg-name="TV5" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TV5
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="TVA.png" tvg-id="I10107.labs.zap2it.com" tvg-name="TVA" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TVA
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="vtele.png" tvg-id="I15988.labs.zap2it.com" tvg-name="V" group-title="FRANCO",[COLOR red]DOWN [/COLOR]V Tele
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="INVESTIGATION.png" tvg-id="I87899.labs.zap2it.com" tvg-name="Investigation" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Investigation
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="historia.png" tvg-id="I21542.labs.zap2it.com" tvg-name="Historia" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Historia
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="evasion.png" tvg-id="I21545.labs.zap2it.com" tvg-name="Evasion" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Evasion
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="seriesplus.png" tvg-id="I21543.labs.zap2it.com" tvg-name="SPlus" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Series Plus
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="canald.png" tvg-id="I15682.labs.zap2it.com" tvg-name="CanalD" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Canal D
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="canalvie.png" tvg-id="I17589.labs.zap2it.com" tvg-name="CanalVie" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Canal Vie
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="ztele.png" tvg-id="I21544.labs.zap2it.com" tvg-name="Ztele" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Z tele
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="zeste.png" tvg-id="I67174.labs.zap2it.com" tvg-name="Zeste" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Zeste
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tvas1.png" tvg-id="I73141.labs.zap2it.com" tvg-name="TVASport" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TVA Sport
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="tvas2.png" tvg-id="I90204.labs.zap2it.com" tvg-name="TVASport2" group-title="FRANCO",[COLOR red]DOWN [/COLOR]TVA Sport 2
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="disney_channel.png" tvg-id="I96509.labs.zap2it.com" tvg-name="DISCA" group-title="ANGLO",[COLOR red]DOWN [/COLOR]Disney Channel
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+#EXTINF:-1 tvg-logo="disney_la_chaine.png" tvg-id="I61377.labs.zap2it.com" tvg-name="DISNF" group-title="FRANCO",[COLOR red]DOWN [/COLOR]Disney La Chaine
+rtmpe://24.200.251.10 Playpath=.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
 
 
 
