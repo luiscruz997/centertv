@@ -3,6 +3,57 @@
 http://0.0.0.0:1234
 #EXTM3U
 
+
+#EXTINF:-1,SPOR:AD SPORTS1
+
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+
+#EXTINF:-1,SPOR:BEIN SPORT 1 HD - BEIN SPORT 1 HD
+
+http://master.nika.rs.ba:80/live?channelId=11&uid=66&deviceUser=besplatno&devicePass=besplatno
+
+#EXTINF:-1,SPOR:CANAL+ SPORT - CANAL+ SPORT
+
+http://master.nika.rs.ba:80/live?channelId=17&uid=66&deviceUser=besplatno&devicePass=besplatno
+
+#EXTINF:-1,SPOR:SKY BUNDES LIGA 1 - SKY BUNDES LIGA 1
+
+http://master.nika.rs.ba:80/live?channelId=140&uid=66&deviceUser=besplatno&devicePass=besplatno
+
+#EXTINF:-1,SPOR:SKY SPORT DE 1 HD - SKY SPORT DE 1 HD
+
+http://master.nika.rs.ba:80/live?channelId=141&uid=66&deviceUser=besplatno&devicePass=besplatno
+
+#EXTINF:-1,SPOR:SKY SPORT DE 2 HD - SKY SPORT DE 2 HD
+
+http://master.nika.rs.ba:80/live?channelId=142&uid=66&deviceUser=besplatno&devicePass=besplatno
+
+#EXTINF:-1,SPOR:SPORT KLUB 1 HD - SPORT KLUB 1 HD
+
+http://master.nika.rs.ba:80/live?channelId=136&uid=66&deviceUser=besplatno&devicePass=besplatno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,VEVO 1 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, TSC The shopping Channel
