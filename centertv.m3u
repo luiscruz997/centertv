@@ -4,136 +4,29 @@ http://0.0.0.0:1234
 #EXTM3U
 
 #EXTINF:-1,NRJ TV-sd(Music)
-
 http://rtmp.infomaniak.ch:1935/livecast/energytv/HasBahCa.m3u8
-
+#EXTINF:0,Updated:8/9-CNBC NEWS
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:0,Updated:8/3-NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0,Updated:8/9-RT News
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0,Updated:8/9-CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1,LIVE MOTORSPORT USA
+http://motorsport.hopto.org:8080/
 #EXTINF:-1, OM5 TV-SD(french)
-
 http://ec.playmedia.fr/om5-tv/live/HasBahCa.m3u8
-
 #EXTINF:-1, Party Tv HD (Music)
-
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-
-#EXTINF:-1, PTC Belgium (french)
-
-http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
-
-#EXTINF:-1, TV COM -sd(french)
-
-rtsp://37.59.47.86:8000/tvcom_live2.sdp
-
 #EXTINF:-1,TVM Est Parisien-sd
-
 http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
-
 #EXTINF:-1,VOX Music HD
-
 rtmp://stream.smcloud.net/live2/vox/vox_720p
-
 #EXTINF:-1, Rock Tv HD (Music)
-
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-
-#EXTINF:0,RDS
-
-rtmp://195.154.199.58:1935/live/20 swfUrl=http://sostart.org/jw/jwplayer.flash.swf flashver=WIN/2019,0,0,185 token=SECURET0KEN#yw%.?()@W! live=1 timeout=14 swfVfy=1 pageUrl=http://sostart.org/stream.php?id=20&width=630&height=450
-
-#EXTINF:-1,2M
-
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
-
-#EXTINF:-1,RDS 2
-
-http://192.99.39.240:1935/flu555/_definst_/rds2/playlist.m3u8?token=
-
-#EXTINF:0,NFL Network
-
-http://167.114.119.209:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
-
-#EXTINF:0,NFL Network (Alternate)
-
-http://64.100.15.201/udp/239.255.2.5:10001
-
-#EXTINF:-1,NBA
-
-http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
-
-#EXTINF:-1,NBA
-
-http://167.114.101.188:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
-
-#EXTINF:-1,NBC Sports Network HD
-
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:0,TSN 1
-
-http://4.31.30.159:9082
-
-#EXTINF:0,TSN 2
-
-http://4.31.30.159:9083
-
-#EXTINF:0,TSN 3
-
-http://4.31.30.159:9084
-
-#EXTINF:0,TSN 4
-
-http://4.31.30.159:9085
-
-#EXTINF:0,TSN 5
-
-http://4.31.30.159:9086
-
-#EXTINF:0,FOX Sports 1
-
-http://192.99.39.240:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
-
-#EXTINF:0,FOX Sports 2
-
-http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
-
-#EXTINF:0,Big Ten Network 2 Go HD
-
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:0,ESPN HD
-
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:0,Top Sport-ESPN HD
-
-http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
-
 #EXTINF:0,NBC GOLF HD
-
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,VEVO 1 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, TSC The shopping Channel
@@ -142,29 +35,19 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
 #EXTINF:-1, METRO TV (French)
 rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
-#EXTINF:-1, TV (French)
-rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
-#EXTINF:-1, CBC (english)
-rtmp://b.cdn.newschat.tv/edge pageUrl=http://www.livenewschat.eu/canada/?husham.com swfUrl=http://msnbclive.eu/player.swf playpath=cbc_live
 #EXTINF:-1, TVA Sport 2 (French)
 rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/…/FlashMediaPlayb…/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
 #EXTINF:-1,VEVO 2 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,VEVO 3 USA
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,LIVE MOTORSPORT USA
-http://motorsport.hopto.org:8080/
 #EXTINF:-1,USA-BASKET UNI.(Los Angeles)
 http://xrxs.net/video/live-p12losa-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,ESPN BaseBall Today
-http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8 
-#EXTINF:-1,ESPN Football Today
-http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
-#EXTINF:-1, CPAC
+#EXTINF:-1, CPAC1
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
-#EXTINF:-1,Cpac
+#EXTINF:-1,Cpac2
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
 #EXTINF:-1,CANADA SENATE LIVE
 http://bit.do/3C7k
@@ -230,20 +113,22 @@ http://bit.do/3C7k
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 #EXTINF:0,Updated:8/9-Euronews (EN)
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-#EXTINF:0,Updated:8/9-CNBC NEWS
-http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:0,Updated:8/9-Twit TV (Tech News)
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:0,Updated:8/9-CBS News
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:0,Updated:8/9-RT News
-http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
-#EXTINF:0,Updated:8/3-NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1, Euronews Francais
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, BFM Business Francais
 http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
 #EXTINF:-1, BFM TV Francais
