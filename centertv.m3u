@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1,[COLOR yellow]20$/mois at NovoteQ[/COLOR]
 http://0.0.0.0:1234
-#EXTM3U
-
-
 #EXTINF:-1,[COLOR green]— SPORTS CHANNELS —[/COLOR] 
 http://212.200.101455 
 #EXTINF:0,Eurosport 1 uk  
