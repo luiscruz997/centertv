@@ -6,171 +6,169 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 
 #EXTM3U
-#EXTINF:-1, Weather Network Canada
+#EXTINF:-1, Weather Network Canada=>NOVOTEQ.COM
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:-1, TSC The shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
-#EXTINF:-1, CPAC
+#EXTINF:-1, CPAC=>NOVOTEQ.COM
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8 
-#EXTINF:-1, TV (French)
+#EXTINF:-1, TV (French)=>NOVOTEQ.COM
 rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
-#EXTINF:-1, MA TV (French)
+#EXTINF:-1, MA TV=>NOVOTEQ.COM
 rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com//FlashMediaPlayb/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
-#EXTINF:-1, HSN
+#EXTINF:-1, HSN=>NOVOTEQ.COM
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
-#EXTINF:-1, The Florida Channel
+#EXTINF:-1, The Florida Channel=>NOVOTEQ.COM
 rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:-1, University of California TV
+#EXTINF:-1, University of California TV=>NOVOTEQ.COM
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
-#EXTINF:0,Updated:8/9-CNBC NEWS
+#EXTINF:0,CNBC NEWS=>NOVOTEQ.COM
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
-#EXTINF:0,Updated:8/3-NASA TV
+#EXTINF:0,NASA TV=>NOVOTEQ.COM
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0,Updated:8/9-RT News
+#EXTINF:0,RT News=>NOVOTEQ.COM
 http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
-#EXTINF:0,Updated:8/9-CBS News
+#EXTINF:0,CBS News=>NOVOTEQ.COM
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1,LIVE MOTORSPORT USA
+#EXTINF:-1,LIVE MOTORSPORT USA=>NOVOTEQ.COM
 http://motorsport.hopto.org:8080/
-#EXTINF:-1, OM5 TV-SD(french)
+#EXTINF:-1,OM5 TV=>NOVOTEQ.COM
 http://ec.playmedia.fr/om5-tv/live/HasBahCa.m3u8
-#EXTINF:-1, Party Tv HD (Music)
+#EXTINF:-1,Party Tv HD=>NOVOTEQ.COM
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1,TVM Est Parisien-sd
+#EXTINF:-1,TVM Est Parisien=>NOVOTEQ.COM
 http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
-#EXTINF:-1,VOX Music HD
+#EXTINF:-1,VOX Music HD=>NOVOTEQ.COM
 rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:-1, Rock Tv HD (Music)
+#EXTINF:-1, Rock Tv HD=>NOVOTEQ.COM
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:0,NBC GOLF HD
+#EXTINF:0,NBC GOLF HD=>NOVOTEQ.COM
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,VEVO 1 USA
+#EXTINF:-1,VEVO 1 USA=>NOVOTEQ.COM
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1, TSC The shopping Channel
+#EXTINF:-1, TSC The shopping Channel=>NOVOTEQ.COM
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
-#EXTINF:-1,HSN
+#EXTINF:-1,HSN=>NOVOTEQ.COM
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1, METRO TV (French)
+#EXTINF:-1, METRO TV=>NOVOTEQ.COM
 rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
-#EXTINF:-1, TVA Sport 2 (French)
+#EXTINF:-1, TVA Sport 2=>NOVOTEQ.COM
 rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/…/FlashMediaPlayb…/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
-#EXTINF:-1,VEVO 2 USA
+#EXTINF:-1,VEVO 2=>NOVOTEQ.COM
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,VEVO 3 USA
+#EXTINF:-1,VEVO 3=>NOVOTEQ.COM
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)=>NOVOTEQ.COM
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
+#EXTINF:-1,USA-BASKET UNI.(Oregon)=>NOVOTEQ.COM
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1, CPAC1
+#EXTINF:-1,CPAC1=>NOVOTEQ.COM
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
-#EXTINF:-1,Cpac2
+#EXTINF:-1,Cpac2=>NOVOTEQ.COM
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
-#EXTINF:-1,CANADA SENATE LIVE
+#EXTINF:-1,CANADA SENATE=>NOVOTEQ.COM
 http://bit.do/3C7k
-#EXTINF:0,Updated:7/27-HSN 1
+#EXTINF:0,HSN 1=>NOVOTEQ.COM
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
-#EXTINF:0,Updated:7/27-HSN 2
+#EXTINF:0,HSN 2=>NOVOTEQ.COM
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
-#EXTINF:-1,CPAC Français
+#EXTINF:-1,CPAC=>NOVOTEQ.COM
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1, TVA
+#EXTINF:-1,TVA=>NOVOTEQ.COM
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Québec - CBVT-DT
+#EXTINF:-1,ICI Radio-Canada Québec=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,CPAC Francais
+#EXTINF:-1,CPAC=>NOVOTEQ.COM
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1, Assemblée Nationale
+#EXTINF:-1, Assemblée Nationale=>NOVOTEQ.COM
 http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1,Assemblée nationale du Québec
+#EXTINF:-1,Assemblée nationale=>NOVOTEQ.COM
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1,i24news french
+#EXTINF:-1,i24news=>NOVOTEQ.COM
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:-1, ENCYCLO
+#EXTINF:-1, ENCYCLO=>NOVOTEQ.COM
 http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
-#EXTINF:-1,ICI Radio-Canada Ottawa-Gatineau - CBOFT-DT
+#EXTINF:-1,ICI Radio-Canada Ottawa-Gatineau=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Trois-Rivières - CKTM-DT
+#EXTINF:-1,ICI Radio-Canada Trois-Rivières=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Rimouski - CJBR-DT
+#EXTINF:-1,ICI Radio-Canada Rimouski=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Saguenay - CKTV-DT
+#EXTINF:-1,ICI Radio-Canada Saguenay=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Sherbrooke - CKSH-DT
+#EXTINF:-1,ICI Radio-Canada Sherbrooke=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Québec - CBVT-DT
+#EXTINF:-1,ICI Radio-Canada Télé Québec=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Ottawa-Gatineau - CBOFT-DT
+#EXTINF:-1,ICI Radio-Canada Télé Ottawa-Gatineau=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Trois-Rivières - CKTM-DT
+#EXTINF:-1,ICI Radio-Canada Télé Trois-Rivières=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Rimouski - CJBR-DT
+#EXTINF:-1,ICI Radio-Canada Télé Rimouski=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Saguenay - CKTV-DT
+#EXTINF:-1,ICI Radio-Canada Télé Saguenay=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Sherbrooke - CKSH-DT
+#EXTINF:-1,ICI Radio-Canada Télé Sherbrooke=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Télé Montréal
+#EXTINF:-1,ICI Radio-Canada Télé Montréal=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
-#EXTINF:-1,ICI Radio-Canada Montréal
+#EXTINF:-1,ICI Radio-Canada Montréal=>NOVOTEQ.COM
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
-#EXTINF:-1,TBN
+#EXTINF:-1,TBN=>NOVOTEQ.COM
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-#EXTINF:0,Updated:8/9-ABC NEWS
+#EXTINF:0,ABC NEWS=>NOVOTEQ.COM
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1, Grand Lille TV
+#EXTINF:-1, Grand Lille TV=>NOVOTEQ.COM
 rtsp://str81.creacast.com/grandlilletv/high
-#EXTINF:-1, ROUGE TV CH
+#EXTINF:-1,ROUGE TV CH=>NOVOTEQ.COM
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1, Weo HD
+#EXTINF:-1,Weo HD=>NOVOTEQ.COM
 rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1,CANADA:SENATE LIVE bit.do
+#EXTINF:-1,CANADA:SENATE=>NOVOTEQ.COM
 http://bit.do/3C7k
-#EXTINF:-1,TVA Montréal
+#EXTINF:-1,TVA Montréal=>NOVOTEQ.COM
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:0,Updated:8/9-Euronews (EN)
+#EXTINF:0,Euronews(EN)=>NOVOTEQ.COM
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-#EXTINF:0,Updated:8/9-Twit TV (Tech News)
+#EXTINF:0,Twit TV (Tech News)=>NOVOTEQ.COM
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:0,London Live
+#EXTINF:0,London Live=>NOVOTEQ.COM
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1, Euronews Francais
+#EXTINF:-1,Euronews Francais=>NOVOTEQ.COM
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
-#EXTINF:-1, BFM Business Francais
+#EXTINF:-1, BFM Business Francais=>NOVOTEQ.COM
 http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
-#EXTINF:-1, BFM TV Francais
+#EXTINF:-1, BFM TV Francais=>NOVOTEQ.COM
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1, LA CHAINE NORMANDIE
+#EXTINF:-1,LA CHAINE NORMANDIE=>NOVOTEQ.COM
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-#EXTINF:-1, I24 News Francais
+#EXTINF:-1,I24 News Francais=>NOVOTEQ.COM
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
-#EXTINF:-1, arte
+#EXTINF:-1,arte=>NOVOTEQ.COM
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1, La Tele
+#EXTINF:-1,La Tele=>NOVOTEQ.COM
 rtsp://rtmp.infomaniak.ch/livecast/latele
-#EXTINF:0,Updated:8/9-Bloomberg
+#EXTINF:0,Bloomberg=>NOVOTEQ.COM
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,Updated:8/9-Weather Channel
+#EXTINF:0,Weather Channel=>NOVOTEQ.COM
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0,Updated:8/9-CCTV News
+#EXTINF:0,CCTV News=>NOVOTEQ.COM
 http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
-#EXTINF:0,Updated:8/9-NDTV
+#EXTINF:0,NDTV=>NOVOTEQ.COM
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
-#EXTINF:0,Updated:8/9-i24 News
+#EXTINF:0,i24 News=>NOVOTEQ.COM
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-#EXTINF:0,Updated:8/9-Euronews (Arabe)
+#EXTINF:0,Euronews (Arabe)=>NOVOTEQ.COM
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
-#EXTINF:-1,ABC News
+#EXTINF:-1,ABC News=>NOVOTEQ.COM
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,ABC News (stream 2)
+#EXTINF:-1,ABC News (stream 2)=>NOVOTEQ.COM
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:0,Updated:8/9-WGN (CW)
+#EXTINF:0,WGN=>NOVOTEQ.COM
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1, CPAC Anglais
+#EXTINF:-1,CPAC Anglais=>NOVOTEQ.COM
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
-#EXTINF:-1, ABC NEWS
+#EXTINF:-1,ABC NEWS=>NOVOTEQ.COM
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,Euronews
+#EXTINF:-1,Euronews=>NOVOTEQ.COM
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
 #EXTINF:0,HQ Bollywood Movies 24/7 Random Air Time;Entertainment;US;English;
 http://veetle.com/index.php/hls/streamMbrFast/4e0e6f4dcc2d3_/stream.m3u
