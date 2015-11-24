@@ -13,93 +13,17 @@ http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
 #EXTINF:-1, TVA Sport (French)
 rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com//FlashMediaPlayb/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
- 
-#EXTINF:-1, MSNBC
-rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
-
-#EXTINF:-1, NASA
-http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
-
 #EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+
+
+
+
+
+
+
  
-#EXTINF:-1, HSN 2
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
 
-#EXTINF:-1, Disney Channel
-rtmp://stream.connectcast.tv/live playpath=mp4:CC-F91655E4-277C-E23A-B447-5E1B21E83E21-31816 swfUrl=http://connectcast.tv/jwplayer/v6.12/jwplayer.flash.swf live=1 pageUrl=http://connectcast.tv/hoaney
-
-#EXTINF:-1, Tom and Jerry
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
-
-#EXTINF:-1,News 12 Long Island(Stream 1)
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
-
-#EXTINF:-1,News Bronx(Stream 1)
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-
-#EXTINF:-1,News Bronx(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-
-#EXTINF:-1,News Brooklyn(Stream 1)
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
-
-#EXTINF:-1,News Brooklyn(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-
-#EXTINF:-1,News Connecticut(Stream 1)
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
-
-#EXTINF:-1,News Connecticut(Weather)
-rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
-
-#EXTINF:-1,News Hudson Valley(Stream 1)
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
-
-#EXTINF:-1,News Hudson Valley(Weather)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-
-#EXTINF:-1,News Long Island(Stream 2)
-rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
-
-#EXTINF:-1,News Long Island(Weather)
-rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
-
-#EXTINF:-1,News New Jersey(Stream 1)
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
-
-#EXTINF:-1,News New Jersey(Weather)
-rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
-
-#EXTINF:-1,News Westchester(Stream 1)
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-
-#EXTINF:-1,News Westchester(Weather from Hudson Valley)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-
-#EXTVLCOPT:audio-track=1 
-#EXTINF:-1, Cartoon (RU/EN Audio) 
-http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
-
-#EXTINF:-1, RoswellLive US
-mms://roswell.ecstreams.com/RoswellLive
- 
 #EXTINF:-1, The Florida Channel
 rtmp://webcasting.thefloridachannel.org/live/tvweb1
  
