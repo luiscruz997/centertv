@@ -1,8 +1,48 @@
 #EXTM3U
 #EXTINF:-1,[COLOR yellow]20$/mois at NovoteQ[/COLOR]
-#EXTINF:-1,[COLOR yellow]20$/mois at NovoteQ[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR green]— SPORTS CHANNELS —[/COLOR] 
+http://212.200.101455 
+#EXTINF:0,Eurosport 1 uk  
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8  
+#EXTINF:0,Eurosport 2 uk  
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8  
+#EXTINF:0,SkySport 1  
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8  
+#EXTINF:0,SkySport2  
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8  
+#EXTINF:0,SkySport 3  http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8  
+#EXTINF:0,SkySport 4  
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8  
+#EXTINF:0,SkySport 5  
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8  
+#EXTINF:0,SkySport F1  
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8  
+#EXTINF:0, BT Sport Europe  
+http://195.154.226.186:1935/livepp7/bteulsh/playlist.m3u8  
+#EXTINF:0,BT Sport 1  
+http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8  
+#EXTINF:0,BT Sport 2  
+http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8  
+#EXTINF:0, beIN Sports 1 HD  
+http://195.154.226.186:1935/livepp7/bein1frlsh/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,NRJ TV-sd(Music)
 http://rtmp.infomaniak.ch:1935/livecast/energytv/HasBahCa.m3u8
 #EXTINF:0,Updated:8/9-CNBC NEWS
