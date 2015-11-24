@@ -2,7 +2,8 @@
 #EXTINF:-1,[COLOR yellow]20$/mois at NovoteQ[/COLOR]
 http://0.0.0.0:1234
 
-
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“25$/mois at NovoteQ -CANADA USA-”,[COLOR RED](( AFRICA ))[/COLOR]
+http://0.0.0.0:1234
 #EXTINF:-1, Weather Network Canada
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
 #EXTINF:-1, TSC The shopping Channel
