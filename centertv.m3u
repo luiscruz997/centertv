@@ -3,9 +3,6 @@
 #EXTINF:-1,[COLOR yellow]20$/mois at NovoteQ[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]20$/mois at NovoteQ[/COLOR]
-http://0.0.0.0:1234
-#EXTM3U
 #EXTINF:-1,NRJ TV-sd(Music)
 http://rtmp.infomaniak.ch:1935/livecast/energytv/HasBahCa.m3u8
 #EXTINF:0,Updated:8/9-CNBC NEWS
