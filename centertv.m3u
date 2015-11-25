@@ -2,16 +2,16 @@
 #EXTINF:-1,[COLOR yellow]25$/mois at NovoteQ[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test1,[COLOR red]CANADA/USA=>NovoteQ.com[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test1,[COLOR red]testing1[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test2,[COLOR red]NovoteQ.com[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test2,[COLOR red]testing2[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test3,[COLOR red]NovoteQ.com[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test3,[COLOR red]testing3[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test4,[COLOR red]NovoteQ.com[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test4,[COLOR red]testing4[/COLOR]
 http://0.0.0.0:1234
 
 #EXTM3U
