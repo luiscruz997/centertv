@@ -4,9 +4,9 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=test1,[COLOR red]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
-#EXTM3U
 #EXTINF:-1, Weather Network Canada=>NOVOTEQ.COM
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=test2,[COLOR red]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
