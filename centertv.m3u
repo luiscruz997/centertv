@@ -40,195 +40,12 @@ http://xrxs.net/video/live-p12moun-1164.m3u8
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF: 0, Bravo
 http://87.248.160.8/edge/smil:tnt/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF‬:-1,ALBANIA:Super Sport 1
-rtmp://46.183.120.158/ott/ss1
-#EXTINF:-1,ALBANIA:Super Sport 2
-rtmp://46.183.120.158/ott/ss2
-#EXTINF:-1,ALBANIA:Super Sport 3
-rtmp://46.183.120.158/ott/ss3
-#EXTINF:-1,ALBANIA:Super Sport 4
-rtmp://46.183.120.158/ott/ss4
-#EXTINF:-1,Auto Moto TV Gaz
-mms://100automoto.tv/100gaz
-#EXTINF:-1,AZERBAYCAN-idman sports m3u8 myvideo.az
-http://hls01-07.az.myvideo.az/…/live…/idman/idman/idman.m3u8
-#EXTINF:-1,BEIN 1
-rtmp://180.250.29.12:1935/jhos/beib1_5
-#EXTINF:-1,BEIN 2
-rtmp://180.250.29.12:1935/jhos/beib2_5
-#EXTINF:-1,BEIN 3
-rtmp://180.250.29.12:1935/jhos/beib3_5
-#EXTINF:-1,Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/…/btnnetwork_hd…
-#EXTINF:-1,BRASIL-ESPN+
-rtmp://31.204.128.74/live/master27
-#EXTINF:-1,BRASIL-FOX SPORTS
-rtmp://31.204.153.72/live/fsb
-#EXTINF:-1,BULGAR-BULSAT:DIEMA SPORT BG m3u8
-http://37.48.93.168:443/live/diemasport/HasBahCa.m3u8
-#EXTINF:-1,BULGAR-BULSAT:DIEMA SPORT BG rtmp
-rtmp://37.48.93.168:443/live/diemasport
-EXTINF:-1,BULGAR-BULSAT:EUROSPORT BG m3u8
-http://37.48.93.168:443/live/eurosport/HasBahCa.m3u8
-#EXTINF:-1,BULGAR-BULSAT:EUROSPORT BG rtmp
-rtmp://37.48.93.168:443/live/eurosport
-#EXTINF:-1,BULGAR-BULSAT:NOVA SPORT BG m3u8
-http://37.48.93.168:443/live/novasport/HasBahCa.m3u8
-#EXTINF:-1,BULGAR-BULSAT:NOVA SPORT BG rtmp
-rtmp://37.48.93.168:443/live/novasport
-#EXTINF:-1,Czech:O Sport
-http://212.79.96.134:8014/
-#EXTINF:-1,DEUTSCH:Eurosport Deutschland
-http://81.92.105.135:5555/pl.m3u8?channel=24
-#EXTINF:-1,DEUTSCH:ORF SPORT+
-http://81.92.105.135:5555/pl.m3u8?channel=84
-#EXTINF:-1,DEUTSCH:SPORT1
-http://81.92.105.135:5555/pl.m3u8?channel=54
-#EXTINF:-1,Dubai Racing (UAE)
-http://cdnehlsdubairacing2.endavomedia.com/sm…/HasBahCa.m3u8
-#EXTINF:-1,English:SPORTES 6 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,English:SPORTES 7 HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,ENG-MMA BAY TV
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-#EXTINF:-1,ESPN 3 arg
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/…/AL_P_…/playlist_1000.m3u8
-#EXTINF:-1,EUROSPORT 1 FR
-http://esioslive6-i.akamaihd.net/…/AL_P_…/playlist_1800.m3u8
-#EXTINF:-1,Eurosport 2 m3u8 720*576 myvideo.az
-http://hls01-04.az.myvideo.az/…/eurosport2/eurosport2/euros…
-#EXTINF:-1,EX-YUG:ARENA SPORT
-http://118.97.167.19/jhos/arena//Playlist.m3u8
-#EXTINF:-1,Fox Sports ar
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1,FOX Sports m3u8 640*360
-http://187.247.255.139/Apple/FOXSPHD600.m3u8
-#EXTINF:-1,FRANCE:Eurosport 400P
-http://esioslive6-i.akamaihd.net/…/AL_P_ESP1_…/playlist.m3u8
-#EXTINF:-1,FRANCE:TVA Sport
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1,Georgia:Silk 1 HD 1920*1080
-http://80.77.52.6:4314/udp/226.0.0.7:12345
-#EXTINF:-1,Georgia:Silk 2 HD 1920*1080
-http://80.77.52.6:4314/udp/226.0.0.8:12345
-#EXTINF:-1,Georgia:Silk 3 HD 1920*1080
-http://80.77.52.6:4314/udp/226.0.0.9:12345
-#EXTINF:-1,Georgia:Silk 4 HD 1920*1080
-http://80.77.52.6:4314/udp/226.0.0.10:12345
-#EXTINF:-1,ITALIA:Rai Sport 1
-http://81.92.105.135:5555/pl.m3u8?channel=534
-#EXTINF:-1,ITALIA:RAI SPORT 1
-http://212.162.68.163:80/raisport+
-#EXTINF:-1,ITALIA:Rai Sport 2
-http://81.92.105.135:5555/pl.m3u8?channel=535
-#EXTINF:-1,ITALIA:SPORT ITALIA
-http://81.92.105.135:5555/pl.m3u8?channel=539
-#EXTINF:-1,ITALIA:TOP CALCIO 24
-http://81.92.105.135:5555/pl.m3u8?channel=520
-#EXTINF:-1,KAZSPORT
-http://vs1.cdn.ott.otautv.kz/…/id14_KTR_SG--Ka…/01/plst.m3u8
-#EXTINF:-1,Latino:FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1,Latino:FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
 #EXTINF:-1,Motorsport 7 Channel Australia
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,Portugal:Sport TV1 HD
-http://myplace.dnsalias.com:6262/live/pt/gratis/20.ts
-#EXTINF:-1,Portugal:Sport TV2
-http://myplace.dnsalias.com:6262/live/pt/gratis/21.ts
-#EXTINF:-1,Portugal:Sport TV3
-http://myplace.dnsalias.com:6262/live/pt/gratis/22.ts
-#EXTINF:-1,Portugal:Sport TV4
-http://myplace.dnsalias.com:6262/live/pt/gratis/23.ts
-#EXTINF:-1,Portugal:Sport TV5
-http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts
-#EXTINF:-1,RDS 2 HD
-http://ams-lp10.9c9media.com/…/liveeventNoDRM/RDS2Open8.m3u8
-#EXTINF:-1,RDS HD
-http://ams-lp9.9c9media.com/…/…/liveeventNoDRM/RDSOpen8.m3u8
-EXTINF:-1,RUS 1 Football HD
-http://46.61.226.18/h…/CH_FUTBALL1HD/bw3000000/variant.m3u8…
-#EXTINF:-1,RUS CHL
-http://178.49.132.73/streaming/khl/tvrec/playlist.m3u8
-#EXTINF:-1,RUS Eurosport
-http://178.49.132.73/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1,RUS Fight Club
-http://178.49.132.73/streami…/fight_club/tvrec/playlist.m3u8
-EXTINF:-1,RUS Football 2 HD
-http://46.61.226.18/h…/CH_FUTBALL2HD/bw3000000/variant.m3u8…
-#EXTINF:-1,RUS Football 3 HD
-http://46.61.226.18/h…/CH_FUTBALL3HD/bw3000000/variant.m3u8…
-#EXTINF:-1,RUS Our Football HD
-http://46.61.226.18/…/CH_C06_NASHFO…/bw3000000/variant.m3u8…
-#EXTINF:-1,RUS Viasat Sport
-http://178.49.132.73/strea…/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1,SPORT TIME TV 1HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
-#EXTINF:-1,SPORT TIME TV 2HD
-tmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1,SPORT TIME TV 3HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1,SPORT TIME TV 6HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 #EXTINF:-1,Sports Tonight UK
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
-#EXTINF:-1,TSN 1 720 HD
-http://ams-lp5.9c9media.com/…/…/liveeventNoDRM/tsnOpen8.m3u8
-#EXTINF:-1,TSN 2 720 HD
-http://ams-lp7.9c9media.com/…/_definst_/live…/TSN2Open8.m3u8
-#EXTINF:-1,TSN 3 720 HD
-http://ams-lp1.9c9media.com/…/_definst_/live…/TSN3Open8.m3u8
-#EXTINF:-1,TSN 5 720 HD
-http://ams-lp3.9c9media.com/…/_definst_/live…/TSN5Open8.m3u8
-#EXTINF:-1,TÜRK:a SPOR m3u8
-http://rtmp.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
-#EXTINF:-1,TÜRK:A SPOR m3u8
-http://hls.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
-#EXTINF:-1,TÜRK:A SPOR m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/…/…/index.m3u8
-#EXTINF:-1,TÜRK:BURSASPOR TV rtmp 720*576
-rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
-#EXTINF:-1,TÜRK:BURSASPOR TV m3u8
-http://stream.yayindayiz.biz/Bursas…/bursaspor/HasBahCa.m3u8
-#EXTINF:-1,TÜRK:NTV SPOR m3u8
-http://hls01-08.az.myvideo.az/…/ntvsp…/ntvspor/ntvspor.m3u8…
-#EXTINF:-1,TÜRK:NTV SPOR m3u8 320*256
-http://yayin1.canlitv.com:1935/live/ntvspor/HasBahCa.m3u8
-#EXTINF:-1,TÜRK:NTV SPOR m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/…/a…/index.m3u8
-#EXTINF:-1,TÜRK:SPORTS TV m3u8
-http://stream.sportstv.com.tr/sport…/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1,TÜRK:Sports TV m3u8
-http://hls01-04.az.myvideo.az/…/…/sport1/sport1/sport1.m3u8…
-#EXTINF:-1,USA:SPORTES 5 HD
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
- #EXTINF:-1,USA:SPORTES 6 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,USA-PAC 12 Bay Area (HD)
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,USA-Pac 12 Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,VIETNAM:FOX SPORT
-http://203.162.235.124:5555/udp/225.2.100.37:5000
-#EXTINF:-1,VIETNAM:STAR SPORTS
-http://203.162.235.124:5555/udp/225.2.100.91:5000
 
 
 
@@ -237,6 +54,380 @@ http://203.162.235.124:5555/udp/225.2.100.91:5000
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,Rai 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/217.m3u8
+#EXTINF:-1,Rai 2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/218.m3u8
+#EXTINF:-1,Rai 3 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/219.m3u8
+#EXTINF:-1,Rete 4 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/220.m3u8
+#EXTINF:-1,Canale 5 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/221.m3u8
+#EXTINF:-1,Italia 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/222.m3u8
+#EXTINF:-1,La7
+http://tvservice.webhop.me:80/live/marlboro/marlboro/223.m3u8
+#EXTINF:-1,MTV 8
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1557.m3u8
+#EXTINF:-1,Deejay TV
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2523.m3u8
+#EXTINF:-1,RSI La1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/421.m3u8
+#EXTINF:-1,RSI La2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/420.m3u8
+#EXTINF:-1,—- CINEMA —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/224.m3u8
+#EXTINF:-1,Sky Cinema 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/225.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/226.m3u8
+#EXTINF:-1,Sky Cinema +24 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/227.m3u8
+#EXTINF:-1,Sky Cinema 007 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/228.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/229.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/230.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/231.m3u8
+#EXTINF:-1,Sky Cinema Max HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/232.m3u8
+#EXTINF:-1,Sky Cinema Cult HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/234.m3u8
+#EXTINF:-1,Sky Cinema Classic HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/235.m3u8
+#EXTINF:-1,Iris
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1481.m3u8
+#EXTINF:-1,Rai Movie
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1552.m3u8
+#EXTINF:-1,—- INTRATTENIMENTO —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/236.m3u8
+#EXTINF:-1,Sky Uno HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/237.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/238.m3u8
+#EXTINF:-1,Fox HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/239.m3u8
+#EXTINF:-1,Fox
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2892.m3u8
+#EXTINF:-1,Fox Life HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/240.m3u8
+#EXTINF:-1,Fox Crime HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/241.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/242.m3u8
+#EXTINF:-1,Fox Animation HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/243.m3u8
+#EXTINF:-1,AXN HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/245.m3u8
+#EXTINF:-1,AXN Sci-Fi
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1707.m3u8
+#EXTINF:-1,CI Crime+Investigation HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/244.m3u8
+#EXTINF:-1,Comedy Central
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2190.m3u8
+#EXTINF:-1,Lei
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2215.m3u8
+#EXTINF:-1,Lei
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2590.m3u8
+#EXTINF:-1,Cielo
+http://tvservice.webhop.me:80/live/marlboro/marlboro/246.m3u8
+#EXTINF:-1,Real Time
+http://tvservice.webhop.me:80/live/marlboro/marlboro/247.m3u8
+#EXTINF:-1,Real time
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2905.m3u8
+#EXTINF:-1,Laeffe
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2644.m3u8
+#EXTINF:-1,Rai Premium
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1548.m3u8
+#EXTINF:-1,Top Crime
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1473.m3u8
+#EXTINF:-1,Mediaset Extra
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1558.m3u8
+#EXTINF:-1,Mediaset Italia 2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/912.m3u8
+#EXTINF:-1,La 5
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1392.m3u8
+#EXTINF:-1,La7d
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1561.m3u8
+#EXTINF:-1,Giallo
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2482.m3u8
+#EXTINF:-1,Rai 4
+http://tvservice.webhop.me:80/live/marlboro/marlboro/911.m3u8
+#EXTINF:-1,Rai 5
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1554.m3u8
+#EXTINF:-1,E! Entertainment
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2900.m3u8
+#EXTINF:-1,Tv globo
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2899.m3u8
+#EXTINF:-1,— REGIONALI —
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2838.m3u8
+#EXTINF:-1,Italia 7 gold
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2901.m3u8
+#EXTINF:-1,Teleticino
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1612.m3u8
+#EXTINF:-1,Tv 2000
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2049.m3u8
+#EXTINF:-1,R3
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1950.m3u8
+#EXTINF:-1,Telemia
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2893.m3u8
+#EXTINF:-1,Videolina
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1624.m3u8
+#EXTINF:-1,Sardegna 1
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2836.m3u8
+#EXTINF:-1,Canale 21
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2326.m3u8
+#EXTINF:-1,Canale 8
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2651.m3u8
+#EXTINF:-1,TV luna
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2324.m3u8
+#EXTINF:-1,Canale 10
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2325.m3u8
+#EXTINF:-1,—- SPORT —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/249.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/250.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/251.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/252.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/253.m3u8
+#EXTINF:-1,Sky Sport Plus HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2073.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/254.m3u8
+#EXTINF:-1,Sky Moto GP HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/255.m3u8
+#EXTINF:-1,Eurosport HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2633.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2634.m3u8
+#EXTINF:-1,Gazzetta tv
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2618.m3u8
+#EXTINF:-1,Sport Italia
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1547.m3u8
+#EXTINF:-1,Sport television
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2725.m3u8
+#EXTINF:-1,Rai Sport 1
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1551.m3u8
+#EXTINF:-1,Rai Sport 2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2048.m3u8
+#EXTINF:-1,Super Tennis HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/256.m3u8
+#EXTINF:-1,—- CALCIO —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/257.m3u8
+#EXTINF:-1,Milan channel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1515.m3u8
+#EXTINF:-1,Juventus Channel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1662.m3u8
+#EXTINF:-1,Inter Channel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1917.m3u8
+#EXTINF:-1,Roma Channel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1918.m3u8
+#EXTINF:-1,Fox Sporm3u8 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/413.m3u8
+#EXTINF:-1,Sky Supercalcio HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/258.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/259.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/260.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/261.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/262.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/263.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/264.m3u8
+#EXTINF:-1,Sky Calcio 7 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2739.m3u8
+#EXTINF:-1,Bein Sport 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2621.m3u8
+#EXTINF:-1,Bein sport 2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2622.m3u8
+#EXTINF:-1,Bein Sport 3 HD 
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2887.m3u8
+#EXTINF:-1,Bein Sport 4 HD
+http://hack-sat.net :80/live/marlboro/marlboro/2887.m3u8
+#EXTINF:-1,—- CULTURA —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/266.m3u8
+#EXTINF:-1,Sky Arte HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1526.m3u8
+#EXTINF:-1,NationalGeo HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/267.m3u8
+#EXTINF:-1,NatGeo People HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/268.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/394.m3u8
+#EXTINF:-1,Discovery Sci HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/357.m3u8
+#EXTINF:-1,Explora HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/284.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/269.m3u8
+#EXTINF:-1,Discovery Travel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2277.m3u8
+#EXTINF:-1,Premium Discovery World
+http://tvservice.webhop.me:80/live/marlboro/marlboro/303.m3u8
+#EXTINF:-1,Premium BBC
+http://tvservice.webhop.me:80/live/marlboro/marlboro/302.m3u8
+#EXTINF:-1,History HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/272.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1920.m3u8
+#EXTINF:-1,Focus
+http://tvservice.webhop.me:80/live/marlboro/marlboro/679.m3u8
+#EXTINF:-1,Animal Planet
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1490.m3u8
+#EXTINF:-1,Caccia e Pesca
+http://tvservice.webhop.me:80/live/marlboro/marlboro/273.m3u8
+#EXTINF:-1,Pesca e Caccia
+http://tvservice.webhop.me:80/live/marlboro/marlboro/863.m3u8
+#EXTINF:-1,Italian Fishing Tv
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2874.m3u8
+#EXTINF:-1,Nuvolari
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2096.m3u8
+#EXTINF:-1,Marcopolo
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1559.m3u8
+#EXTINF:-1,Alice
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1569.m3u8
+#EXTINF:-1,Fine living
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1395.m3u8
+#EXTINF:-1,DMAX HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/271.m3u8
+#EXTINF:-1,—- MUSICA —
+http://tvservice.webhop.me:80/live/marlboro/marlboro/274.m3u8
+#EXTINF:-1,m2o
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2517.m3u8
+#EXTINF:-1,Mtv Music
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1556.m3u8
+#EXTINF:-1,Radio 105
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2518.m3u8
+#EXTINF:-1,Radio Tv Capital
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2656.m3u8
+#EXTINF:-1,Radio Italia tv
+http://tvservice.webhop.me:80/live/marlboro/marlboro/290.m3u8
+#EXTINF:-1,Dance 90
+http://tvservice.webhop.me:80/live/marlboro/marlboro/277.m3u8
+#EXTINF:-1,R.T.L 102.5
+http://tvservice.webhop.me:80/live/marlboro/marlboro/289.m3u8
+#EXTINF:-1,RDS
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1479.m3u8
+#EXTINF:-1,— BAMBINI —
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1397.m3u8
+#EXTINF:-1,Disney XD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1566.m3u8
+#EXTINF:-1,Super!
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1546.m3u8
+#EXTINF:-1,K2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1563.m3u8
+#EXTINF:-1,Premium Disney Channel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/285.m3u8
+#EXTINF:-1,Premium Disney Channel
+http://tvservice.webhop.me:80/live/marlboro/marlboro/403.m3u8
+#EXTINF:-1,Premium Disney Junior
+http://tvservice.webhop.me:80/live/marlboro/marlboro/286.m3u8
+#EXTINF:-1,Premium Cartoon Network
+http://tvservice.webhop.me:80/live/marlboro/marlboro/287.m3u8
+#EXTINF:-1,-frisbee-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1564.m3u8
+#EXTINF:-1,Rai yoyo
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1549.m3u8
+#EXTINF:-1,Rai Gulp
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1553.m3u8
+#EXTINF:-1,Boing
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1393.m3u8
+#EXTINF:-1,Cartoonito
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1474.m3u8
+#EXTINF:-1,Masha e Orso Channel 1
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1658.m3u8
+#EXTINF:-1,Masha e Orso Channel 2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1659.m3u8
+#EXTINF:-1,Masha e orso channel 3
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1697.m3u8
+#EXTINF:-1,Peppa Pig Channel 1
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1631.m3u8
+#EXTINF:-1,Peppa Pig Channel 2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/1500.m3u8
+#EXTINF:-1,—- NOTIZIE —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/278.m3u8
+#EXTINF:-1,Sky TG 24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/279.m3u8
+#EXTINF:-1,Tg Com 24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/280.m3u8
+#EXTINF:-1,Rai News 24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/281.m3u8
+#EXTINF:-1,TG Norba 24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2830.m3u8
+#EXTINF:-1,Rai senato
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2903.m3u8
+#EXTINF:-1,—– MEDIASET PREMIUM —-
+http://tvservice.webhop.me:80/live/marlboro/marlboro/291.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/292.m3u8
+#EXTINF:-1,Premium Cinema +24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2191.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2192.m3u8
+#EXTINF:-1,Premium Cinema 2 +24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2214.m3u8
+#EXTINF:-1,Premium Emotion
+http://tvservice.webhop.me:80/live/marlboro/marlboro/297.m3u8
+#EXTINF:-1,Premium Energy
+http://tvservice.webhop.me:80/live/marlboro/marlboro/298.m3u8
+#EXTINF:-1,Premium Comedy
+http://tvservice.webhop.me:80/live/marlboro/marlboro/295.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://tvservice.webhop.me:80/live/marlboro/marlboro/301.m3u8
+#EXTINF:-1,Premium Action HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/294.m3u8
+#EXTINF:-1,Premium Action +24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2193.m3u8
+#EXTINF:-1,Premium Crime HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2196.m3u8
+#EXTINF:-1,Premium Crime +24
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2194.m3u8
+#EXTINF:-1,Premium Joy
+http://tvservice.webhop.me:80/live/marlboro/marlboro/300.m3u8
+#EXTINF:-1,Premium Stories
+http://tvservice.webhop.me:80/live/marlboro/marlboro/299.m3u8
+#EXTINF:-1,Premium Extra 1
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2771.m3u8
+#EXTINF:-1,Premium Extra 2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2773.m3u8
+#EXTINF:-1,Premium Sport HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2528.m3u8
+#EXTINF:-1,Premium Calcio
+http://tvservice.webhop.me:80/live/marlboro/marlboro/349.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://tvservice.webhop.me:80/live/marlboro/marlboro/346.m3u8
+#EXTINF:-1,Premium Calcio 1
+http://tvservice.webhop.me:80/live/marlboro/marlboro/2834.m3u8
+#EXTINF:-1,Premium Calcio 2
+http://tvservice.webhop.me:80/live/marlboro/marlboro/348.m3u8
+#EXTINF:-1,Premium Calcio 3
+http://tvservice.webhop.me:80/live/marlboro/marlboro/352.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://tvservice.webhop.me:80/live/marlboro/marlboro/353.m3u8
+#EXTINF:-1,Premium Calcio 5
+http://tvservice.webhop.me:80/live/marlboro/marlboro/400.m3u8
+#EXTINF:-1,Premium Calcio 6
+http://tvservice.webhop.me:80/live/marlboro/marlboro/401.m3u8
+#EXTINF:-1,Premium Calcio 7
+http://tvservice.webhop.me:80/live/marlboro/marlboro/402.m3u8
 
 
 
