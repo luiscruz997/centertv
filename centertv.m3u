@@ -4,6 +4,12 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=CAN/USA=>25$/Month=>NOVOTEQ.COM=>NOVOTEQ.COM=>NOVOTEQ.COM”,[COLOR red]CANADA/USA=>NovoteQ.com[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=CAN/USA=>25$/Month=>NOVOTEQ.COM=>NOVOTEQ.COM=>NOVOTEQ.COM”,[COLOR red]NovoteQ.com[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=CAN/USA=>25$/Month=>NOVOTEQ.COM=>NOVOTEQ.COM=>NOVOTEQ.COM”,[COLOR red]NovoteQ.com[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=CAN/USA=>25$/Month=>NOVOTEQ.COM=>NOVOTEQ.COM=>NOVOTEQ.COM”,[COLOR red]NovoteQ.com[/COLOR]
+http://0.0.0.0:1234
 
 #EXTM3U
 #EXTINF:-1, Weather Network Canada=>NOVOTEQ.COM
