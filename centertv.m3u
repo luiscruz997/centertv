@@ -2,21 +2,24 @@
 #EXTINF:-1,[COLOR yellow]25$/mois at NovoteQ[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test1,[COLOR red]NOVOTEQ.COM[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=x,[COLOR red]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test2,[COLOR red]NOVOTEQ.COM[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=xx,[COLOR red]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test3,[COLOR red]NOVOTEQ.COM[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=xxx,[COLOR red]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=test4,[COLOR red]NOVOTEQ.COM[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=xxxx,[COLOR red]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
 
 #EXTM3U
 #EXTINF:-1, Weather Network Canada[COLOR red]NOVOTEQ.COM[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1,[COLOR red]PLUS DE 300 POSTES[/COLOR]
+http://0.0.0.0:1234
+
 #EXTINF:-1,[COLOR yellow]NOVOTEQ.COM[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1, CPAC[COLOR red]NOVOTEQ.COM[/COLOR]
