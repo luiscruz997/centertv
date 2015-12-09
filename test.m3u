@@ -10,6 +10,27 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTM3U
 
+#EXTINF:-1,FIGHT CLUB
+ http://80.77.52.6:3719/udp/226.0.5.5:12345
+
+#EXTINF:-1,FIGHT CLUB
+ http://185.5.40.102/hls/session-4675554WRHoCtbKpH/CH_FIGHTCLUB/bw1758000/variant.m3u8?version=1
+
+#EXTINF:-1,FIGHT CLUB
+ http://edge.ailetv.net/org13/boycovskiyklub_me/playlist.m3u8
+
+#EXTINF:-1,FIGHT CLUB
+ http://46.61.226.18/hls/CH_FIGHTCLUB/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1,FIGHT CLUB
+ http://92.50.181.6/tv/1118/index.m3u8
+
+#EXTINF:-1,FIGHT CLUB
+ http://178.49.132.73/streaming/fight_club/tvrec/playlist.m3u8
+
+#EXTINF:-1,FIGHT CLUB
+ http://peerstv.ufanet.ru/tv/1118/index.m3u8
+
 
 
 
