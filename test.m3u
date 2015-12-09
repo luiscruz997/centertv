@@ -10,26 +10,146 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTM3U
 
-#EXTINF:-1,FIGHT CLUB
- http://80.77.52.6:3719/udp/226.0.5.5:12345
 
-#EXTINF:-1,FIGHT CLUB
- http://185.5.40.102/hls/session-4675554WRHoCtbKpH/CH_FIGHTCLUB/bw1758000/variant.m3u8?version=1
 
-#EXTINF:-1,FIGHT CLUB
- http://edge.ailetv.net/org13/boycovskiyklub_me/playlist.m3u8
-
-#EXTINF:-1,FIGHT CLUB
- http://46.61.226.18/hls/CH_FIGHTCLUB/bw1500000/variant.m3u8?version=2
-
-#EXTINF:-1,FIGHT CLUB
- http://92.50.181.6/tv/1118/index.m3u8
-
-#EXTINF:-1,FIGHT CLUB
- http://178.49.132.73/streaming/fight_club/tvrec/playlist.m3u8
-
-#EXTINF:-1,FIGHT CLUB
- http://peerstv.ufanet.ru/tv/1118/index.m3u8
+#EXTINF:-1,IDMAN TV AZERB,
+ http://91.204.214.106:23311/stolen/436t/backdoor.hfs
+ #EXTINF:-1,BT SPORT 1 HD,
+ http://02e4.vp9.tv/chn/btsu1/v.m3u8
+ #EXTINF:-1,BT SPORT 2 HD,
+ http://02e4.vp9.tv/chn/btsu2/v.m3u8
+ #EXTINF:-1,ORANGE SPORT,
+ rtmp://51.254.45.34/live/orangesport
+#EXTINF:-1, SUPER SPORT 1 HD,
+ http://skyiptv.ddns.net:8000/live/edi/edi/360.m3u8
+#EXTINF:-1, SUPER SPORT 2 HD,
+ http://skyiptv.ddns.net:8000/live/edi/edi/359.m3u8
+ #EXTINF:-1,SUPER SPORT 3 HD,
+ http://skyiptv.ddns.net:8000/live/edi/edi/358.m3u8
+ #EXTINF:-1,SUPER SPORT 4 HD,
+ http://skyiptv.ddns.net:8000/live/edi/edi/357.m3u8
+#EXTINF:-1, BEIN SPORT 1 HD,
+ http://162.253.128.170:1935/boxlivetv/bein1001/playlist.m3u8
+#EXTINF:-1, Sky Sport 24 HD,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/32.m3u8
+#EXTINF:-1, Sky Sport 1 HD,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/33.m3u8
+#EXTINF:-1, Sky Sport 2 HD,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/34.m3u8
+#EXTINF:-1, Sky Sport 3 HD,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/35.m3u8
+#EXTINF:-1, Sky Sport Plus HD,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/36.m3u8
+#EXTINF:-1, Fox Sport HD,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/39.m3u8
+#EXTINF:-1, Moto Gp,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/38.m3u8
+ #EXTINF:-1,Sky Sport F1,
+ http://sky-iptv.dyndns.org:8000/live/gianni/gianni/37.m3u8
+#EXTINF:-1, BEIN SPORTS,
+ http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/02.m3u8
+ #EXTINF:-1,BEIN SPORTS,
+ http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
+#EXTINF:-1, BEIN SPORTS,
+ http://yiptv5-live.hls.adaptive.level3.net//yiptv5/beinespgov/03.m3u8
+#EXTINF:-1, VIASAT SPORT BALTIC,
+ http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
+#EXTINF:-1, VIASAT SPORT,
+ http://195.2.236.22:4022/udp/225.1.3.101:4001
+#EXTINF:-1, VIASAT SPORT,
+ http://188.17.143.39/hls/CH_C01_VIASATSPORT/variant.m3u8?version=2
+#EXTINF:-1, VIASAT SPORT RUS,
+ http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1, VIASAT SPORT RUS,
+ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1, VIASAT SPORT RUS,
+ http://109.254.88.12:81/udp/238.1.1.113:1234
+#EXTINF:-1, VIASAT SPORT RUS,
+ http://5.149.216.36:7781/udp/239.0.0.179:4000
+#EXTINF:-1, VIASAT SPORT RUS,
+ http://j.mp/ZCH_C01_VIASATSPORT_sly
+#EXTINF:-1, RUS MATTS,
+ http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:-1, RUS MATTS,
+ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:-1, RUS MATTS,
+ http://4.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://4.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://217.12.78.251:4022/udp/238.0.5.13:1234
+#EXTINF:-1, FUTBOL UKR,
+ http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://j.mp/FOOTBALL_sly
+#EXTINF:-1, FUTBOL UKR,
+ http://hls.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://slynet.8nio.com/mn_ntvfootball_sly.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://hls.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://hls.peers.tv/streaming/futbol/126/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://87.245.214.43/streaming/futbol/126/tvrec/playlist.m3u8
+#EXTINF:-1, FUTBOL UKR,
+ http://212.178.14.24:5555/udp/239.2.10.82:1234
+#EXTINF:-1, FUTBOL 1,
+ http://193.106.211.2:1234/udp/225.1.3.103:4001
+#EXTINF:-1, FUTBOL 1,
+ http://195.2.236.22:4022/udp/225.1.3.103:4001
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://slynet.8nio.com/mx_football1ua_sly.m3u8
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://iptv.maximuma.net/football
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://j.mp/IPFOOTBALL1_sly?.m3u8
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://91.196.148.6/football
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://195.2.236.22:4022/udp/225.1.3.103:4001
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://195.42.126.126:4022/udp/234.0.1.77:1234
+#EXTINF:-1, FUTBOL 1 UKR,
+ http://62.244.55.90:4022/udp/225.1.3.103:4001
+#EXTINF:-1, FUTBOL 2 UKR,
+ http://195.2.236.22:4022/udp/225.1.3.102:4001
+#EXTINF:-1, FUTBOL 2 UKR,
+ http://178.165.0.14:4022/udp/239.0.0.215:1234
+#EXTINF:-1, FUTBOL 2 UKR,
+ http://91.237.107.171:8000/udp/238.1.1.147:1234
+#EXTINF:-1, SPORT 1 UKR,
+ http://91.244.24.86:9999/udp/239.255.250.38:1234
+#EXTINF:-1, SPORT 1 UKR,
+ http://193.176.251.228:8000/Sport1
+#EXTINF:-1, SPORT 1 UKR,
+ http://91.196.148.6/sport1
+#EXTINF:-1, SPORT 1 UKR,
+ http://slynet.8nio.com/mx_sport1ua_sly.m3u8
+#EXTINF:-1, SPORT 1 UKR,
+ rtmp://rtmp.pvplus.tv:80/rtmp/sport1b1ua
+#EXTINF:-1, SPORT 1 UKR,
+ http://87.76.73.130:8141/sport1mp4b1
+#EXTINF:-1, SPORT 1 UKR,
+ http://air.televyshka.ru:900/64
+#EXTINF:-1, SPORT 1 UKR,
+ http://87.76.73.130:8141/sport1mp4b1
+#EXTINF:-1, SPORT 1 RUS,
+ http://37.193.147.178:4022/udp/239.1.12.7:1234
+#EXTINF:-1, SPORT 2 UKR,
+ http://91.244.24.86:9999/udp/239.255.250.39:1234
+#EXTINF:-1, SPORT 2 UKR,
+ http://193.176.251.228:8000/Sport2
+#EXTINF:-1, SPORT 2 UKR,
+ http://87.76.73.130:8221/sport2mp2b1
+#EXTINF:-1, SPORT 2 UKR,
+ http://212.178.14.24:5555/udp/239.2.175.95:1234
 
 
 
