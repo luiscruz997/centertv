@@ -4,3 +4,68 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]PLUS DE 300 POSTES[/COLOR]
 http://0.0.0.0:1234
+
+
+#EXTM3U
+#EXTINF:0,NR: Viasat Film
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4445.m3u8
+#EXTINF:0,NR: TV3 Puls
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4457.m3u8
+#EXTINF:0,NR: TV3 Norway
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4456.m3u8
+#EXTINF:0,NR: TV3 Denmark
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4455.m3u8
+#EXTINF:0,NR: TV2 Zulu
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4454.m3u8
+#EXTINF:0,NR: TV2 Zebra
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4453.m3u8
+#EXTINF:0,NR: TV2 Sportkanalen
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4452.m3u8
+#EXTINF:0,NR: TV2 Nyhem3u8kanalen
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4451.m3u8
+#EXTINF:0,NR: TV2 Norge
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4450.m3u8
+#EXTINF:0,NR: TV2 FRI
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4449.m3u8
+#EXTINF:0,NR: TV2 Charlie
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4448.m3u8
+#EXTINF:0,NR: TV2 Bliss
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4447.m3u8
+#EXTINF:0,NR: TV Norge
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4446.m3u8
+#EXTINF:0,NR: NRK Super
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4444.m3u8
+#EXTINF:0,NR: NRK 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4443.m3u8
+#EXTINF:0,NR: NRK 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4442.m3u8
+#EXTINF:0,NR: Nelonen
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4441.m3u8
+#EXTINF:0,NR: Max Norway
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4440.m3u8
+#EXTINF:0,NR: Kanal 5
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4438.m3u8
+#EXTINF:0,NR: Fem
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4437.m3u8
+#EXTINF:0,NR: DR 3
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4436.m3u8
+#EXTINF:0,NR: DR 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4435.m3u8
+#EXTINF:0,NR: Vox Norway
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4424.m3u8
+#EXTINF:0,NR: Viasat Golf
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4431.m3u8
+#EXTINF:0,NR: Viasat Film Action
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4433.m3u8
+#EXTINF:0,NR: TV3 Sport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4430.m3u8
+#EXTINF:0,NR: TV3 Sport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4429.m3u8
+#EXTINF:0,NR: MTV Sport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4428.m3u8
+#EXTINF:0,NR: MTV Sport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4427.m3u8
+#EXTINF:0,NR: Eurosport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4425.m3u8
+#EXTINF:0,NR: DR 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4434.m3u8
