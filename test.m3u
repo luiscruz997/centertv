@@ -7,65 +7,297 @@ http://0.0.0.0:1234
 
 
 #EXTM3U
-#EXTINF:0,NR: Viasat Film
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4445.m3u8
-#EXTINF:0,NR: TV3 Puls
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4457.m3u8
-#EXTINF:0,NR: TV3 Norway
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4456.m3u8
-#EXTINF:0,NR: TV3 Denmark
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4455.m3u8
-#EXTINF:0,NR: TV2 Zulu
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4454.m3u8
-#EXTINF:0,NR: TV2 Zebra
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4453.m3u8
-#EXTINF:0,NR: TV2 Sportkanalen
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4452.m3u8
-#EXTINF:0,NR: TV2 Nyhem3u8kanalen
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4451.m3u8
-#EXTINF:0,NR: TV2 Norge
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4450.m3u8
-#EXTINF:0,NR: TV2 FRI
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4449.m3u8
-#EXTINF:0,NR: TV2 Charlie
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4448.m3u8
-#EXTINF:0,NR: TV2 Bliss
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4447.m3u8
-#EXTINF:0,NR: TV Norge
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4446.m3u8
-#EXTINF:0,NR: NRK Super
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4444.m3u8
-#EXTINF:0,NR: NRK 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4443.m3u8
-#EXTINF:0,NR: NRK 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4442.m3u8
-#EXTINF:0,NR: Nelonen
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4441.m3u8
-#EXTINF:0,NR: Max Norway
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4440.m3u8
-#EXTINF:0,NR: Kanal 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4438.m3u8
-#EXTINF:0,NR: Fem
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4437.m3u8
-#EXTINF:0,NR: DR 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4436.m3u8
-#EXTINF:0,NR: DR 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4435.m3u8
-#EXTINF:0,NR: Vox Norway
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4424.m3u8
-#EXTINF:0,NR: Viasat Golf
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4431.m3u8
-#EXTINF:0,NR: Viasat Film Action
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4433.m3u8
-#EXTINF:0,NR: TV3 Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4430.m3u8
-#EXTINF:0,NR: TV3 Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4429.m3u8
-#EXTINF:0,NR: MTV Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4428.m3u8
-#EXTINF:0,NR: MTV Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4427.m3u8
-#EXTINF:0,NR: Eurosport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4425.m3u8
-#EXTINF:0,NR: DR 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4434.m3u8
+#EXTINF:0,FR Bein 2 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/178.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,FR Bein 1 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/177.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTK Toksor
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/176.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Klan Plus HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/175.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Elrodi TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/174.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,BT SPORT 2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/173.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,BT SPORT 1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/172.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Sky Sport News UK
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/166.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Sky Sport F1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/171.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Sky Sport 5 UK
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/170.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Sky Sport 4 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/169.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Sky Sport 3 UK
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/168.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Sky Sport 2 UK
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/167.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,VOX
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/160.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Kabel 1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/161.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tirana TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/159.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SKY SPORT 2 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/133.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SKY SPORT 1 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/132.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SKY BUNDESLIGA HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/134.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SK 3 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/127.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SK 2 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/126.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SK 1 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/125.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ARENA SPORT 4 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/131.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ARENA SPORT 3 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/130.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ARENA SPORT 2 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/129.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ARENA SPORT 1 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/128.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Top Channel HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/104.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,T Channel HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/111.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Autor
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/121.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,T Stinet
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/112.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTV 21 Plus
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/118.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTV 21 Mix
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/119.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTV 21 Junior
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/120.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Plus HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/108.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Klan HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/103.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,HRT 4
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/116.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,HRT 3
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/115.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,HRT 2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/114.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Thriller
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/107.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Nje HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/109.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Hits
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/105.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Dy HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/110.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Drame
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/106.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Explorer Histori
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/117.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Digi Gold
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/113.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Vizion Plus EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/93.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Vizion Plus
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/6.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,TVSH EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/88.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,TRT Turk
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/86.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring World
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/23.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Tring
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/54.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Super
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/51.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Sport 1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/28.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Shqip
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/40.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Planet
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/22.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Max
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/49.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Life
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/50.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring History
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/24.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Fantasy
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/47.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring Comedy
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/48.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tring 3 Plus
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/41.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Travel Channel
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/27.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Top News
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/19.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Top Channel EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/91.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Top Channel
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/4.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tip Tv
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/59.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Tennis HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/37.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 4 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/72.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 4 EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/102.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 4
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/32.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 3 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/71.ts$OPT:http-user-agent=iHATVShqip/6.1 
+#EXTINF:0,SuperSport 3 EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/101.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 3
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/31.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 2 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/70.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 2 EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/100.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/30.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 1 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/69.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 1 EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/99.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SuperSport 1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/29.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Super RTL
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/82.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,STV Folk
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/63.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SS Kosova 2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/34.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,SS Kosova 1 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/33.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Smile
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/53.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTV Islam
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/68.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTV 21 Sat
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/8.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0; RTV 21 Popullore
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/61.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTV 21 EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/96.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTL 2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/81.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTL
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/80.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTK EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/89.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,RTK
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/2.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Rrokum HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/20.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Rai News
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/73.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Rai 2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/75.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Rai 1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/74.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ProSieben
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/79.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Peace TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/67.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Omega News
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/87.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,NEWS 24
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/16.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,My Music
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/64.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,MotorsTV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/38.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Mktv2 EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/90.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Mktv2
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/3.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Living HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/52.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,KTV EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/95.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,KTV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/7.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,KlanTV EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/92.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Klan TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/5.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Klan Kosova EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/97.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Klan Kosova
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/9.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Junior TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/60.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Jolly HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/39.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,HRT 1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/77.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Folklorit
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/62.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Folk +
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/66.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,First Channel
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/21.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Nje SD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/42.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Komedi
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/46.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Hits +1
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/44.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Dy SD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/43.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Film Aksion
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/45.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Explorer Shkencл
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/25.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Explorer Natyra
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/26.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Eurosport2 HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/36.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Eurosport HD
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/35.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,EuroNews
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/78.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,EraTV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/11.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Duck TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/57.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Cufo TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/58.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Channel One
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/13.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Bloomberg
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/84.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,BBF Music TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/65.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,BBC World
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/85.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Bang Bang
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/55.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Baby TV
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/56.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,AS EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/94.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ARTA
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/15.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Alsat-M EST
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/98.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Alsat-M
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/10.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Aljazeera English
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/83.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Aljazeera Balkan
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/76.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ALBTV Usa
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/14.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,Agon Channel
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/12.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,ABC News
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/17.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,7News
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/18.ts$OPT:http-user-agent=iHATVShqip/6.1
+#EXTINF:0,TVSH
+http://local.goldtv.al:8000/live/bledi/XHra7717cc6DNWpN57CcRnXYQw/1.ts$OPT:http-user-agent=iHATVShqip/6.1
