@@ -12,9 +12,9 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1,IDMAN TV AZERB,
- http://91.204.214.106:23311/stolen/436t/backdoor.hfs
- #EXTINF:-1,BT SPORT 1 HD,
+#EXTINF:-1,IDMAN TV AZERB
+http://91.204.214.106:23311/stolen/436t/backdoor.hfs
+#EXTINF:-1,BT SPORT 1 HD
  http://02e4.vp9.tv/chn/btsu1/v.m3u8
  #EXTINF:-1,BT SPORT 2 HD,
  http://02e4.vp9.tv/chn/btsu2/v.m3u8
