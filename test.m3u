@@ -13,75 +13,20 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:0, BT SPORT 1 HD
- http://02e4.vp9.tv/chn/btsu1/v.m3u8
- #EXTINF:0, BT SPORT 2 HD
- http://02e4.vp9.tv/chn/btsu2/v.m3u8
-
-#EXTINF:-1,LIG TV
- http://92.222.205.40:8080/superlig
-
+#EXTINF:0,BT SPORT 1 HD
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+#EXTINF:0, BT SPORT 2 HD
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1,Eurosport 1 ENG
-
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
 #EXTINF:-1,EUROSPORT 1 FR
-
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-
-#EXTINF:-1,RED BULL
- http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
-#EXTINF:-1,BT Sport Europe UK
- acestream://5e6aaac0404893cc6d85145bb988f93052d55086
- #EXTINF:-1,beIN Sports 2 HD France
- acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
- #EXTINF:-1,Setanta Sports Eurasia HD (ru/en)
- acestream://4f341d4014b588016bdc636b906b880af6a26e63
- #EXTINF:-1,NTV+ Futbol 3 HD Russia / НТВ+ Футбол 3 HD
- acestream://935250f13e917237bf49a4f9750406620f30b467
- #EXTINF:-1,Sky Calcio Italy (av11)
- acestream://2a6ee69775a62560445f9c4cf7f35a891679e231
-#EXTINF:-1,Benfica TV2 Portugal
- acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6
- #EXTINF:-1,Sport 1 Czech
- acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60
- #EXTINF:-1,Viasat Fotboll Sweden
- acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d
-
 #EXTINF:-1,beIN SPORTS 1HD EN
  http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
-
 #EXTINF:-1,beIN SPORTS 2HD EN
  http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
-
 #EXTINF:-1,beIN SPORTS 3HD EN
  http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,BT SPORT 1 HD
  http://02e4.vp9.tv/chn/btsu1/v.m3u8
  #EXTINF:-1,BT SPORT 2 HD
