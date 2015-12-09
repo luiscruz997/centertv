@@ -16,79 +16,79 @@ http://0.0.0.0:1234
 http://91.204.214.106:23311/stolen/436t/backdoor.hfs
 #EXTINF:-1,BT SPORT 1 HD
  http://02e4.vp9.tv/chn/btsu1/v.m3u8
- #EXTINF:-1,BT SPORT 2 HD,
+ #EXTINF:-1,BT SPORT 2 HD
  http://02e4.vp9.tv/chn/btsu2/v.m3u8
- #EXTINF:-1,ORANGE SPORT,
+ #EXTINF:-1,ORANGE SPORT
  rtmp://51.254.45.34/live/orangesport
-#EXTINF:-1, SUPER SPORT 1 HD,
+#EXTINF:-1, SUPER SPORT 1 HD
  http://skyiptv.ddns.net:8000/live/edi/edi/360.m3u8
-#EXTINF:-1, SUPER SPORT 2 HD,
+#EXTINF:-1, SUPER SPORT 2 HD
  http://skyiptv.ddns.net:8000/live/edi/edi/359.m3u8
- #EXTINF:-1,SUPER SPORT 3 HD,
+ #EXTINF:-1,SUPER SPORT 3 HD
  http://skyiptv.ddns.net:8000/live/edi/edi/358.m3u8
- #EXTINF:-1,SUPER SPORT 4 HD,
+ #EXTINF:-1,SUPER SPORT 4 HD
  http://skyiptv.ddns.net:8000/live/edi/edi/357.m3u8
-#EXTINF:-1, BEIN SPORT 1 HD,
+#EXTINF:-1, BEIN SPORT 1 HD
  http://162.253.128.170:1935/boxlivetv/bein1001/playlist.m3u8
-#EXTINF:-1, Sky Sport 24 HD,
+#EXTINF:-1, Sky Sport 24 HD
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/32.m3u8
-#EXTINF:-1, Sky Sport 1 HD,
+#EXTINF:-1, Sky Sport 1 HD
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/33.m3u8
-#EXTINF:-1, Sky Sport 2 HD,
+#EXTINF:-1, Sky Sport 2 HD
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/34.m3u8
-#EXTINF:-1, Sky Sport 3 HD,
+#EXTINF:-1, Sky Sport 3 HD
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/35.m3u8
-#EXTINF:-1, Sky Sport Plus HD,
+#EXTINF:-1, Sky Sport Plus HD
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/36.m3u8
-#EXTINF:-1, Fox Sport HD,
+#EXTINF:-1, Fox Sport HD
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/39.m3u8
-#EXTINF:-1, Moto Gp,
+#EXTINF:-1, Moto Gp
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/38.m3u8
- #EXTINF:-1,Sky Sport F1,
+ #EXTINF:-1,Sky Sport F1
  http://sky-iptv.dyndns.org:8000/live/gianni/gianni/37.m3u8
-#EXTINF:-1, BEIN SPORTS,
+#EXTINF:-1, BEIN SPORTS
  http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/02.m3u8
- #EXTINF:-1,BEIN SPORTS,
+ #EXTINF:-1,BEIN SPORTS
  http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
-#EXTINF:-1, BEIN SPORTS,
+#EXTINF:-1, BEIN SPORTS
  http://yiptv5-live.hls.adaptive.level3.net//yiptv5/beinespgov/03.m3u8
-#EXTINF:-1, VIASAT SPORT BALTIC,
+#EXTINF:-1, VIASAT SPORT BALTIC
  http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
-#EXTINF:-1, VIASAT SPORT,
+#EXTINF:-1, VIASAT SPORT
  http://195.2.236.22:4022/udp/225.1.3.101:4001
-#EXTINF:-1, VIASAT SPORT,
+#EXTINF:-1, VIASAT SPORT
  http://188.17.143.39/hls/CH_C01_VIASATSPORT/variant.m3u8?version=2
-#EXTINF:-1, VIASAT SPORT RUS,
+#EXTINF:-1, VIASAT SPORT RUS
  http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1, VIASAT SPORT RUS,
+#EXTINF:-1, VIASAT SPORT RUS
  http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1, VIASAT SPORT RUS,
+#EXTINF:-1, VIASAT SPORT RUS
  http://109.254.88.12:81/udp/238.1.1.113:1234
-#EXTINF:-1, VIASAT SPORT RUS,
+#EXTINF:-1, VIASAT SPORT RUS
  http://5.149.216.36:7781/udp/239.0.0.179:4000
-#EXTINF:-1, VIASAT SPORT RUS,
+#EXTINF:-1, VIASAT SPORT RUS
  http://j.mp/ZCH_C01_VIASATSPORT_sly
-#EXTINF:-1, RUS MATTS,
+#EXTINF:-1, RUS MATTS
  http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
-#EXTINF:-1, RUS MATTS,
+#EXTINF:-1, RUS MATTS
  http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1, RUS MATTS,
+#EXTINF:-1, RUS MATTS
  http://4.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://4.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://217.12.78.251:4022/udp/238.0.5.13:1234
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://j.mp/FOOTBALL_sly
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://hls.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:-1, FUTBOL UKR,
+#EXTINF:-1, FUTBOL UKR
  http://slynet.8nio.com/mn_ntvfootball_sly.m3u8
 #EXTINF:-1, FUTBOL UKR,
  http://hls.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
